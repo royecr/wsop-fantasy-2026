@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-16T10:07:45.888901+00:00",
-    "duration_seconds": 0.0,
+    "fetched_at": "2026-05-16T11:11:26.249872+00:00",
+    "duration_seconds": 12.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,16 +12,170 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 0,
-        "errors": 1
+        "events": 7,
+        "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 0
+      "total_players_with_chips": 9
     }
   },
   "events": [],
-  "players": {}
+  "players": {
+    "ג'ק סינקלייר": {
+      "name_he": "ג'ק סינקלייר",
+      "name_en": "Jack Sinclair",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249656+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בן לאמב": {
+      "name_he": "בן לאמב",
+      "name_en": "Ben Lamb",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249683+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249691+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 75436,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249695+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "קני הלארט": {
+      "name_he": "קני הלארט",
+      "name_en": "Kenny Hallaert",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249701+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ו מקיהן": {
+      "name_he": "ג'ו מקיהן",
+      "name_en": "Joe McKeehen",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249706+00:00",
+      "live_chips": [
+        {
+          "event_no": 23337,
+          "event_title": "2015",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בוריס אנגלוב": {
+      "name_he": "בוריס אנגלוב",
+      "name_en": "Boris Anglov",
+      "category": "מיד סטייקס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249717+00:00",
+      "live_chips": [
+        {
+          "event_no": 46600,
+          "event_title": "2024",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בריאן קים": {
+      "name_he": "בריאן קים",
+      "name_en": "Brian Kim",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249724+00:00",
+      "live_chips": [
+        {
+          "event_no": 46600,
+          "event_title": "2024",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריס הוניצ'ן": {
+      "name_he": "כריס הוניצ'ן",
+      "name_en": "Chris Hunichen",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-16T11:11:26.249727+00:00",
+      "live_chips": [
+        {
+          "event_no": 51022,
+          "event_title": "Marius Kudzmanas Cracks Kings With 6-7 to Win Historic WSOPE Main Event",
+          "chips": 800000,
+          "source": "pokernews.com"
+        }
+      ]
+    }
+  }
 }
