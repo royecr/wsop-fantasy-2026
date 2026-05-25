@@ -383,7 +383,7 @@ const PLAYERS = [{"h":"פיל הלמות'","e":"Phil Hellmuth","cat":"מיקסד
 // ===========================================================================
 
 // PLAYERS array is injected before this script runs.
-const STORAGE_KEY = 'wsop_fantasy_2026_state_v3';
+const STORAGE_KEY = 'wsop_fantasy_2026_state_v4';
 const TODAY_ISO = () => new Date().toISOString();
 const BUDGET_CAP = 200;
 const MAX_ROSTER = 15;
@@ -432,8 +432,8 @@ const DEFAULT_ROSTER = [
 ];
 const DEFAULT_BENCH = ["מייק גורודינסקי", "דניאל ספיול", "כריסטיאן הארדר", "דקל באלאס"];
 const DEFAULT_CAPTAIN = "ארי אנגל";
-// Strategy: Triple Captain on Engel during Millionaire Maker week (June 17-23)
-const DEFAULT_TRIPLE_CAP = { player: "ארי אנגל", weekStart: "2026-06-17", weekEnd: "2026-06-24", used: false };
+// Triple Captain starts EMPTY — the user activates it themselves (planned for Millionaire Maker week, June 17-23)
+const DEFAULT_TRIPLE_CAP = { player: null, weekStart: null, weekEnd: null, used: false };
 
 const DEFAULT_STATE = {
   team: {
