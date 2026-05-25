@@ -383,7 +383,7 @@ const PLAYERS = [{"h":"פיל הלמות'","e":"Phil Hellmuth","cat":"מיקסד
 // ===========================================================================
 
 // PLAYERS array is injected before this script runs.
-const STORAGE_KEY = 'wsop_fantasy_2026_state_v2';
+const STORAGE_KEY = 'wsop_fantasy_2026_state_v3';
 const TODAY_ISO = () => new Date().toISOString();
 const BUDGET_CAP = 200;
 const MAX_ROSTER = 15;
@@ -424,21 +424,23 @@ const DEFAULT_SCORING = {
   triple_captain_multiplier: 3.0,
 };
 
-// The user's starting roster — populated on first load
+// The user's FINAL V3 starting roster — populated on first load
 const DEFAULT_ROSTER = [
   "שון דיב", "ארי אנגל", "ברק וייסברוד", "ג'סי לוניס", "קני הלארט",
-  "דן זאק", "רן לין", "דניאל ויינמן", "אריק וואסרסון", "דניאל ספיול",
+  "דן זאק", "רן לין", "דניאל ויינמן", "אריק וואסרסון", "ג'סטין ליברטו",
   "אית'ן 'ראמפייג' יאו", "אדם הנדריקס", "דניאל רזאי", "טום כהן", "גל נעים",
 ];
-const DEFAULT_BENCH = ["מאט גלאנץ", "כריסטיאן הארדר", "ג'סטין ליברטו", "דקל באלאס"];
+const DEFAULT_BENCH = ["מייק גורודינסקי", "דניאל ספיול", "כריסטיאן הארדר", "דקל באלאס"];
 const DEFAULT_CAPTAIN = "ארי אנגל";
+// Strategy: Triple Captain on Engel during Millionaire Maker week (June 17-23)
+const DEFAULT_TRIPLE_CAP = { player: "ארי אנגל", weekStart: "2026-06-17", weekEnd: "2026-06-24", used: false };
 
 const DEFAULT_STATE = {
   team: {
     roster: [...DEFAULT_ROSTER],
     bench: [...DEFAULT_BENCH],
     captain: DEFAULT_CAPTAIN,
-    tripleCap: { player: null, weekStart: null, weekEnd: null, used: false },
+    tripleCap: { ...DEFAULT_TRIPLE_CAP },
     benchActivations: {}
   },
   scoring: JSON.parse(JSON.stringify(DEFAULT_SCORING)),
@@ -632,16 +634,16 @@ function clearTeam() {
 }
 
 function restoreDefaultTeam() {
-  if (!confirm('לשחזר את נבחרת ברירת המחדל שהוגדרה?')) return;
+  if (!confirm('לשחזר את נבחרת ברירת המחדל (V3) שהוגדרה?')) return;
   state.team = JSON.parse(JSON.stringify({
     roster: [...DEFAULT_ROSTER],
     bench: [...DEFAULT_BENCH],
     captain: DEFAULT_CAPTAIN,
-    tripleCap: { player: null, weekStart: null, weekEnd: null, used: false },
+    tripleCap: { ...DEFAULT_TRIPLE_CAP },
     benchActivations: {}
   }));
   saveState(); renderAll();
-  showToast('נבחרת ברירת המחדל שוחזרה', 'success');
+  showToast('נבחרת V3 שוחזרה', 'success');
 }
 
 // ===========================================================================
