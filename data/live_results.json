@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-27T12:38:54.810696+00:00",
-    "duration_seconds": 13.1,
+    "fetched_at": "2026-05-27T15:18:59.672543+00:00",
+    "duration_seconds": 15.0,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,7 +12,7 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 8,
+        "events": 10,
         "errors": 0
       }
     ],
@@ -24,23 +24,6 @@
   },
   "events": [],
   "players": {
-    "יורי דזיבילבסקי": {
-      "name_he": "יורי דזיבילבסקי",
-      "name_en": "Yuri Dzivielevski",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-05-27T12:38:54.810387+00:00",
-      "live_chips": [
-        {
-          "event_no": 2,
-          "event_title": "Event #2: $5,000 8-Handed No-Limit Hold’em",
-          "chips": 715000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "יוליאן קולב": {
       "name_he": "יוליאן קולב",
       "name_en": "Yulian Kolev",
@@ -48,7 +31,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810446+00:00",
+      "last_update": "2026-05-27T15:18:59.672271+00:00",
       "live_chips": [
         {
           "event_no": 2,
@@ -65,7 +48,24 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810462+00:00",
+      "last_update": "2026-05-27T15:18:59.672309+00:00",
+      "live_chips": [
+        {
+          "event_no": 2,
+          "event_title": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+          "chips": 316500,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מרטין קברל": {
+      "name_he": "מרטין קברל",
+      "name_en": "Martin Kabrhel",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-27T15:18:59.672317+00:00",
       "live_chips": [
         {
           "event_no": 2,
@@ -82,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810471+00:00",
+      "last_update": "2026-05-27T15:18:59.672326+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810478+00:00",
+      "last_update": "2026-05-27T15:18:59.672334+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810484+00:00",
+      "last_update": "2026-05-27T15:18:59.672340+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810488+00:00",
+      "last_update": "2026-05-27T15:18:59.672343+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810495+00:00",
+      "last_update": "2026-05-27T15:18:59.672351+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -167,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810500+00:00",
+      "last_update": "2026-05-27T15:18:59.672356+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -184,7 +184,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810507+00:00",
+      "last_update": "2026-05-27T15:18:59.672363+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -201,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-27T12:38:54.810513+00:00",
+      "last_update": "2026-05-27T15:18:59.672369+00:00",
       "live_chips": [
         {
           "event_no": 46600,
