@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-26T23:51:39.343459+00:00",
-    "duration_seconds": 12.0,
+    "fetched_at": "2026-05-27T12:38:54.810696+00:00",
+    "duration_seconds": 13.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,62 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 11
     }
   },
   "events": [],
   "players": {
+    "יורי דזיבילבסקי": {
+      "name_he": "יורי דזיבילבסקי",
+      "name_en": "Yuri Dzivielevski",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-27T12:38:54.810387+00:00",
+      "live_chips": [
+        {
+          "event_no": 2,
+          "event_title": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+          "chips": 715000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "יוליאן קולב": {
+      "name_he": "יוליאן קולב",
+      "name_en": "Yulian Kolev",
+      "category": "מיד סטייקס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-27T12:38:54.810446+00:00",
+      "live_chips": [
+        {
+          "event_no": 2,
+          "event_title": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+          "chips": 470500,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "רן לין": {
+      "name_he": "רן לין",
+      "name_en": "Ren Lin",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-27T12:38:54.810462+00:00",
+      "live_chips": [
+        {
+          "event_no": 2,
+          "event_title": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343295+00:00",
+      "last_update": "2026-05-27T12:38:54.810471+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343314+00:00",
+      "last_update": "2026-05-27T12:38:54.810478+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343322+00:00",
+      "last_update": "2026-05-27T12:38:54.810484+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343326+00:00",
+      "last_update": "2026-05-27T12:38:54.810488+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343332+00:00",
+      "last_update": "2026-05-27T12:38:54.810495+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343337+00:00",
+      "last_update": "2026-05-27T12:38:54.810500+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +184,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343346+00:00",
+      "last_update": "2026-05-27T12:38:54.810507+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-26T23:51:39.343353+00:00",
+      "last_update": "2026-05-27T12:38:54.810513+00:00",
       "live_chips": [
         {
           "event_no": 46600,
