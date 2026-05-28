@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-28T11:06:04.148514+00:00",
-    "duration_seconds": 19.7,
+    "fetched_at": "2026-05-28T20:40:00.798728+00:00",
+    "duration_seconds": 18.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 10,
+        "events": 12,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 10
+      "total_players_with_chips": 9
     }
   },
   "events": [],
@@ -31,29 +31,12 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148291+00:00",
+      "last_update": "2026-05-28T20:40:00.798509+00:00",
       "live_chips": [
         {
           "event_no": 1,
           "event_title": "Event #1: $550 Mini Mystery Millions",
           "chips": 2800000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דקל באלאס": {
-      "name_he": "דקל באלאס",
-      "name_en": "Dekel Balas",
-      "category": "ישראלים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-05-28T11:06:04.148329+00:00",
-      "live_chips": [
-        {
-          "event_no": 4,
-          "event_title": "Event #4: $1,500 Omaha Hi-Lo 8 or Better",
-          "chips": 354000,
           "source": "pokernews.com"
         }
       ]
@@ -65,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148337+00:00",
+      "last_update": "2026-05-28T20:40:00.798536+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148343+00:00",
+      "last_update": "2026-05-28T20:40:00.798544+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148348+00:00",
+      "last_update": "2026-05-28T20:40:00.798550+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148350+00:00",
+      "last_update": "2026-05-28T20:40:00.798554+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148356+00:00",
+      "last_update": "2026-05-28T20:40:00.798560+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148361+00:00",
+      "last_update": "2026-05-28T20:40:00.798565+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -167,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148366+00:00",
+      "last_update": "2026-05-28T20:40:00.798573+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -184,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T11:06:04.148371+00:00",
+      "last_update": "2026-05-28T20:40:00.798579+00:00",
       "live_chips": [
         {
           "event_no": 46600,
