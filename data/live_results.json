@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-29T18:43:03.115165+00:00",
-    "duration_seconds": 24.2,
+    "fetched_at": "2026-05-29T23:51:05.640256+00:00",
+    "duration_seconds": 21.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 12
+      "total_players_with_chips": 9
     }
   },
   "events": [],
@@ -31,63 +31,12 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.114878+00:00",
+      "last_update": "2026-05-29T23:51:05.639920+00:00",
       "live_chips": [
         {
           "event_no": 1,
           "event_title": "Event #1: $550 Mini Mystery Millions",
           "chips": 1200000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "רן לין": {
-      "name_he": "רן לין",
-      "name_en": "Ren Lin",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-05-29T18:43:03.114947+00:00",
-      "live_chips": [
-        {
-          "event_no": 2,
-          "event_title": "Event #2: $5,000 8-Handed No-Limit Hold’em",
-          "chips": 3000000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-05-29T18:43:03.114953+00:00",
-      "live_chips": [
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $5,000 Pot-Limit Omaha",
-          "chips": 906000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "בריאן יון": {
-      "name_he": "בריאן יון",
-      "name_en": "Brian Yoon",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-05-29T18:43:03.114958+00:00",
-      "live_chips": [
-        {
-          "event_no": 6,
-          "event_title": "Event #6: $1,500 Seven Card Stud",
-          "chips": 326500,
           "source": "pokernews.com"
         }
       ]
@@ -99,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.114965+00:00",
+      "last_update": "2026-05-29T23:51:05.639982+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.114971+00:00",
+      "last_update": "2026-05-29T23:51:05.639991+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.114978+00:00",
+      "last_update": "2026-05-29T23:51:05.639998+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.114982+00:00",
+      "last_update": "2026-05-29T23:51:05.640001+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -167,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.114988+00:00",
+      "last_update": "2026-05-29T23:51:05.640008+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -184,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.114993+00:00",
+      "last_update": "2026-05-29T23:51:05.640013+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -201,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.115000+00:00",
+      "last_update": "2026-05-29T23:51:05.640025+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -218,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-29T18:43:03.115006+00:00",
+      "last_update": "2026-05-29T23:51:05.640031+00:00",
       "live_chips": [
         {
           "event_no": 46600,
