@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-28T20:40:00.798728+00:00",
-    "duration_seconds": 18.2,
+    "fetched_at": "2026-05-29T08:59:09.592587+00:00",
+    "duration_seconds": 18.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,24 +19,58 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 11
     }
   },
   "events": [],
   "players": {
-    "טל אביבי": {
-      "name_he": "טל אביבי",
-      "name_en": "Tal Avivi",
-      "category": "ישראלים",
+    "פיליפ הוי": {
+      "name_he": "פיליפ הוי",
+      "name_en": "Phillip Hui",
+      "category": "מיקסד גיימס",
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798509+00:00",
+      "last_update": "2026-05-29T08:59:09.592397+00:00",
       "live_chips": [
         {
           "event_no": 1,
           "event_title": "Event #1: $550 Mini Mystery Millions",
-          "chips": 2800000,
+          "chips": 1200000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "רן לין": {
+      "name_he": "רן לין",
+      "name_en": "Ren Lin",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-29T08:59:09.592428+00:00",
+      "live_chips": [
+        {
+          "event_no": 2,
+          "event_title": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+          "chips": 3000000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סי לוניס": {
+      "name_he": "ג'סי לוניס",
+      "name_en": "Jesse Lonis",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-29T08:59:09.592433+00:00",
+      "live_chips": [
+        {
+          "event_no": 5,
+          "event_title": "Event #5: $5,000 Pot-Limit Omaha",
+          "chips": 906000,
           "source": "pokernews.com"
         }
       ]
@@ -48,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798536+00:00",
+      "last_update": "2026-05-29T08:59:09.592441+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798544+00:00",
+      "last_update": "2026-05-29T08:59:09.592446+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798550+00:00",
+      "last_update": "2026-05-29T08:59:09.592452+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798554+00:00",
+      "last_update": "2026-05-29T08:59:09.592455+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798560+00:00",
+      "last_update": "2026-05-29T08:59:09.592466+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798565+00:00",
+      "last_update": "2026-05-29T08:59:09.592471+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -150,7 +184,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798573+00:00",
+      "last_update": "2026-05-29T08:59:09.592477+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -167,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-28T20:40:00.798579+00:00",
+      "last_update": "2026-05-29T08:59:09.592482+00:00",
       "live_chips": [
         {
           "event_no": 46600,
