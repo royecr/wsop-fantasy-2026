@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-30T09:04:33.384235+00:00",
-    "duration_seconds": 17.8,
+    "fetched_at": "2026-05-30T14:53:28.234092+00:00",
+    "duration_seconds": 18.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 11,
+        "events": 12,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 10
+      "total_players_with_chips": 11
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.383992+00:00",
+      "last_update": "2026-05-30T14:53:28.233824+00:00",
       "live_chips": [
         {
           "event_no": 5,
@@ -48,12 +48,29 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384018+00:00",
+      "last_update": "2026-05-30T14:53:28.233854+00:00",
       "live_chips": [
         {
           "event_no": 6,
           "event_title": "Event #6: $1,500 Seven Card Stud",
           "chips": 1200000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מאט וונטמן": {
+      "name_he": "מאט וונטמן",
+      "name_en": "Matt Wantman",
+      "category": "מיקסד גיימס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-30T14:53:28.233882+00:00",
+      "live_chips": [
+        {
+          "event_no": 8,
+          "event_title": "Event #8: $1,500 Badugi",
+          "chips": 292000,
           "source": "pokernews.com"
         }
       ]
@@ -65,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384040+00:00",
+      "last_update": "2026-05-30T14:53:28.233890+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384047+00:00",
+      "last_update": "2026-05-30T14:53:28.233898+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384053+00:00",
+      "last_update": "2026-05-30T14:53:28.233904+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384056+00:00",
+      "last_update": "2026-05-30T14:53:28.233908+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384072+00:00",
+      "last_update": "2026-05-30T14:53:28.233915+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384078+00:00",
+      "last_update": "2026-05-30T14:53:28.233920+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -167,7 +184,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384088+00:00",
+      "last_update": "2026-05-30T14:53:28.233929+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -184,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T09:04:33.384094+00:00",
+      "last_update": "2026-05-30T14:53:28.233934+00:00",
       "live_chips": [
         {
           "event_no": 46600,
