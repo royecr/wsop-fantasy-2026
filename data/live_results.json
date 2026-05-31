@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-31T15:05:23.115442+00:00",
-    "duration_seconds": 32.0,
+    "fetched_at": "2026-05-31T19:59:48.644887+00:00",
+    "duration_seconds": 23.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,60 +12,31 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 15,
+        "events": 13,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 15
+      "total_players_with_chips": 14
     }
   },
   "events": [],
   "players": {
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-05-31T15:05:23.115154+00:00",
-      "live_chips": [
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $5,000 Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $5,000 Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "בריאן יון": {
-      "name_he": "בריאן יון",
-      "name_en": "Brian Yoon",
-      "category": "מיקסד גיימס",
+    "טל אביבי": {
+      "name_he": "טל אביבי",
+      "name_en": "Tal Avivi",
+      "category": "ישראלים",
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115183+00:00",
+      "last_update": "2026-05-31T19:59:48.644615+00:00",
       "live_chips": [
         {
-          "event_no": 6,
-          "event_title": "Event #6: $1,500 Seven Card Stud",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 6,
-          "event_title": "Event #6: $1,500 Seven Card Stud",
-          "chips": 0,
+          "event_no": 1,
+          "event_title": "Event #1: $550 Mini Mystery Millions",
+          "chips": 2775000,
           "source": "pokernews.com"
         }
       ]
@@ -77,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115188+00:00",
+      "last_update": "2026-05-31T19:59:48.644639+00:00",
       "live_chips": [
         {
           "event_no": 8,
@@ -94,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115192+00:00",
+      "last_update": "2026-05-31T19:59:48.644643+00:00",
       "live_chips": [
         {
           "event_no": 8,
@@ -111,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115208+00:00",
+      "last_update": "2026-05-31T19:59:48.644650+00:00",
       "live_chips": [
         {
           "event_no": 8,
@@ -128,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115212+00:00",
+      "last_update": "2026-05-31T19:59:48.644653+00:00",
       "live_chips": [
         {
           "event_no": 9,
@@ -145,7 +116,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115216+00:00",
+      "last_update": "2026-05-31T19:59:48.644658+00:00",
       "live_chips": [
         {
           "event_no": 9,
@@ -162,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115234+00:00",
+      "last_update": "2026-05-31T19:59:48.644667+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -179,7 +150,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115241+00:00",
+      "last_update": "2026-05-31T19:59:48.644674+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -196,7 +167,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115247+00:00",
+      "last_update": "2026-05-31T19:59:48.644680+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -213,7 +184,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115250+00:00",
+      "last_update": "2026-05-31T19:59:48.644684+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -230,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115256+00:00",
+      "last_update": "2026-05-31T19:59:48.644689+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -247,7 +218,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115261+00:00",
+      "last_update": "2026-05-31T19:59:48.644694+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -264,7 +235,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115271+00:00",
+      "last_update": "2026-05-31T19:59:48.644702+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -281,7 +252,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T15:05:23.115277+00:00",
+      "last_update": "2026-05-31T19:59:48.644708+00:00",
       "live_chips": [
         {
           "event_no": 46600,
