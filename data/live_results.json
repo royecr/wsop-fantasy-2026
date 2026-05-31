@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-30T22:33:57.972681+00:00",
-    "duration_seconds": 20.0,
+    "fetched_at": "2026-05-31T09:38:53.595473+00:00",
+    "duration_seconds": 19.9,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,142 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 15
     }
   },
   "events": [],
   "players": {
+    "ג'סי לוניס": {
+      "name_he": "ג'סי לוניס",
+      "name_en": "Jesse Lonis",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-31T09:38:53.595173+00:00",
+      "live_chips": [
+        {
+          "event_no": 5,
+          "event_title": "Event #5: $5,000 Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 5,
+          "event_title": "Event #5: $5,000 Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בריאן יון": {
+      "name_he": "בריאן יון",
+      "name_en": "Brian Yoon",
+      "category": "מיקסד גיימס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-31T09:38:53.595203+00:00",
+      "live_chips": [
+        {
+          "event_no": 6,
+          "event_title": "Event #6: $1,500 Seven Card Stud",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 6,
+          "event_title": "Event #6: $1,500 Seven Card Stud",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "סקוט סיבר": {
+      "name_he": "סקוט סיבר",
+      "name_en": "Scott Seiver",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-31T09:38:53.595209+00:00",
+      "live_chips": [
+        {
+          "event_no": 8,
+          "event_title": "Event #8: $1,500 Badugi",
+          "chips": 2120000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ניק שולמן": {
+      "name_he": "ניק שולמן",
+      "name_en": "Nick Schulman",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-31T09:38:53.595213+00:00",
+      "live_chips": [
+        {
+          "event_no": 8,
+          "event_title": "Event #8: $1,500 Badugi",
+          "chips": 1985000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "יורי דזיבילבסקי": {
+      "name_he": "יורי דזיבילבסקי",
+      "name_en": "Yuri Dzivielevski",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-31T09:38:53.595226+00:00",
+      "live_chips": [
+        {
+          "event_no": 8,
+          "event_title": "Event #8: $1,500 Badugi",
+          "chips": 295000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'יימס אובסט": {
+      "name_he": "ג'יימס אובסט",
+      "name_en": "James Obst",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-31T09:38:53.595230+00:00",
+      "live_chips": [
+        {
+          "event_no": 9,
+          "event_title": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+          "chips": 332000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "רוברט מזרחי": {
+      "name_he": "רוברט מזרחי",
+      "name_en": "Robert Mizrachi",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-05-31T09:38:53.595234+00:00",
+      "live_chips": [
+        {
+          "event_no": 9,
+          "event_title": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+          "chips": 330000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +162,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972493+00:00",
+      "last_update": "2026-05-31T09:38:53.595250+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +179,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972516+00:00",
+      "last_update": "2026-05-31T09:38:53.595256+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +196,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972523+00:00",
+      "last_update": "2026-05-31T09:38:53.595272+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +213,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972527+00:00",
+      "last_update": "2026-05-31T09:38:53.595275+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +230,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972533+00:00",
+      "last_update": "2026-05-31T09:38:53.595282+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +247,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972538+00:00",
+      "last_update": "2026-05-31T09:38:53.595301+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +264,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972547+00:00",
+      "last_update": "2026-05-31T09:38:53.595311+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +281,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-30T22:33:57.972554+00:00",
+      "last_update": "2026-05-31T09:38:53.595317+00:00",
       "live_chips": [
         {
           "event_no": 46600,
