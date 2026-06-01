@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-05-31T23:47:40.932177+00:00",
-    "duration_seconds": 19.5,
+    "fetched_at": "2026-06-01T19:30:37.288982+00:00",
+    "duration_seconds": 28.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,18 +12,171 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 13,
+        "events": 15,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 17
     }
   },
   "events": [],
   "players": {
+    "ניק שולמן": {
+      "name_he": "ניק שולמן",
+      "name_en": "Nick Schulman",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288645+00:00",
+      "live_chips": [
+        {
+          "event_no": 8,
+          "event_title": "Chess Master Michael Casella Flips the Board on Poker Legends to Win First Bracelet",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "סקוט סיבר": {
+      "name_he": "סקוט סיבר",
+      "name_en": "Scott Seiver",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288672+00:00",
+      "live_chips": [
+        {
+          "event_no": 8,
+          "event_title": "Chess Master Michael Casella Flips the Board on Poker Legends to Win First Bracelet",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'וש אריה": {
+      "name_he": "ג'וש אריה",
+      "name_en": "Josh Arieh",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288677+00:00",
+      "live_chips": [
+        {
+          "event_no": 9,
+          "event_title": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+          "chips": 1120000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פיל הלמות'": {
+      "name_he": "פיל הלמות'",
+      "name_en": "Phil Hellmuth",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288680+00:00",
+      "live_chips": [
+        {
+          "event_no": 9,
+          "event_title": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+          "chips": 665000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'יימס אובסט": {
+      "name_he": "ג'יימס אובסט",
+      "name_en": "James Obst",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288684+00:00",
+      "live_chips": [
+        {
+          "event_no": 9,
+          "event_title": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+          "chips": 530000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברק וייסברוד": {
+      "name_he": "ברק וייסברוד",
+      "name_en": "Barak Wisbrod",
+      "category": "ישראלים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288718+00:00",
+      "live_chips": [
+        {
+          "event_no": 11,
+          "event_title": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em",
+          "chips": 443000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "רן לין": {
+      "name_he": "רן לין",
+      "name_en": "Ren Lin",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288741+00:00",
+      "live_chips": [
+        {
+          "event_no": 11,
+          "event_title": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "טל אביבי": {
+      "name_he": "טל אביבי",
+      "name_en": "Tal Avivi",
+      "category": "ישראלים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288758+00:00",
+      "live_chips": [
+        {
+          "event_no": 12,
+          "event_title": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
+          "chips": 400000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פטריק לאונרד": {
+      "name_he": "פטריק לאונרד",
+      "name_en": "Patrick Leonard",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-01T19:30:37.288762+00:00",
+      "live_chips": [
+        {
+          "event_no": 12,
+          "event_title": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
+          "chips": 379000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.931943+00:00",
+      "last_update": "2026-06-01T19:30:37.288769+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +201,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.931972+00:00",
+      "last_update": "2026-06-01T19:30:37.288775+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +218,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.931980+00:00",
+      "last_update": "2026-06-01T19:30:37.288780+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +235,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.931985+00:00",
+      "last_update": "2026-06-01T19:30:37.288783+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +252,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.931993+00:00",
+      "last_update": "2026-06-01T19:30:37.288788+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +269,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.931998+00:00",
+      "last_update": "2026-06-01T19:30:37.288793+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +286,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.932011+00:00",
+      "last_update": "2026-06-01T19:30:37.288813+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +303,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-05-31T23:47:40.932019+00:00",
+      "last_update": "2026-06-01T19:30:37.288821+00:00",
       "live_chips": [
         {
           "event_no": 46600,
