@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-05T18:31:13.841518+00:00",
-    "duration_seconds": 21.9,
+    "fetched_at": "2026-06-05T22:48:34.421931+00:00",
+    "duration_seconds": 17.9,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 11
+      "total_players_with_chips": 9
     }
   },
   "events": [],
@@ -31,46 +31,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841263+00:00",
+      "last_update": "2026-06-05T22:48:34.421689+00:00",
       "live_chips": [
         {
           "event_no": 18,
           "event_title": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
           "chips": 467500,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל רזאי": {
-      "name_he": "דניאל רזאי",
-      "name_en": "Daniel Rezaei",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-05T18:31:13.841304+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em",
-          "chips": 1176000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'ף מדסן": {
-      "name_he": "ג'ף מדסן",
-      "name_en": "Jeff Madsen",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-05T18:31:13.841312+00:00",
-      "live_chips": [
-        {
-          "event_no": 20,
-          "event_title": "Event #20: $1,500 Dealers Choice",
-          "chips": 750000,
           "source": "pokernews.com"
         }
       ]
@@ -82,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841320+00:00",
+      "last_update": "2026-06-05T22:48:34.421721+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841326+00:00",
+      "last_update": "2026-06-05T22:48:34.421730+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841332+00:00",
+      "last_update": "2026-06-05T22:48:34.421737+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841336+00:00",
+      "last_update": "2026-06-05T22:48:34.421741+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841343+00:00",
+      "last_update": "2026-06-05T22:48:34.421747+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -167,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841347+00:00",
+      "last_update": "2026-06-05T22:48:34.421753+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -184,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841355+00:00",
+      "last_update": "2026-06-05T22:48:34.421765+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -201,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T18:31:13.841361+00:00",
+      "last_update": "2026-06-05T22:48:34.421771+00:00",
       "live_chips": [
         {
           "event_no": 46600,
