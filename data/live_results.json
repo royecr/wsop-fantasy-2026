@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-04T23:57:11.578914+00:00",
-    "duration_seconds": 19.6,
+    "fetched_at": "2026-06-05T11:53:05.292369+00:00",
+    "duration_seconds": 25.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 10
+      "total_players_with_chips": 14
     }
   },
   "events": [],
@@ -31,12 +31,58 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578668+00:00",
+      "last_update": "2026-06-05T11:53:05.292018+00:00",
       "live_chips": [
         {
           "event_no": 11,
           "event_title": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em",
-          "chips": 7600000,
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון דיב": {
+      "name_he": "שון דיב",
+      "name_en": "Shaun Deeb",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-05T11:53:05.292038+00:00",
+      "live_chips": [
+        {
+          "event_no": 17,
+          "event_title": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 17,
+          "event_title": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דן שאק": {
+      "name_he": "דן שאק",
+      "name_en": "Dan Shak",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-05T11:53:05.292089+00:00",
+      "live_chips": [
+        {
+          "event_no": 17,
+          "event_title": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 17,
+          "event_title": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -48,12 +94,46 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578712+00:00",
+      "last_update": "2026-06-05T11:53:05.292099+00:00",
       "live_chips": [
         {
           "event_no": 18,
           "event_title": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
-          "chips": 404500,
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברק וייסברוד": {
+      "name_he": "ברק וייסברוד",
+      "name_en": "Barak Wisbrod",
+      "category": "ישראלים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-05T11:53:05.292108+00:00",
+      "live_chips": [
+        {
+          "event_no": 19,
+          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em",
+          "chips": 888000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ף מדסן": {
+      "name_he": "ג'ף מדסן",
+      "name_en": "Jeff Madsen",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-05T11:53:05.292113+00:00",
+      "live_chips": [
+        {
+          "event_no": 20,
+          "event_title": "Event #20: $1,500 Dealers Choice",
+          "chips": 750000,
           "source": "pokernews.com"
         }
       ]
@@ -65,7 +145,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578722+00:00",
+      "last_update": "2026-06-05T11:53:05.292121+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +162,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578729+00:00",
+      "last_update": "2026-06-05T11:53:05.292127+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +179,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578735+00:00",
+      "last_update": "2026-06-05T11:53:05.292133+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +196,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578739+00:00",
+      "last_update": "2026-06-05T11:53:05.292136+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +213,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578745+00:00",
+      "last_update": "2026-06-05T11:53:05.292142+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +230,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578751+00:00",
+      "last_update": "2026-06-05T11:53:05.292147+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -167,7 +247,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578761+00:00",
+      "last_update": "2026-06-05T11:53:05.292154+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -184,7 +264,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-04T23:57:11.578768+00:00",
+      "last_update": "2026-06-05T11:53:05.292160+00:00",
       "live_chips": [
         {
           "event_no": 46600,
