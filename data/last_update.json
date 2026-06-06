@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-06T08:18:07.603995+00:00",
-  "duration_seconds": 21.0,
+  "fetched_at": "2026-06-06T14:54:49.642578+00:00",
+  "duration_seconds": 21.8,
   "sources": [
     {
       "name": "WSOP.com",
@@ -11,13 +11,13 @@
     {
       "name": "PokerNews",
       "ok": true,
-      "events": 12,
+      "events": 13,
       "errors": 0
     }
   ],
   "summary": {
     "total_events_seen": 0,
     "total_players_with_points": 0,
-    "total_players_with_chips": 13
+    "total_players_with_chips": 19
   }
 }
