@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-05T22:48:34.421931+00:00",
-    "duration_seconds": 17.9,
+    "fetched_at": "2026-06-06T08:18:07.603995+00:00",
+    "duration_seconds": 21.0,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,24 +19,92 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 13
     }
   },
   "events": [],
   "players": {
-    "לירן בטיטו": {
-      "name_he": "לירן בטיטו",
-      "name_en": "Liran Betito",
-      "category": "ישראלים",
+    "ג'ף מדסן": {
+      "name_he": "ג'ף מדסן",
+      "name_en": "Jeff Madsen",
+      "category": "מיד סטייקס",
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421689+00:00",
+      "last_update": "2026-06-06T08:18:07.603732+00:00",
       "live_chips": [
         {
-          "event_no": 18,
-          "event_title": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
-          "chips": 467500,
+          "event_no": 20,
+          "event_title": "Event #20: $1,500 Dealers Choice",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דייוויד בנימין": {
+      "name_he": "דייוויד בנימין",
+      "name_en": "David Benyamine",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-06T08:18:07.603764+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 252000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פטריק לאונרד": {
+      "name_he": "פטריק לאונרד",
+      "name_en": "Patrick Leonard",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-06T08:18:07.603771+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 241000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלי אלעזרא": {
+      "name_he": "אלי אלעזרא",
+      "name_en": "Eli Elezra",
+      "category": "ישראלים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-06T08:18:07.603784+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 228000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מרקו ג'ונסון": {
+      "name_he": "מרקו ג'ונסון",
+      "name_en": "Marco Johnson",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-06T08:18:07.603790+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 198500,
           "source": "pokernews.com"
         }
       ]
@@ -48,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421721+00:00",
+      "last_update": "2026-06-06T08:18:07.603800+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421730+00:00",
+      "last_update": "2026-06-06T08:18:07.603806+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +150,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421737+00:00",
+      "last_update": "2026-06-06T08:18:07.603813+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +167,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421741+00:00",
+      "last_update": "2026-06-06T08:18:07.603816+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421747+00:00",
+      "last_update": "2026-06-06T08:18:07.603821+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421753+00:00",
+      "last_update": "2026-06-06T08:18:07.603834+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -150,7 +218,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421765+00:00",
+      "last_update": "2026-06-06T08:18:07.603845+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -167,7 +235,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-05T22:48:34.421771+00:00",
+      "last_update": "2026-06-06T08:18:07.603853+00:00",
       "live_chips": [
         {
           "event_no": 46600,
