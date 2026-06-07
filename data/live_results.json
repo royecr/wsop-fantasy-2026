@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-06T23:43:27.009535+00:00",
-    "duration_seconds": 19.5,
+    "fetched_at": "2026-06-07T10:15:12.477097+00:00",
+    "duration_seconds": 22.0,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,127 +19,233 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 24
+      "total_players_with_chips": 20
     }
   },
   "events": [],
   "players": {
-    "בריאן ראסט": {
-      "name_he": "בריאן ראסט",
-      "name_en": "Brian Rast",
-      "category": "מיקסד גיימס",
-      "price": 25,
+    "קריסטן פוקסן": {
+      "name_he": "קריסטן פוקסן",
+      "name_en": "Kristen Foxen",
+      "category": "היי רולרים",
+      "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009162+00:00",
+      "last_update": "2026-06-07T10:15:12.476766+00:00",
       "live_chips": [
         {
           "event_no": 19,
           "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 10,
+          "chips": 9325000,
           "source": "pokernews.com"
         }
       ]
     },
-    "צ'אנס קורנות'": {
-      "name_he": "צ'אנס קורנות'",
-      "name_en": "Chance Kornuth",
+    "ג'וש אריה": {
+      "name_he": "ג'וש אריה",
+      "name_en": "Josh Arieh",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476789+00:00",
+      "live_chips": [
+        {
+          "event_no": 21,
+          "event_title": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 21,
+          "event_title": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מייקל מזרחי": {
+      "name_he": "מייקל מזרחי",
+      "name_en": "Michael Mizrachi",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476793+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 1429000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריס ברואר": {
+      "name_he": "כריס ברואר",
+      "name_en": "Chris Brewer",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476798+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 1301000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'רמי אסמוס": {
+      "name_he": "ג'רמי אסמוס",
+      "name_en": "Jeremy Ausmus",
       "category": "היי רולרים",
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009197+00:00",
+      "last_update": "2026-06-07T10:15:12.476801+00:00",
       "live_chips": [
         {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 10,
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 702000,
           "source": "pokernews.com"
         }
       ]
     },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
+    "אלן קסלר": {
+      "name_he": "אלן קסלר",
+      "name_en": "Allen Kessler",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476840+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 582000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל ספיול": {
+      "name_he": "דניאל ספיול",
+      "name_en": "Daniel Sepiol",
+      "category": "מיד סטייקס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476853+00:00",
+      "live_chips": [
+        {
+          "event_no": 23,
+          "event_title": "Event #23: $10,000 Seven Card Stud Championship",
+          "chips": 187000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ניק שולמן": {
+      "name_he": "ניק שולמן",
+      "name_en": "Nick Schulman",
       "category": "מיקסד גיימס",
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009202+00:00",
+      "last_update": "2026-06-07T10:15:12.476857+00:00",
       "live_chips": [
         {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 10,
+          "event_no": 24,
+          "event_title": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+          "chips": 1215000,
           "source": "pokernews.com"
-        },
+        }
+      ]
+    },
+    "אדם הנדריקס": {
+      "name_he": "אדם הנדריקס",
+      "name_en": "Adam Hendrix",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476872+00:00",
+      "live_chips": [
         {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 26,
+          "event_no": 24,
+          "event_title": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+          "chips": 899000,
           "source": "pokernews.com"
-        },
+        }
+      ]
+    },
+    "סרחיו אאידו": {
+      "name_he": "סרחיו אאידו",
+      "name_en": "Sergio Aido",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476879+00:00",
+      "live_chips": [
         {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
+          "event_no": 24,
+          "event_title": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+          "chips": 858000,
           "source": "pokernews.com"
-        },
+        }
+      ]
+    },
+    "אריק סיידל": {
+      "name_he": "אריק סיידל",
+      "name_en": "Erik Seidel",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476883+00:00",
+      "live_chips": [
+        {
+          "event_no": 24,
+          "event_title": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+          "chips": 837000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דילן לינדה": {
+      "name_he": "דילן לינדה",
+      "name_en": "Dylan Linde",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476889+00:00",
+      "live_chips": [
+        {
+          "event_no": 24,
+          "event_title": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+          "chips": 801000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ק סינקלייר": {
+      "name_he": "ג'ק סינקלייר",
+      "name_en": "Jack Sinclair",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-07T10:15:12.476895+00:00",
+      "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
-          "chips": 71776,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מרטין קברל": {
-      "name_he": "מרטין קברל",
-      "name_en": "Martin Kabrhel",
-      "category": "מיד סטייקס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009223+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 10,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "סטיבן צ'ידוויק": {
-      "name_he": "סטיבן צ'ידוויק",
-      "name_en": "Stephen Chidwick",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009228+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 10,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 22,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
           "chips": 0,
           "source": "pokernews.com"
         }
@@ -152,116 +258,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009247+00:00",
+      "last_update": "2026-06-07T10:15:12.476904+00:00",
       "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 11,
-          "source": "pokernews.com"
-        },
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אייק הקסטון": {
-      "name_he": "אייק הקסטון",
-      "name_en": "Isaac Haxton",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009253+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 11,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'ייסון קון": {
-      "name_he": "ג'ייסון קון",
-      "name_en": "Jason Koon",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009259+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 12,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 20,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אדריאן מתיאוס": {
-      "name_he": "אדריאן מתיאוס",
-      "name_en": "Adrian Mateos",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009263+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 13,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 22,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיל אייבי": {
-      "name_he": "פיל אייבי",
-      "name_en": "Phil Ivey",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009266+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 16,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 22,
           "source": "pokernews.com"
         }
       ]
@@ -273,26 +275,8 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009287+00:00",
+      "last_update": "2026-06-07T10:15:12.476909+00:00",
       "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 19,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
         {
           "event_no": 73,
           "event_title": "2017",
@@ -301,161 +285,19 @@
         }
       ]
     },
-    "בן הית'": {
-      "name_he": "בן הית'",
-      "name_en": "Ben Heath",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009293+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריס הוניצ'ן": {
-      "name_he": "כריס הוניצ'ן",
-      "name_en": "Chris Hunichen",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009296+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ברנרד ביינדר": {
-      "name_he": "ברנרד ביינדר",
-      "name_en": "Bernard Beinder",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009311+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ברק וייסברוד": {
-      "name_he": "ברק וייסברוד",
-      "name_en": "Barak Wisbrod",
-      "category": "ישראלים",
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009319+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 5000000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "קריסטן פוקסן": {
-      "name_he": "קריסטן פוקסן",
-      "name_en": "Kristen Foxen",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009324+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 2800000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009327+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 2700000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיליפ סטרנהיימר": {
-      "name_he": "פיליפ סטרנהיימר",
-      "name_en": "Philip Sternheimer",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009334+00:00",
-      "live_chips": [
-        {
-          "event_no": 19,
-          "event_title": "Event #19: $25,000 High Roller No-Limit Hold’em Stream",
-          "chips": 2500000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ויקטור בלום": {
-      "name_he": "ויקטור בלום",
-      "name_en": "Viktor Blom",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009341+00:00",
-      "live_chips": [
-        {
-          "event_no": 22,
-          "event_title": "Event #22: $1,500 Big O",
-          "chips": 393000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'ק סינקלייר": {
-      "name_he": "ג'ק סינקלייר",
-      "name_en": "Jack Sinclair",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-06T23:43:27.009350+00:00",
+      "last_update": "2026-06-07T10:15:12.476913+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
-          "chips": 0,
+          "chips": 71776,
           "source": "pokernews.com"
         }
       ]
@@ -467,7 +309,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009356+00:00",
+      "last_update": "2026-06-07T10:15:12.476918+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -484,7 +326,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009361+00:00",
+      "last_update": "2026-06-07T10:15:12.476923+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -501,7 +343,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009369+00:00",
+      "last_update": "2026-06-07T10:15:12.476930+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -518,7 +360,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-06T23:43:27.009375+00:00",
+      "last_update": "2026-06-07T10:15:12.476935+00:00",
       "live_chips": [
         {
           "event_no": 46600,
