@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-09T23:54:29.237165+00:00",
-    "duration_seconds": 21.9,
+    "fetched_at": "2026-06-10T12:42:00.199734+00:00",
+    "duration_seconds": 23.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,18 +12,367 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 16,
+        "events": 15,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 23
     }
   },
   "events": [],
   "players": {
+    "ברייס יוקי": {
+      "name_he": "ברייס יוקי",
+      "name_en": "Bryce Yockey",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199396+00:00",
+      "live_chips": [
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ייק שוורץ": {
+      "name_he": "ג'ייק שוורץ",
+      "name_en": "Jake Schwartz",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199439+00:00",
+      "live_chips": [
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "צ'אד איבסלייג'": {
+      "name_he": "צ'אד איבסלייג'",
+      "name_en": "Chad Eveslage",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199444+00:00",
+      "live_chips": [
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ניק שולמן": {
+      "name_he": "ניק שולמן",
+      "name_en": "Nick Schulman",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199447+00:00",
+      "live_chips": [
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'רמי אסמוס": {
+      "name_he": "ג'רמי אסמוס",
+      "name_en": "Jeremy Ausmus",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199450+00:00",
+      "live_chips": [
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 27,
+          "event_title": "Event #27: $10,000 Dealer's Choice Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מוריס הוקינס": {
+      "name_he": "מוריס הוקינס",
+      "name_en": "Maurice Hawkins",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199480+00:00",
+      "live_chips": [
+        {
+          "event_no": 28,
+          "event_title": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 28,
+          "event_title": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199487+00:00",
+      "live_chips": [
+        {
+          "event_no": 28,
+          "event_title": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 28,
+          "event_title": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 75436,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199492+00:00",
+      "live_chips": [
+        {
+          "event_no": 28,
+          "event_title": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 28,
+          "event_title": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "סנתוש סובארנה": {
+      "name_he": "סנתוש סובארנה",
+      "name_en": "Santhosh Suvarna",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199500+00:00",
+      "live_chips": [
+        {
+          "event_no": 29,
+          "event_title": "Event #29: $50,000 High Roller No-Limit Hold'em Stream",
+          "chips": 7700000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריס ברואר": {
+      "name_he": "כריס ברואר",
+      "name_en": "Chris Brewer",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199504+00:00",
+      "live_chips": [
+        {
+          "event_no": 29,
+          "event_title": "Event #29: $50,000 High Roller No-Limit Hold'em Stream",
+          "chips": 5100000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "יאן ארנדס": {
+      "name_he": "יאן ארנדס",
+      "name_en": "Jans Arends",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199511+00:00",
+      "live_chips": [
+        {
+          "event_no": 29,
+          "event_title": "Event #29: $50,000 High Roller No-Limit Hold'em Stream",
+          "chips": 4700000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "סרחיו אאידו": {
+      "name_he": "סרחיו אאידו",
+      "name_en": "Sergio Aido",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199519+00:00",
+      "live_chips": [
+        {
+          "event_no": 29,
+          "event_title": "Event #29: $50,000 High Roller No-Limit Hold'em Stream",
+          "chips": 3600000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בן הית'": {
+      "name_he": "בן הית'",
+      "name_en": "Ben Heath",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199525+00:00",
+      "live_chips": [
+        {
+          "event_no": 29,
+          "event_title": "Event #29: $50,000 High Roller No-Limit Hold'em Stream",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פטריק לאונרד": {
+      "name_he": "פטריק לאונרד",
+      "name_en": "Patrick Leonard",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199530+00:00",
+      "live_chips": [
+        {
+          "event_no": 30,
+          "event_title": "Event #30: $1,500 Limit Hold’em 7-Handed",
+          "chips": 2100000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מרקו ג'ונסון": {
+      "name_he": "מרקו ג'ונסון",
+      "name_en": "Marco Johnson",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199534+00:00",
+      "live_chips": [
+        {
+          "event_no": 33,
+          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
+          "chips": 461500,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דן סמית'": {
+      "name_he": "דן סמית'",
+      "name_en": "Dan Smith",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199539+00:00",
+      "live_chips": [
+        {
+          "event_no": 33,
+          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
+          "chips": 346500,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'וש אריה": {
+      "name_he": "ג'וש אריה",
+      "name_en": "Josh Arieh",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-10T12:42:00.199542+00:00",
+      "live_chips": [
+        {
+          "event_no": 33,
+          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +380,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-09T23:54:29.236904+00:00",
+      "last_update": "2026-06-10T12:42:00.199549+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,46 +397,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-09T23:54:29.236934+00:00",
+      "last_update": "2026-06-10T12:42:00.199554+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס פוקסן": {
-      "name_he": "אלכס פוקסן",
-      "name_en": "Alex Foxen",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-09T23:54:29.236943+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 75436,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-09T23:54:29.236947+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 71776,
           "source": "pokernews.com"
         }
       ]
@@ -99,7 +414,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-09T23:54:29.236955+00:00",
+      "last_update": "2026-06-10T12:42:00.199560+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +431,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-09T23:54:29.236960+00:00",
+      "last_update": "2026-06-10T12:42:00.199564+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +448,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-09T23:54:29.236974+00:00",
+      "last_update": "2026-06-10T12:42:00.199571+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +465,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-09T23:54:29.236982+00:00",
+      "last_update": "2026-06-10T12:42:00.199578+00:00",
       "live_chips": [
         {
           "event_no": 46600,
