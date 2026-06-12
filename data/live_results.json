@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-12T11:55:03.171254+00:00",
-    "duration_seconds": 20.8,
+    "fetched_at": "2026-06-12T18:33:50.258831+00:00",
+    "duration_seconds": 24.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 13,
+        "events": 15,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 21
+      "total_players_with_chips": 20
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170877+00:00",
+      "last_update": "2026-06-12T18:33:50.258540+00:00",
       "live_chips": [
         {
           "event_no": 33,
@@ -48,7 +48,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170930+00:00",
+      "last_update": "2026-06-12T18:33:50.258585+00:00",
       "live_chips": [
         {
           "event_no": 33,
@@ -65,29 +65,12 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170939+00:00",
+      "last_update": "2026-06-12T18:33:50.258592+00:00",
       "live_chips": [
         {
           "event_no": 33,
           "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כפיר נחום": {
-      "name_he": "כפיר נחום",
-      "name_en": "Kfir Nahum",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-12T11:55:03.170950+00:00",
-      "live_chips": [
-        {
-          "event_no": 34,
-          "event_title": "Event #34: $500 COLOSSUS",
-          "chips": 5190000,
           "source": "pokernews.com"
         }
       ]
@@ -99,11 +82,11 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170955+00:00",
+      "last_update": "2026-06-12T18:33:50.258597+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
           "chips": 5550000,
           "source": "pokernews.com"
         }
@@ -116,11 +99,11 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170961+00:00",
+      "last_update": "2026-06-12T18:33:50.258602+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
           "chips": 3420000,
           "source": "pokernews.com"
         }
@@ -133,11 +116,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170967+00:00",
+      "last_update": "2026-06-12T18:33:50.258608+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
           "chips": 5215000,
           "source": "pokernews.com"
         }
@@ -150,11 +133,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170974+00:00",
+      "last_update": "2026-06-12T18:33:50.258615+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
           "chips": 2220000,
           "source": "pokernews.com"
         },
@@ -173,11 +156,11 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170979+00:00",
+      "last_update": "2026-06-12T18:33:50.258621+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
           "chips": 11800000,
           "source": "pokernews.com"
         }
@@ -190,7 +173,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170982+00:00",
+      "last_update": "2026-06-12T18:33:50.258625+00:00",
       "live_chips": [
         {
           "event_no": 37,
@@ -207,7 +190,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170989+00:00",
+      "last_update": "2026-06-12T18:33:50.258631+00:00",
       "live_chips": [
         {
           "event_no": 37,
@@ -224,7 +207,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170992+00:00",
+      "last_update": "2026-06-12T18:33:50.258635+00:00",
       "live_chips": [
         {
           "event_no": 38,
@@ -241,7 +224,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170996+00:00",
+      "last_update": "2026-06-12T18:33:50.258638+00:00",
       "live_chips": [
         {
           "event_no": 38,
@@ -258,7 +241,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.170999+00:00",
+      "last_update": "2026-06-12T18:33:50.258641+00:00",
       "live_chips": [
         {
           "event_no": 38,
@@ -281,7 +264,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.171003+00:00",
+      "last_update": "2026-06-12T18:33:50.258645+00:00",
       "live_chips": [
         {
           "event_no": 38,
@@ -298,7 +281,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.171010+00:00",
+      "last_update": "2026-06-12T18:33:50.258651+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -315,7 +298,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.171015+00:00",
+      "last_update": "2026-06-12T18:33:50.258657+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -332,7 +315,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.171021+00:00",
+      "last_update": "2026-06-12T18:33:50.258662+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -349,7 +332,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.171026+00:00",
+      "last_update": "2026-06-12T18:33:50.258667+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -366,7 +349,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.171033+00:00",
+      "last_update": "2026-06-12T18:33:50.258673+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -383,7 +366,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T11:55:03.171039+00:00",
+      "last_update": "2026-06-12T18:33:50.258679+00:00",
       "live_chips": [
         {
           "event_no": 46600,
