@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-12T18:33:50.258831+00:00",
-    "duration_seconds": 24.2,
+    "fetched_at": "2026-06-13T00:06:05.235982+00:00",
+    "duration_seconds": 21.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 20
+      "total_players_with_chips": 15
     }
   },
   "events": [],
@@ -31,11 +31,11 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258540+00:00",
+      "last_update": "2026-06-13T00:06:05.235721+00:00",
       "live_chips": [
         {
           "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
+          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship Stream",
           "chips": 13590000,
           "source": "pokernews.com"
         }
@@ -48,29 +48,12 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258585+00:00",
+      "last_update": "2026-06-13T00:06:05.235761+00:00",
       "live_chips": [
         {
           "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
+          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship Stream",
           "chips": 1195000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מרקו ג'ונסון": {
-      "name_he": "מרקו ג'ונסון",
-      "name_en": "Marco Johnson",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-12T18:33:50.258592+00:00",
-      "live_chips": [
-        {
-          "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -82,11 +65,11 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258597+00:00",
+      "last_update": "2026-06-13T00:06:05.235767+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
           "chips": 5550000,
           "source": "pokernews.com"
         }
@@ -99,11 +82,11 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258602+00:00",
+      "last_update": "2026-06-13T00:06:05.235773+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
           "chips": 3420000,
           "source": "pokernews.com"
         }
@@ -116,11 +99,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258608+00:00",
+      "last_update": "2026-06-13T00:06:05.235779+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
           "chips": 5215000,
           "source": "pokernews.com"
         }
@@ -133,11 +116,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258615+00:00",
+      "last_update": "2026-06-13T00:06:05.235785+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
           "chips": 2220000,
           "source": "pokernews.com"
         },
@@ -156,11 +139,11 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258621+00:00",
+      "last_update": "2026-06-13T00:06:05.235790+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em Stream",
           "chips": 11800000,
           "source": "pokernews.com"
         }
@@ -173,103 +156,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258625+00:00",
+      "last_update": "2026-06-13T00:06:05.235794+00:00",
       "live_chips": [
         {
           "event_no": 37,
           "event_title": "Event #37: $1,500 H.O.R.S.E.",
-          "chips": 1595000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיליפ סטרנהיימר": {
-      "name_he": "פיליפ סטרנהיימר",
-      "name_en": "Philip Sternheimer",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-12T18:33:50.258631+00:00",
-      "live_chips": [
-        {
-          "event_no": 37,
-          "event_title": "Event #37: $1,500 H.O.R.S.E.",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'רמי אסמוס": {
-      "name_he": "ג'רמי אסמוס",
-      "name_en": "Jeremy Ausmus",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-12T18:33:50.258635+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 319000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'וש אריה": {
-      "name_he": "ג'וש אריה",
-      "name_en": "Josh Arieh",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-12T18:33:50.258638+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 268000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-12T18:33:50.258641+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 182000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 71776,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'יימס אובסט": {
-      "name_he": "ג'יימס אובסט",
-      "name_en": "James Obst",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-12T18:33:50.258645+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 10,
+          "chips": 3900000,
           "source": "pokernews.com"
         }
       ]
@@ -281,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258651+00:00",
+      "last_update": "2026-06-13T00:06:05.235802+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -298,12 +190,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258657+00:00",
+      "last_update": "2026-06-13T00:06:05.235807+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-13T00:06:05.235810+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
           "source": "pokernews.com"
         }
       ]
@@ -315,7 +224,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258662+00:00",
+      "last_update": "2026-06-13T00:06:05.235816+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -332,7 +241,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258667+00:00",
+      "last_update": "2026-06-13T00:06:05.235820+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -349,7 +258,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258673+00:00",
+      "last_update": "2026-06-13T00:06:05.235827+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -366,7 +275,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-12T18:33:50.258679+00:00",
+      "last_update": "2026-06-13T00:06:05.235833+00:00",
       "live_chips": [
         {
           "event_no": 46600,
