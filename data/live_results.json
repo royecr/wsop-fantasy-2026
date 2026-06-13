@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-13T10:18:33.721792+00:00",
-    "duration_seconds": 25.4,
+    "fetched_at": "2026-06-13T16:04:41.908639+00:00",
+    "duration_seconds": 22.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,87 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 17,
+        "events": 14,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 22
+      "total_players_with_chips": 19
     }
   },
   "events": [],
   "players": {
-    "ג'סטין ליברטו": {
-      "name_he": "ג'סטין ליברטו",
-      "name_en": "Justin Liberto",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-13T10:18:33.721432+00:00",
-      "live_chips": [
-        {
-          "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מרטין זמאני": {
-      "name_he": "מרטין זמאני",
-      "name_en": "Martin Zamani",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-13T10:18:33.721473+00:00",
-      "live_chips": [
-        {
-          "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מרקו ג'ונסון": {
-      "name_he": "מרקו ג'ונסון",
-      "name_en": "Marco Johnson",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-13T10:18:33.721481+00:00",
-      "live_chips": [
-        {
-          "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 33,
-          "event_title": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "דניאל ספיול": {
       "name_he": "דניאל ספיול",
       "name_en": "Daniel Sepiol",
@@ -100,7 +31,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721490+00:00",
+      "last_update": "2026-06-13T16:04:41.908342+00:00",
       "live_chips": [
         {
           "event_no": 34,
@@ -117,7 +48,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721509+00:00",
+      "last_update": "2026-06-13T16:04:41.908384+00:00",
       "live_chips": [
         {
           "event_no": 34,
@@ -134,11 +65,11 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721515+00:00",
+      "last_update": "2026-06-13T16:04:41.908392+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Expectant Father Yuri Dzivielevski Cements Brazil Legacy With $2.8M WSOP Victory",
           "chips": 0,
           "source": "pokernews.com"
         }
@@ -151,11 +82,11 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721520+00:00",
+      "last_update": "2026-06-13T16:04:41.908396+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Expectant Father Yuri Dzivielevski Cements Brazil Legacy With $2.8M WSOP Victory",
           "chips": 0,
           "source": "pokernews.com"
         }
@@ -168,11 +99,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721527+00:00",
+      "last_update": "2026-06-13T16:04:41.908402+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Expectant Father Yuri Dzivielevski Cements Brazil Legacy With $2.8M WSOP Victory",
           "chips": 0,
           "source": "pokernews.com"
         },
@@ -191,11 +122,11 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721532+00:00",
+      "last_update": "2026-06-13T16:04:41.908418+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "event_title": "Expectant Father Yuri Dzivielevski Cements Brazil Legacy With $2.8M WSOP Victory",
           "chips": 0,
           "source": "pokernews.com"
         }
@@ -208,34 +139,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721537+00:00",
+      "last_update": "2026-06-13T16:04:41.908424+00:00",
       "live_chips": [
         {
           "event_no": 36,
-          "event_title": "Event #36: $100,000 High Roller No-Limit Hold’em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ניק שולמן": {
-      "name_he": "ניק שולמן",
-      "name_en": "Nick Schulman",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-13T10:18:33.721540+00:00",
-      "live_chips": [
-        {
-          "event_no": 37,
-          "event_title": "Event #37: $1,500 H.O.R.S.E.",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 37,
-          "event_title": "Event #37: $1,500 H.O.R.S.E.",
+          "event_title": "Expectant Father Yuri Dzivielevski Cements Brazil Legacy With $2.8M WSOP Victory",
           "chips": 0,
           "source": "pokernews.com"
         }
@@ -248,7 +156,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721543+00:00",
+      "last_update": "2026-06-13T16:04:41.908428+00:00",
       "live_chips": [
         {
           "event_no": 38,
@@ -265,7 +173,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721546+00:00",
+      "last_update": "2026-06-13T16:04:41.908431+00:00",
       "live_chips": [
         {
           "event_no": 38,
@@ -282,7 +190,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721549+00:00",
+      "last_update": "2026-06-13T16:04:41.908435+00:00",
       "live_chips": [
         {
           "event_no": 38,
@@ -299,12 +207,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721553+00:00",
+      "last_update": "2026-06-13T16:04:41.908439+00:00",
       "live_chips": [
         {
           "event_no": 38,
           "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
           "chips": 305000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בריאן ראסט": {
+      "name_he": "בריאן ראסט",
+      "name_en": "Brian Rast",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-13T16:04:41.908442+00:00",
+      "live_chips": [
+        {
+          "event_no": 40,
+          "event_title": "Event #40: $1,500 Razz",
+          "chips": 273500,
           "source": "pokernews.com"
         }
       ]
@@ -316,7 +241,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721560+00:00",
+      "last_update": "2026-06-13T16:04:41.908449+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -333,7 +258,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721572+00:00",
+      "last_update": "2026-06-13T16:04:41.908455+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -350,7 +275,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721579+00:00",
+      "last_update": "2026-06-13T16:04:41.908458+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -367,7 +292,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721590+00:00",
+      "last_update": "2026-06-13T16:04:41.908464+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -384,7 +309,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721599+00:00",
+      "last_update": "2026-06-13T16:04:41.908468+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -401,7 +326,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721611+00:00",
+      "last_update": "2026-06-13T16:04:41.908475+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -418,7 +343,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-13T10:18:33.721621+00:00",
+      "last_update": "2026-06-13T16:04:41.908481+00:00",
       "live_chips": [
         {
           "event_no": 46600,
