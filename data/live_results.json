@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-14T15:29:21.563784+00:00",
-    "duration_seconds": 25.4,
+    "fetched_at": "2026-06-14T20:49:22.061755+00:00",
+    "duration_seconds": 21.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,235 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 16,
+        "events": 14,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 18
+      "total_players_with_chips": 8
     }
   },
   "events": [],
   "players": {
-    "בני גלאזר": {
-      "name_he": "בני גלאזר",
-      "name_en": "Benny Glaser",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563467+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'רמי אסמוס": {
-      "name_he": "ג'רמי אסמוס",
-      "name_en": "Jeremy Ausmus",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563489+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563500+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דן סמית'": {
-      "name_he": "דן סמית'",
-      "name_en": "Dan Smith",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563512+00:00",
-      "live_chips": [
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 38,
-          "event_title": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריסטוף ווגלסאנג": {
-      "name_he": "כריסטוף ווגלסאנג",
-      "name_en": "Christoph Vogelsang",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563528+00:00",
-      "live_chips": [
-        {
-          "event_no": 41,
-          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-          "chips": 4220000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563532+00:00",
-      "live_chips": [
-        {
-          "event_no": 41,
-          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-          "chips": 2970000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 71776,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "שון וינטר": {
-      "name_he": "שון וינטר",
-      "name_en": "Sean Winter",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563555+00:00",
-      "live_chips": [
-        {
-          "event_no": 41,
-          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-          "chips": 2870000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ארתור מרטירוסיאן": {
-      "name_he": "ארתור מרטירוסיאן",
-      "name_en": "Artur Martirosian",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563560+00:00",
-      "live_chips": [
-        {
-          "event_no": 41,
-          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-          "chips": 2445000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "צ'אד איבסלייג'": {
-      "name_he": "צ'אד איבסלייג'",
-      "name_en": "Chad Eveslage",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563563+00:00",
-      "live_chips": [
-        {
-          "event_no": 42,
-          "event_title": "Event #42: $10,000 Big O Championship",
-          "chips": 489000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "סאם סוברל": {
-      "name_he": "סאם סוברל",
-      "name_en": "Sam Soverel",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563568+00:00",
-      "live_chips": [
-        {
-          "event_no": 42,
-          "event_title": "Event #42: $10,000 Big O Championship",
-          "chips": 437000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דילן לינדה": {
-      "name_he": "דילן לינדה",
-      "name_en": "Dylan Linde",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-14T15:29:21.563574+00:00",
-      "live_chips": [
-        {
-          "event_no": 42,
-          "event_title": "Event #42: $10,000 Big O Championship",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -248,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-14T15:29:21.563581+00:00",
+      "last_update": "2026-06-14T20:49:22.061504+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -265,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-14T15:29:21.563587+00:00",
+      "last_update": "2026-06-14T20:49:22.061534+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -282,12 +65,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-14T15:29:21.563592+00:00",
+      "last_update": "2026-06-14T20:49:22.061543+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 75436,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-14T20:49:22.061562+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
           "source": "pokernews.com"
         }
       ]
@@ -299,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-14T15:29:21.563597+00:00",
+      "last_update": "2026-06-14T20:49:22.061569+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -316,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-14T15:29:21.563602+00:00",
+      "last_update": "2026-06-14T20:49:22.061574+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -333,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-14T15:29:21.563609+00:00",
+      "last_update": "2026-06-14T20:49:22.061587+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -350,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-14T15:29:21.563615+00:00",
+      "last_update": "2026-06-14T20:49:22.061595+00:00",
       "live_chips": [
         {
           "event_no": 46600,
