@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-15T06:29:19.335433+00:00",
-    "duration_seconds": 20.5,
+    "fetched_at": "2026-06-15T13:20:19.747931+00:00",
+    "duration_seconds": 23.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,251 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 19
     }
   },
   "events": [],
   "players": {
+    "אריק בולדווין": {
+      "name_he": "אריק בולדווין",
+      "name_en": "Eric Baldwin",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747605+00:00",
+      "live_chips": [
+        {
+          "event_no": 34,
+          "event_title": "Event #34: $500 COLOSSUS",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברין קני": {
+      "name_he": "ברין קני",
+      "name_en": "Bryn Kenney",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747635+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 19350000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 19460000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ייסון קון": {
+      "name_he": "ג'ייסון קון",
+      "name_en": "Jason Koon",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747641+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 4450000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 4570000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פיל אייבי": {
+      "name_he": "פיל אייבי",
+      "name_en": "Phil Ivey",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747645+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 2750000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 5340000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אדריאן מתיאוס": {
+      "name_he": "אדריאן מתיאוס",
+      "name_en": "Adrian Mateos",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747650+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 16900000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 16705000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון וינטר": {
+      "name_he": "שון וינטר",
+      "name_en": "Sean Winter",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747676+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 6450000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 6480000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דן שאק": {
+      "name_he": "דן שאק",
+      "name_en": "Dan Shak",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747694+00:00",
+      "live_chips": [
+        {
+          "event_no": 42,
+          "event_title": "Event #42: $10,000 Big O Championship",
+          "chips": 1590000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דייוויד בנימין": {
+      "name_he": "דייוויד בנימין",
+      "name_en": "David Benyamine",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747700+00:00",
+      "live_chips": [
+        {
+          "event_no": 42,
+          "event_title": "Event #42: $10,000 Big O Championship",
+          "chips": 1460000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747705+00:00",
+      "live_chips": [
+        {
+          "event_no": 44,
+          "event_title": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 75436,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מרטין זמאני": {
+      "name_he": "מרטין זמאני",
+      "name_en": "Martin Zamani",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747714+00:00",
+      "live_chips": [
+        {
+          "event_no": 44,
+          "event_title": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סטין ליברטו": {
+      "name_he": "ג'סטין ליברטו",
+      "name_en": "Justin Liberto",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747719+00:00",
+      "live_chips": [
+        {
+          "event_no": 45,
+          "event_title": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
+          "chips": 263000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דקל באלאס": {
+      "name_he": "דקל באלאס",
+      "name_en": "Dekel Balas",
+      "category": "ישראלים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-15T13:20:19.747730+00:00",
+      "live_chips": [
+        {
+          "event_no": 45,
+          "event_title": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
+          "chips": 239500,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +271,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T06:29:19.335149+00:00",
+      "last_update": "2026-06-15T13:20:19.747736+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,29 +288,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T06:29:19.335178+00:00",
+      "last_update": "2026-06-15T13:20:19.747742+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס פוקסן": {
-      "name_he": "אלכס פוקסן",
-      "name_en": "Alex Foxen",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-15T06:29:19.335187+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 75436,
           "source": "pokernews.com"
         }
       ]
@@ -82,7 +305,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T06:29:19.335191+00:00",
+      "last_update": "2026-06-15T13:20:19.747745+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +322,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T06:29:19.335198+00:00",
+      "last_update": "2026-06-15T13:20:19.747750+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +339,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T06:29:19.335204+00:00",
+      "last_update": "2026-06-15T13:20:19.747755+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +356,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T06:29:19.335217+00:00",
+      "last_update": "2026-06-15T13:20:19.747763+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +373,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T06:29:19.335240+00:00",
+      "last_update": "2026-06-15T13:20:19.747769+00:00",
       "live_chips": [
         {
           "event_no": 46600,
