@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-15T23:49:38.193652+00:00",
-    "duration_seconds": 21.1,
+    "fetched_at": "2026-06-16T04:49:50.661305+00:00",
+    "duration_seconds": 23.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,126 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 13
     }
   },
   "events": [],
   "players": {
+    "אדריאן מתיאוס": {
+      "name_he": "אדריאן מתיאוס",
+      "name_en": "Adrian Mateos",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-16T04:49:50.661051+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברין קני": {
+      "name_he": "ברין קני",
+      "name_en": "Bryn Kenney",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-16T04:49:50.661091+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון וינטר": {
+      "name_he": "שון וינטר",
+      "name_en": "Sean Winter",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-16T04:49:50.661109+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ייסון קון": {
+      "name_he": "ג'ייסון קון",
+      "name_en": "Jason Koon",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-16T04:49:50.661113+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פיל אייבי": {
+      "name_he": "פיל אייבי",
+      "name_en": "Phil Ivey",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-16T04:49:50.661116+00:00",
+      "live_chips": [
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 41,
+          "event_title": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +146,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193430+00:00",
+      "last_update": "2026-06-16T04:49:50.661122+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +163,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193456+00:00",
+      "last_update": "2026-06-16T04:49:50.661128+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +180,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193465+00:00",
+      "last_update": "2026-06-16T04:49:50.661134+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +197,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193469+00:00",
+      "last_update": "2026-06-16T04:49:50.661137+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +214,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193476+00:00",
+      "last_update": "2026-06-16T04:49:50.661142+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +231,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193481+00:00",
+      "last_update": "2026-06-16T04:49:50.661145+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +248,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193493+00:00",
+      "last_update": "2026-06-16T04:49:50.661151+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +265,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-15T23:49:38.193500+00:00",
+      "last_update": "2026-06-16T04:49:50.661156+00:00",
       "live_chips": [
         {
           "event_no": 46600,
