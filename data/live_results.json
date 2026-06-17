@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-17T00:21:23.843712+00:00",
-    "duration_seconds": 19.0,
+    "fetched_at": "2026-06-17T06:18:52.348667+00:00",
+    "duration_seconds": 18.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,28 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 13
+      "total_players_with_chips": 10
     }
   },
   "events": [],
   "players": {
-    "אריק בולדווין": {
-      "name_he": "אריק בולדווין",
-      "name_en": "Eric Baldwin",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-17T00:21:23.843436+00:00",
-      "live_chips": [
-        {
-          "event_no": 34,
-          "event_title": "Event #34: $500 COLOSSUS Stream",
-          "chips": 49000000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ניק שולמן": {
       "name_he": "ניק שולמן",
       "name_en": "Nick Schulman",
@@ -48,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843457+00:00",
+      "last_update": "2026-06-17T06:18:52.348382+00:00",
       "live_chips": [
         {
           "event_no": 42,
@@ -71,7 +54,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843464+00:00",
+      "last_update": "2026-06-17T06:18:52.348423+00:00",
       "live_chips": [
         {
           "event_no": 42,
@@ -87,40 +70,6 @@
         }
       ]
     },
-    "דקל באלאס": {
-      "name_he": "דקל באלאס",
-      "name_en": "Dekel Balas",
-      "category": "ישראלים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-17T00:21:23.843482+00:00",
-      "live_chips": [
-        {
-          "event_no": 45,
-          "event_title": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
-          "chips": 2750000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סטין ליברטו": {
-      "name_he": "ג'סטין ליברטו",
-      "name_en": "Justin Liberto",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-17T00:21:23.843488+00:00",
-      "live_chips": [
-        {
-          "event_no": 45,
-          "event_title": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
-          "chips": 1350000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -128,7 +77,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843495+00:00",
+      "last_update": "2026-06-17T06:18:52.348444+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -145,7 +94,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843514+00:00",
+      "last_update": "2026-06-17T06:18:52.348452+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -162,7 +111,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843523+00:00",
+      "last_update": "2026-06-17T06:18:52.348458+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -179,7 +128,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843527+00:00",
+      "last_update": "2026-06-17T06:18:52.348462+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -196,7 +145,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843533+00:00",
+      "last_update": "2026-06-17T06:18:52.348469+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -213,7 +162,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843537+00:00",
+      "last_update": "2026-06-17T06:18:52.348490+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -230,7 +179,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843545+00:00",
+      "last_update": "2026-06-17T06:18:52.348501+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -247,7 +196,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-17T00:21:23.843550+00:00",
+      "last_update": "2026-06-17T06:18:52.348507+00:00",
       "live_chips": [
         {
           "event_no": 46600,
