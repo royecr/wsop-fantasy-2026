@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-18T13:31:23.808311+00:00",
-    "duration_seconds": 24.5,
+    "fetched_at": "2026-06-18T17:17:30.547630+00:00",
+    "duration_seconds": 28.4,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 17
+      "total_players_with_chips": 16
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808001+00:00",
+      "last_update": "2026-06-18T17:17:30.547342+00:00",
       "live_chips": [
         {
           "event_no": 47,
@@ -44,6 +44,12 @@
           "event_title": "2017",
           "chips": 75436,
           "source": "pokernews.com"
+        },
+        {
+          "event_no": 51485,
+          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
+          "chips": 13300000,
+          "source": "pokernews.com"
         }
       ]
     },
@@ -54,58 +60,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808023+00:00",
+      "last_update": "2026-06-18T17:17:30.547363+00:00",
       "live_chips": [
         {
           "event_no": 47,
           "event_title": "Event #47: $25,000 High Roller Pot-Limit Omaha",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "יובל ברונשטיין": {
-      "name_he": "יובל ברונשטיין",
-      "name_en": "Yuval Bronshtein",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-18T13:31:23.808029+00:00",
-      "live_chips": [
-        {
-          "event_no": 48,
-          "event_title": "Event #48: $10,000 Razz Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 48,
-          "event_title": "Event #48: $10,000 Razz Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיליפ סטרנהיימר": {
-      "name_he": "פיליפ סטרנהיימר",
-      "name_en": "Philip Sternheimer",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-18T13:31:23.808044+00:00",
-      "live_chips": [
-        {
-          "event_no": 48,
-          "event_title": "Event #48: $10,000 Razz Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 48,
-          "event_title": "Event #48: $10,000 Razz Championship",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -117,7 +77,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808050+00:00",
+      "last_update": "2026-06-18T17:17:30.547372+00:00",
       "live_chips": [
         {
           "event_no": 49,
@@ -134,7 +94,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808057+00:00",
+      "last_update": "2026-06-18T17:17:30.547378+00:00",
       "live_chips": [
         {
           "event_no": 49,
@@ -151,7 +111,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808062+00:00",
+      "last_update": "2026-06-18T17:17:30.547383+00:00",
       "live_chips": [
         {
           "event_no": 51,
@@ -168,7 +128,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808083+00:00",
+      "last_update": "2026-06-18T17:17:30.547407+00:00",
       "live_chips": [
         {
           "event_no": 51,
@@ -185,7 +145,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808089+00:00",
+      "last_update": "2026-06-18T17:17:30.547415+00:00",
       "live_chips": [
         {
           "event_no": 52,
@@ -202,7 +162,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808094+00:00",
+      "last_update": "2026-06-18T17:17:30.547422+00:00",
       "live_chips": [
         {
           "event_no": 52,
@@ -219,7 +179,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808101+00:00",
+      "last_update": "2026-06-18T17:17:30.547429+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -236,7 +196,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808108+00:00",
+      "last_update": "2026-06-18T17:17:30.547435+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -253,12 +213,18 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808111+00:00",
+      "last_update": "2026-06-18T17:17:30.547438+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 71776,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 51485,
+          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
+          "chips": 4650000,
           "source": "pokernews.com"
         }
       ]
@@ -270,7 +236,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808117+00:00",
+      "last_update": "2026-06-18T17:17:30.547444+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -287,7 +253,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808121+00:00",
+      "last_update": "2026-06-18T17:17:30.547462+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -304,7 +270,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808128+00:00",
+      "last_update": "2026-06-18T17:17:30.547471+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -321,12 +287,29 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-18T13:31:23.808134+00:00",
+      "last_update": "2026-06-18T17:17:30.547478+00:00",
       "live_chips": [
         {
           "event_no": 46600,
           "event_title": "2024",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מוריס הוקינס": {
+      "name_he": "מוריס הוקינס",
+      "name_en": "Maurice Hawkins",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-18T17:17:30.547492+00:00",
+      "live_chips": [
+        {
+          "event_no": 51485,
+          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
+          "chips": 13100000,
           "source": "pokernews.com"
         }
       ]
