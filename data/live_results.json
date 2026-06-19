@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-19T01:48:14.349999+00:00",
-    "duration_seconds": 23.4,
+    "fetched_at": "2026-06-19T07:13:03.349244+00:00",
+    "duration_seconds": 20.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,43 +12,99 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 15,
+        "events": 14,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 13
     }
   },
   "events": [],
   "players": {
-    "אלכס פוקסן": {
-      "name_he": "אלכס פוקסן",
-      "name_en": "Alex Foxen",
-      "category": "היי רולרים",
-      "price": 25,
+    "מרקו ג'ונסון": {
+      "name_he": "מרקו ג'ונסון",
+      "name_en": "Marco Johnson",
+      "category": "מיקסד גיימס",
+      "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349720+00:00",
+      "last_update": "2026-06-19T07:13:03.348920+00:00",
       "live_chips": [
         {
-          "event_no": 47,
-          "event_title": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-          "chips": 9420000,
+          "event_no": 49,
+          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+          "chips": 0,
           "source": "pokernews.com"
-        },
+        }
+      ]
+    },
+    "צ'ינו רים": {
+      "name_he": "צ'ינו רים",
+      "name_en": "Chino Rheem",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-19T07:13:03.348945+00:00",
+      "live_chips": [
         {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 75436,
+          "event_no": 49,
+          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+          "chips": 0,
           "source": "pokernews.com"
-        },
+        }
+      ]
+    },
+    "פראז ג'אקה": {
+      "name_he": "פראז ג'אקה",
+      "name_en": "Faraz Jaka",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-19T07:13:03.348959+00:00",
+      "live_chips": [
         {
-          "event_no": 51485,
-          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
-          "chips": 13300000,
+          "event_no": 49,
+          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סי לוניס": {
+      "name_he": "ג'סי לוניס",
+      "name_en": "Jesse Lonis",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-19T07:13:03.348964+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 298000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "סקוט סיבר": {
+      "name_he": "סקוט סיבר",
+      "name_en": "Scott Seiver",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-19T07:13:03.348970+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 277500,
           "source": "pokernews.com"
         }
       ]
@@ -60,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349756+00:00",
+      "last_update": "2026-06-19T07:13:03.348988+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -77,12 +133,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349765+00:00",
+      "last_update": "2026-06-19T07:13:03.348995+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-19T07:13:03.349002+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 75436,
           "source": "pokernews.com"
         }
       ]
@@ -94,18 +167,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349769+00:00",
+      "last_update": "2026-06-19T07:13:03.349006+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 71776,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 51485,
-          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
-          "chips": 4650000,
           "source": "pokernews.com"
         }
       ]
@@ -117,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349776+00:00",
+      "last_update": "2026-06-19T07:13:03.349012+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -134,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349781+00:00",
+      "last_update": "2026-06-19T07:13:03.349017+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -151,7 +218,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349794+00:00",
+      "last_update": "2026-06-19T07:13:03.349028+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -168,29 +235,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T01:48:14.349802+00:00",
+      "last_update": "2026-06-19T07:13:03.349034+00:00",
       "live_chips": [
         {
           "event_no": 46600,
           "event_title": "2024",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מוריס הוקינס": {
-      "name_he": "מוריס הוקינס",
-      "name_en": "Maurice Hawkins",
-      "category": "מיד סטייקס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T01:48:14.349821+00:00",
-      "live_chips": [
-        {
-          "event_no": 51485,
-          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
-          "chips": 13100000,
           "source": "pokernews.com"
         }
       ]
