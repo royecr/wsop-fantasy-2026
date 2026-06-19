@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-19T16:09:12.931679+00:00",
-    "duration_seconds": 23.3,
+    "fetched_at": "2026-06-19T18:58:57.170887+00:00",
+    "duration_seconds": 23.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 16,
+        "events": 15,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 18
+      "total_players_with_chips": 15
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931363+00:00",
+      "last_update": "2026-06-19T18:58:57.170624+00:00",
       "live_chips": [
         {
           "event_no": 47,
@@ -47,75 +47,6 @@
         }
       ]
     },
-    "מרקו ג'ונסון": {
-      "name_he": "מרקו ג'ונסון",
-      "name_en": "Marco Johnson",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T16:09:12.931393+00:00",
-      "live_chips": [
-        {
-          "event_no": 49,
-          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 49,
-          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "צ'ינו רים": {
-      "name_he": "צ'ינו רים",
-      "name_en": "Chino Rheem",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T16:09:12.931398+00:00",
-      "live_chips": [
-        {
-          "event_no": 49,
-          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 49,
-          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פראז ג'אקה": {
-      "name_he": "פראז ג'אקה",
-      "name_en": "Faraz Jaka",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T16:09:12.931407+00:00",
-      "live_chips": [
-        {
-          "event_no": 49,
-          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 49,
-          "event_title": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "שון דיב": {
       "name_he": "שון דיב",
       "name_en": "Shaun Deeb",
@@ -123,7 +54,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931411+00:00",
+      "last_update": "2026-06-19T18:58:57.170646+00:00",
       "live_chips": [
         {
           "event_no": 52,
@@ -140,7 +71,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931417+00:00",
+      "last_update": "2026-06-19T18:58:57.170656+00:00",
       "live_chips": [
         {
           "event_no": 52,
@@ -157,7 +88,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931428+00:00",
+      "last_update": "2026-06-19T18:58:57.170666+00:00",
       "live_chips": [
         {
           "event_no": 52,
@@ -174,7 +105,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931439+00:00",
+      "last_update": "2026-06-19T18:58:57.170676+00:00",
       "live_chips": [
         {
           "event_no": 52,
@@ -191,7 +122,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931445+00:00",
+      "last_update": "2026-06-19T18:58:57.170682+00:00",
       "live_chips": [
         {
           "event_no": 53,
@@ -208,7 +139,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931448+00:00",
+      "last_update": "2026-06-19T18:58:57.170685+00:00",
       "live_chips": [
         {
           "event_no": 54,
@@ -225,7 +156,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931452+00:00",
+      "last_update": "2026-06-19T18:58:57.170690+00:00",
       "live_chips": [
         {
           "event_no": 54,
@@ -242,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931459+00:00",
+      "last_update": "2026-06-19T18:58:57.170696+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -259,7 +190,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931466+00:00",
+      "last_update": "2026-06-19T18:58:57.170703+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -276,7 +207,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931469+00:00",
+      "last_update": "2026-06-19T18:58:57.170706+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -293,7 +224,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931475+00:00",
+      "last_update": "2026-06-19T18:58:57.170712+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -310,7 +241,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931480+00:00",
+      "last_update": "2026-06-19T18:58:57.170717+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -327,7 +258,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931491+00:00",
+      "last_update": "2026-06-19T18:58:57.170727+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -344,7 +275,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T16:09:12.931497+00:00",
+      "last_update": "2026-06-19T18:58:57.170733+00:00",
       "live_chips": [
         {
           "event_no": 46600,
