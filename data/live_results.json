@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-19T20:42:14.396291+00:00",
-    "duration_seconds": 25.9,
+    "fetched_at": "2026-06-19T22:08:14.698332+00:00",
+    "duration_seconds": 26.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,136 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 14
+      "total_players_with_chips": 8
     }
   },
   "events": [],
   "players": {
-    "אלכס פוקסן": {
-      "name_he": "אלכס פוקסן",
-      "name_en": "Alex Foxen",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T20:42:14.396035+00:00",
-      "live_chips": [
-        {
-          "event_no": 47,
-          "event_title": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 75436,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "שון דיב": {
-      "name_he": "שון דיב",
-      "name_en": "Shaun Deeb",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T20:42:14.396055+00:00",
-      "live_chips": [
-        {
-          "event_no": 52,
-          "event_title": "Event #52: $3,000 Nine Game Mix",
-          "chips": 3500000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דייוויד וויליאמס": {
-      "name_he": "דייוויד וויליאמס",
-      "name_en": "David Williams",
-      "category": "מיד סטייקס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T20:42:14.396063+00:00",
-      "live_chips": [
-        {
-          "event_no": 52,
-          "event_title": "Event #52: $3,000 Nine Game Mix",
-          "chips": 1742000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלי אלעזרא": {
-      "name_he": "אלי אלעזרא",
-      "name_en": "Eli Elezra",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T20:42:14.396074+00:00",
-      "live_chips": [
-        {
-          "event_no": 52,
-          "event_title": "Event #52: $3,000 Nine Game Mix",
-          "chips": 901000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מייק גורודינסקי": {
-      "name_he": "מייק גורודינסקי",
-      "name_en": "Mike Gorodinsky",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T20:42:14.396084+00:00",
-      "live_chips": [
-        {
-          "event_no": 52,
-          "event_title": "Event #52: $3,000 Nine Game Mix",
-          "chips": 832000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T20:42:14.396087+00:00",
-      "live_chips": [
-        {
-          "event_no": 54,
-          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
-          "chips": 298000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "סקוט סיבר": {
-      "name_he": "סקוט סיבר",
-      "name_en": "Scott Seiver",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-19T20:42:14.396092+00:00",
-      "live_chips": [
-        {
-          "event_no": 54,
-          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
-          "chips": 277500,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -156,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T20:42:14.396099+00:00",
+      "last_update": "2026-06-19T22:08:14.698105+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -173,12 +48,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T20:42:14.396105+00:00",
+      "last_update": "2026-06-19T22:08:14.698130+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-19T22:08:14.698137+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 75436,
           "source": "pokernews.com"
         }
       ]
@@ -190,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T20:42:14.396109+00:00",
+      "last_update": "2026-06-19T22:08:14.698141+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -207,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T20:42:14.396114+00:00",
+      "last_update": "2026-06-19T22:08:14.698146+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -224,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T20:42:14.396119+00:00",
+      "last_update": "2026-06-19T22:08:14.698151+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -241,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T20:42:14.396130+00:00",
+      "last_update": "2026-06-19T22:08:14.698163+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -258,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T20:42:14.396136+00:00",
+      "last_update": "2026-06-19T22:08:14.698169+00:00",
       "live_chips": [
         {
           "event_no": 46600,
