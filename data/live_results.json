@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-20T05:19:19.859852+00:00",
-    "duration_seconds": 23.8,
+    "fetched_at": "2026-06-20T09:24:25.692733+00:00",
+    "duration_seconds": 23.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 12
+      "total_players_with_chips": 18
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859575+00:00",
+      "last_update": "2026-06-20T09:24:25.692476+00:00",
       "live_chips": [
         {
           "event_no": 47,
@@ -47,6 +47,108 @@
         }
       ]
     },
+    "ג'ייסון ווילר": {
+      "name_he": "ג'ייסון ווילר",
+      "name_en": "Jason Wheeler",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T09:24:25.692505+00:00",
+      "live_chips": [
+        {
+          "event_no": 50,
+          "event_title": "Event #50: $1,500 Millionaire Maker",
+          "chips": 2000035,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון דיב": {
+      "name_he": "שון דיב",
+      "name_en": "Shaun Deeb",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T09:24:25.692509+00:00",
+      "live_chips": [
+        {
+          "event_no": 52,
+          "event_title": "Event #52: $3,000 Nine Game Mix",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריס ברואר": {
+      "name_he": "כריס ברואר",
+      "name_en": "Chris Brewer",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T09:24:25.692514+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 1515000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'וש אריה": {
+      "name_he": "ג'וש אריה",
+      "name_en": "Josh Arieh",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T09:24:25.692518+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 745000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "רוברט מזרחי": {
+      "name_he": "רוברט מזרחי",
+      "name_en": "Robert Mizrachi",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T09:24:25.692527+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 640000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בריאן יון": {
+      "name_he": "בריאן יון",
+      "name_en": "Brian Yoon",
+      "category": "מיקסד גיימס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T09:24:25.692532+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "שון וינטר": {
       "name_he": "שון וינטר",
       "name_en": "Sean Winter",
@@ -54,7 +156,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859619+00:00",
+      "last_update": "2026-06-20T09:24:25.692545+00:00",
       "live_chips": [
         {
           "event_no": 55,
@@ -71,7 +173,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859624+00:00",
+      "last_update": "2026-06-20T09:24:25.692549+00:00",
       "live_chips": [
         {
           "event_no": 55,
@@ -94,7 +196,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859630+00:00",
+      "last_update": "2026-06-20T09:24:25.692553+00:00",
       "live_chips": [
         {
           "event_no": 55,
@@ -111,7 +213,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859634+00:00",
+      "last_update": "2026-06-20T09:24:25.692556+00:00",
       "live_chips": [
         {
           "event_no": 55,
@@ -128,7 +230,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859639+00:00",
+      "last_update": "2026-06-20T09:24:25.692562+00:00",
       "live_chips": [
         {
           "event_no": 55,
@@ -145,7 +247,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859647+00:00",
+      "last_update": "2026-06-20T09:24:25.692569+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -162,7 +264,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859655+00:00",
+      "last_update": "2026-06-20T09:24:25.692575+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -179,7 +281,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859661+00:00",
+      "last_update": "2026-06-20T09:24:25.692581+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -196,7 +298,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859665+00:00",
+      "last_update": "2026-06-20T09:24:25.692585+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -213,7 +315,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859673+00:00",
+      "last_update": "2026-06-20T09:24:25.692592+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -230,7 +332,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T05:19:19.859678+00:00",
+      "last_update": "2026-06-20T09:24:25.692598+00:00",
       "live_chips": [
         {
           "event_no": 46600,
