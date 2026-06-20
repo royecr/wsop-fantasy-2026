@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-20T20:18:30.903858+00:00",
-    "duration_seconds": 21.6,
+    "fetched_at": "2026-06-20T22:13:50.647319+00:00",
+    "duration_seconds": 24.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 17
+      "total_players_with_chips": 9
     }
   },
   "events": [],
@@ -31,171 +31,12 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903573+00:00",
+      "last_update": "2026-06-20T22:13:50.647046+00:00",
       "live_chips": [
         {
           "event_no": 50,
           "event_title": "Event #50: $1,500 Millionaire Maker",
           "chips": 605000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריס ברואר": {
-      "name_he": "כריס ברואר",
-      "name_en": "Chris Brewer",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903596+00:00",
-      "live_chips": [
-        {
-          "event_no": 54,
-          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
-          "chips": 1515000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'וש אריה": {
-      "name_he": "ג'וש אריה",
-      "name_en": "Josh Arieh",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903601+00:00",
-      "live_chips": [
-        {
-          "event_no": 54,
-          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
-          "chips": 745000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "רוברט מזרחי": {
-      "name_he": "רוברט מזרחי",
-      "name_en": "Robert Mizrachi",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903605+00:00",
-      "live_chips": [
-        {
-          "event_no": 54,
-          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
-          "chips": 640000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "בריאן יון": {
-      "name_he": "בריאן יון",
-      "name_en": "Brian Yoon",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903610+00:00",
-      "live_chips": [
-        {
-          "event_no": 54,
-          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "שון וינטר": {
-      "name_he": "שון וינטר",
-      "name_en": "Sean Winter",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903625+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1775000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903629+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1750000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 71776,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דייוויד בנימין": {
-      "name_he": "דייוויד בנימין",
-      "name_en": "David Benyamine",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903635+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1660000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'ייסון קון": {
-      "name_he": "ג'ייסון קון",
-      "name_en": "Jason Koon",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903639+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1330000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "יורי דזיבילבסקי": {
-      "name_he": "יורי דזיבילבסקי",
-      "name_en": "Yuri Dzivielevski",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-20T20:18:30.903644+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1275000,
           "source": "pokernews.com"
         }
       ]
@@ -207,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903652+00:00",
+      "last_update": "2026-06-20T22:13:50.647079+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -224,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903658+00:00",
+      "last_update": "2026-06-20T22:13:50.647088+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -241,12 +82,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903664+00:00",
+      "last_update": "2026-06-20T22:13:50.647096+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 75436,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T22:13:50.647099+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
           "source": "pokernews.com"
         }
       ]
@@ -258,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903670+00:00",
+      "last_update": "2026-06-20T22:13:50.647106+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -275,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903674+00:00",
+      "last_update": "2026-06-20T22:13:50.647113+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -292,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903682+00:00",
+      "last_update": "2026-06-20T22:13:50.647122+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -309,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-20T20:18:30.903688+00:00",
+      "last_update": "2026-06-20T22:13:50.647129+00:00",
       "live_chips": [
         {
           "event_no": 46600,
