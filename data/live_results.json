@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-19T22:08:14.698332+00:00",
-    "duration_seconds": 26.1,
+    "fetched_at": "2026-06-20T00:13:44.867277+00:00",
+    "duration_seconds": 24.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,28 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 9
     }
   },
   "events": [],
   "players": {
+    "שון דיב": {
+      "name_he": "שון דיב",
+      "name_en": "Shaun Deeb",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-20T00:13:44.866997+00:00",
+      "live_chips": [
+        {
+          "event_no": 52,
+          "event_title": "Event #52: $3,000 Nine Game Mix",
+          "chips": 5865000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698105+00:00",
+      "last_update": "2026-06-20T00:13:44.867053+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698130+00:00",
+      "last_update": "2026-06-20T00:13:44.867062+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698137+00:00",
+      "last_update": "2026-06-20T00:13:44.867070+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698141+00:00",
+      "last_update": "2026-06-20T00:13:44.867074+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698146+00:00",
+      "last_update": "2026-06-20T00:13:44.867081+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698151+00:00",
+      "last_update": "2026-06-20T00:13:44.867087+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698163+00:00",
+      "last_update": "2026-06-20T00:13:44.867108+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-19T22:08:14.698169+00:00",
+      "last_update": "2026-06-20T00:13:44.867115+00:00",
       "live_chips": [
         {
           "event_no": 46600,
