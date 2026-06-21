@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-21T06:07:26.612680+00:00",
-    "duration_seconds": 19.5,
+    "fetched_at": "2026-06-21T10:33:59.693778+00:00",
+    "duration_seconds": 18.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,80 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 11
     }
   },
   "events": [],
   "players": {
+    "ג'וש אריה": {
+      "name_he": "ג'וש אריה",
+      "name_en": "Josh Arieh",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-21T10:33:59.693492+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "רוברט מזרחי": {
+      "name_he": "רוברט מזרחי",
+      "name_en": "Robert Mizrachi",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-21T10:33:59.693521+00:00",
+      "live_chips": [
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 54,
+          "event_title": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מרטין ג'ייקובסון": {
+      "name_he": "מרטין ג'ייקובסון",
+      "name_en": "Martin Jacobson",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-21T10:33:59.693547+00:00",
+      "live_chips": [
+        {
+          "event_no": 56,
+          "event_title": "Event #56: $3,000 6-Handed No-Limit Hold’em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 56,
+          "event_title": "Event #56: $3,000 6-Handed No-Limit Hold’em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +100,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612452+00:00",
+      "last_update": "2026-06-21T10:33:59.693561+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +117,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612478+00:00",
+      "last_update": "2026-06-21T10:33:59.693568+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +134,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612486+00:00",
+      "last_update": "2026-06-21T10:33:59.693575+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +151,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612490+00:00",
+      "last_update": "2026-06-21T10:33:59.693579+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +168,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612496+00:00",
+      "last_update": "2026-06-21T10:33:59.693586+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +185,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612501+00:00",
+      "last_update": "2026-06-21T10:33:59.693608+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +202,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612525+00:00",
+      "last_update": "2026-06-21T10:33:59.693618+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +219,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T06:07:26.612532+00:00",
+      "last_update": "2026-06-21T10:33:59.693624+00:00",
       "live_chips": [
         {
           "event_no": 46600,
