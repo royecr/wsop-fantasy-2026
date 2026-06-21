@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-21T21:19:14.574089+00:00",
-    "duration_seconds": 24.4,
+    "fetched_at": "2026-06-21T23:19:45.280575+00:00",
+    "duration_seconds": 24.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 11
+      "total_players_with_chips": 10
     }
   },
   "events": [],
@@ -31,41 +31,12 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573841+00:00",
+      "last_update": "2026-06-21T23:19:45.280310+00:00",
       "live_chips": [
         {
           "event_no": 55,
           "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1185000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1185000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "יורי דזיבילבסקי": {
-      "name_he": "יורי דזיבילבסקי",
-      "name_en": "Yuri Dzivielevski",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-21T21:19:14.573868+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1450000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 1450000,
+          "chips": 2225000,
           "source": "pokernews.com"
         }
       ]
@@ -77,18 +48,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573874+00:00",
+      "last_update": "2026-06-21T23:19:45.280340+00:00",
       "live_chips": [
         {
           "event_no": 55,
           "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 6985000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 6985000,
+          "chips": 6775000,
           "source": "pokernews.com"
         }
       ]
@@ -100,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573883+00:00",
+      "last_update": "2026-06-21T23:19:45.280350+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -117,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573890+00:00",
+      "last_update": "2026-06-21T23:19:45.280358+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -134,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573896+00:00",
+      "last_update": "2026-06-21T23:19:45.280365+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -151,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573899+00:00",
+      "last_update": "2026-06-21T23:19:45.280368+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -168,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573906+00:00",
+      "last_update": "2026-06-21T23:19:45.280376+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -185,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573911+00:00",
+      "last_update": "2026-06-21T23:19:45.280383+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -202,7 +167,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573919+00:00",
+      "last_update": "2026-06-21T23:19:45.280391+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -219,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T21:19:14.573925+00:00",
+      "last_update": "2026-06-21T23:19:45.280397+00:00",
       "live_chips": [
         {
           "event_no": 46600,
