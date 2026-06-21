@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-21T00:12:40.743890+00:00",
-    "duration_seconds": 21.2,
+    "fetched_at": "2026-06-21T06:07:26.612680+00:00",
+    "duration_seconds": 19.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,28 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 8
     }
   },
   "events": [],
   "players": {
-    "דניאל מאור": {
-      "name_he": "דניאל מאור",
-      "name_en": "Daniel Maor",
-      "category": "ישראלים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-21T00:12:40.743660+00:00",
-      "live_chips": [
-        {
-          "event_no": 50,
-          "event_title": "Event #50: $1,500 Millionaire Maker",
-          "chips": 605000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -48,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743687+00:00",
+      "last_update": "2026-06-21T06:07:26.612452+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743694+00:00",
+      "last_update": "2026-06-21T06:07:26.612478+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743699+00:00",
+      "last_update": "2026-06-21T06:07:26.612486+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743702+00:00",
+      "last_update": "2026-06-21T06:07:26.612490+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743708+00:00",
+      "last_update": "2026-06-21T06:07:26.612496+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743713+00:00",
+      "last_update": "2026-06-21T06:07:26.612501+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -150,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743720+00:00",
+      "last_update": "2026-06-21T06:07:26.612525+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -167,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T00:12:40.743725+00:00",
+      "last_update": "2026-06-21T06:07:26.612532+00:00",
       "live_chips": [
         {
           "event_no": 46600,
