@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-21T23:19:45.280575+00:00",
-    "duration_seconds": 24.3,
+    "fetched_at": "2026-06-22T04:53:25.184668+00:00",
+    "duration_seconds": 18.0,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,45 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 10
+      "total_players_with_chips": 8
     }
   },
   "events": [],
   "players": {
-    "סנתוש סובארנה": {
-      "name_he": "סנתוש סובארנה",
-      "name_en": "Santhosh Suvarna",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-21T23:19:45.280310+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 2225000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ז'ואאו סימאו": {
-      "name_he": "ז'ואאו סימאו",
-      "name_en": "Joao Simao",
-      "category": "מיד סטייקס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-21T23:19:45.280340+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 6775000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -65,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280350+00:00",
+      "last_update": "2026-06-22T04:53:25.184456+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280358+00:00",
+      "last_update": "2026-06-22T04:53:25.184481+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280365+00:00",
+      "last_update": "2026-06-22T04:53:25.184488+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280368+00:00",
+      "last_update": "2026-06-22T04:53:25.184492+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280376+00:00",
+      "last_update": "2026-06-22T04:53:25.184499+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280383+00:00",
+      "last_update": "2026-06-22T04:53:25.184504+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -167,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280391+00:00",
+      "last_update": "2026-06-22T04:53:25.184516+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -184,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-21T23:19:45.280397+00:00",
+      "last_update": "2026-06-22T04:53:25.184523+00:00",
       "live_chips": [
         {
           "event_no": 46600,
