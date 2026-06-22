@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-22T15:57:04.037896+00:00",
-    "duration_seconds": 26.8,
+    "fetched_at": "2026-06-22T19:36:51.352721+00:00",
+    "duration_seconds": 19.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,87 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 14,
+        "events": 13,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 18
+      "total_players_with_chips": 15
     }
   },
   "events": [],
   "players": {
-    "ז'ואאו סימאו": {
-      "name_he": "ז'ואאו סימאו",
-      "name_en": "Joao Simao",
-      "category": "מיד סטייקס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-22T15:57:04.037559+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "סנתוש סובארנה": {
-      "name_he": "סנתוש סובארנה",
-      "name_en": "Santhosh Suvarna",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-22T15:57:04.037619+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "יורי דזיבילבסקי": {
-      "name_he": "יורי דזיבילבסקי",
-      "name_en": "Yuri Dzivielevski",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-22T15:57:04.037627+00:00",
-      "live_chips": [
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 55,
-          "event_title": "Event #55: $50,000 High Roller Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ניק פופילו": {
       "name_he": "ניק פופילו",
       "name_en": "Nick Pupillo",
@@ -100,7 +31,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037638+00:00",
+      "last_update": "2026-06-22T19:36:51.352452+00:00",
       "live_chips": [
         {
           "event_no": 58,
@@ -117,7 +48,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037646+00:00",
+      "last_update": "2026-06-22T19:36:51.352483+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -134,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037649+00:00",
+      "last_update": "2026-06-22T19:36:51.352487+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -151,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037653+00:00",
+      "last_update": "2026-06-22T19:36:51.352492+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -168,7 +99,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037659+00:00",
+      "last_update": "2026-06-22T19:36:51.352496+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -185,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037663+00:00",
+      "last_update": "2026-06-22T19:36:51.352514+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -202,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037667+00:00",
+      "last_update": "2026-06-22T19:36:51.352518+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -219,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037674+00:00",
+      "last_update": "2026-06-22T19:36:51.352528+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -236,7 +167,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037680+00:00",
+      "last_update": "2026-06-22T19:36:51.352534+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -253,7 +184,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037686+00:00",
+      "last_update": "2026-06-22T19:36:51.352539+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -270,7 +201,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037690+00:00",
+      "last_update": "2026-06-22T19:36:51.352542+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -287,7 +218,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037696+00:00",
+      "last_update": "2026-06-22T19:36:51.352548+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -304,7 +235,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037701+00:00",
+      "last_update": "2026-06-22T19:36:51.352553+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -321,7 +252,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037708+00:00",
+      "last_update": "2026-06-22T19:36:51.352561+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -338,7 +269,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-22T15:57:04.037714+00:00",
+      "last_update": "2026-06-22T19:36:51.352567+00:00",
       "live_chips": [
         {
           "event_no": 46600,
