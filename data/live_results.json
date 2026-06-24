@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-24T03:58:15.280372+00:00",
-    "duration_seconds": 23.7,
+    "fetched_at": "2026-06-24T07:51:18.839230+00:00",
+    "duration_seconds": 23.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 13
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280115+00:00",
+      "last_update": "2026-06-24T07:51:18.838996+00:00",
       "live_chips": [
         {
           "event_no": 59,
@@ -47,6 +47,74 @@
         }
       ]
     },
+    "יוהה הלפי": {
+      "name_he": "יוהה הלפי",
+      "name_en": "Juha Helppi",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-24T07:51:18.839018+00:00",
+      "live_chips": [
+        {
+          "event_no": 64,
+          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
+          "chips": 936000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דן סמית'": {
+      "name_he": "דן סמית'",
+      "name_en": "Dan Smith",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-24T07:51:18.839024+00:00",
+      "live_chips": [
+        {
+          "event_no": 64,
+          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
+          "chips": 585000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "קארי כץ": {
+      "name_he": "קארי כץ",
+      "name_en": "Cary Katz",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-24T07:51:18.839034+00:00",
+      "live_chips": [
+        {
+          "event_no": 64,
+          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
+          "chips": 571000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "צ'אנס קורנות'": {
+      "name_he": "צ'אנס קורנות'",
+      "name_en": "Chance Kornuth",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-24T07:51:18.839039+00:00",
+      "live_chips": [
+        {
+          "event_no": 64,
+          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -54,7 +122,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280146+00:00",
+      "last_update": "2026-06-24T07:51:18.839046+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -71,7 +139,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280155+00:00",
+      "last_update": "2026-06-24T07:51:18.839053+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -88,7 +156,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280162+00:00",
+      "last_update": "2026-06-24T07:51:18.839060+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -105,7 +173,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280166+00:00",
+      "last_update": "2026-06-24T07:51:18.839064+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,7 +190,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280172+00:00",
+      "last_update": "2026-06-24T07:51:18.839070+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -139,7 +207,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280177+00:00",
+      "last_update": "2026-06-24T07:51:18.839075+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -156,7 +224,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280186+00:00",
+      "last_update": "2026-06-24T07:51:18.839082+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -173,7 +241,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T03:58:15.280192+00:00",
+      "last_update": "2026-06-24T07:51:18.839089+00:00",
       "live_chips": [
         {
           "event_no": 46600,
