@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-24T16:24:46.009945+00:00",
-    "duration_seconds": 27.1,
+    "fetched_at": "2026-06-24T18:53:53.393091+00:00",
+    "duration_seconds": 24.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,41 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 17,
+        "events": 16,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 20
+      "total_players_with_chips": 19
     }
   },
   "events": [],
   "players": {
-    "לקסי גאבין-מאת'ר": {
-      "name_he": "לקסי גאבין-מאת'ר",
-      "name_en": "Lexy Gavin-Mather",
-      "category": "מיד סטייקס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T16:24:46.009680+00:00",
-      "live_chips": [
-        {
-          "event_no": 59,
-          "event_title": "Event #59: $500 Salute to Warriors",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 59,
-          "event_title": "Event #59: $500 Salute to Warriors",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "בני גלאזר": {
       "name_he": "בני גלאזר",
       "name_en": "Benny Glaser",
@@ -54,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009700+00:00",
+      "last_update": "2026-06-24T18:53:53.392769+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -71,7 +48,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009708+00:00",
+      "last_update": "2026-06-24T18:53:53.392810+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -88,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009712+00:00",
+      "last_update": "2026-06-24T18:53:53.392816+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -105,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009715+00:00",
+      "last_update": "2026-06-24T18:53:53.392819+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -122,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009720+00:00",
+      "last_update": "2026-06-24T18:53:53.392823+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -139,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009728+00:00",
+      "last_update": "2026-06-24T18:53:53.392846+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -156,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009733+00:00",
+      "last_update": "2026-06-24T18:53:53.392851+00:00",
       "live_chips": [
         {
           "event_no": 60,
@@ -173,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009738+00:00",
+      "last_update": "2026-06-24T18:53:53.392858+00:00",
       "live_chips": [
         {
           "event_no": 64,
@@ -190,7 +167,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009743+00:00",
+      "last_update": "2026-06-24T18:53:53.392862+00:00",
       "live_chips": [
         {
           "event_no": 64,
@@ -207,7 +184,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009761+00:00",
+      "last_update": "2026-06-24T18:53:53.392874+00:00",
       "live_chips": [
         {
           "event_no": 64,
@@ -224,7 +201,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009765+00:00",
+      "last_update": "2026-06-24T18:53:53.392877+00:00",
       "live_chips": [
         {
           "event_no": 64,
@@ -241,7 +218,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009772+00:00",
+      "last_update": "2026-06-24T18:53:53.392884+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -258,7 +235,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009777+00:00",
+      "last_update": "2026-06-24T18:53:53.392890+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -275,7 +252,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009783+00:00",
+      "last_update": "2026-06-24T18:53:53.392895+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -292,7 +269,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009786+00:00",
+      "last_update": "2026-06-24T18:53:53.392898+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -309,7 +286,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009791+00:00",
+      "last_update": "2026-06-24T18:53:53.392903+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -326,7 +303,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009796+00:00",
+      "last_update": "2026-06-24T18:53:53.392908+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -343,7 +320,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009803+00:00",
+      "last_update": "2026-06-24T18:53:53.392915+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -360,7 +337,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T16:24:46.009808+00:00",
+      "last_update": "2026-06-24T18:53:53.392921+00:00",
       "live_chips": [
         {
           "event_no": 46600,
