@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-24T18:53:53.393091+00:00",
-    "duration_seconds": 24.8,
+    "fetched_at": "2026-06-24T20:50:19.386608+00:00",
+    "duration_seconds": 24.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,198 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 19
+      "total_players_with_chips": 8
     }
   },
   "events": [],
   "players": {
-    "בני גלאזר": {
-      "name_he": "בני גלאזר",
-      "name_en": "Benny Glaser",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392769+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 4705000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פול וולפה": {
-      "name_he": "פול וולפה",
-      "name_en": "Paul Volpe",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392810+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 4020000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'וש אריה": {
-      "name_he": "ג'וש אריה",
-      "name_en": "Josh Arieh",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392816+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 2640000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיל אייבי": {
-      "name_he": "פיל אייבי",
-      "name_en": "Phil Ivey",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392819+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 2555000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס ליבינגסטון": {
-      "name_he": "אלכס ליבינגסטון",
-      "name_en": "Alex Livingston",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392823+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 2530000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'ייסון מרסייר": {
-      "name_he": "ג'ייסון מרסייר",
-      "name_en": "Jason Mercier",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392846+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 2180000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריס ברואר": {
-      "name_he": "כריס ברואר",
-      "name_en": "Chris Brewer",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392851+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "יוהה הלפי": {
-      "name_he": "יוהה הלפי",
-      "name_en": "Juha Helppi",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392858+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 936000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דן סמית'": {
-      "name_he": "דן סמית'",
-      "name_en": "Dan Smith",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392862+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 585000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "קארי כץ": {
-      "name_he": "קארי כץ",
-      "name_en": "Cary Katz",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392874+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 571000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "צ'אנס קורנות'": {
-      "name_he": "צ'אנס קורנות'",
-      "name_en": "Chance Kornuth",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-24T18:53:53.392877+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -218,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392884+00:00",
+      "last_update": "2026-06-24T20:50:19.386389+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -235,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392890+00:00",
+      "last_update": "2026-06-24T20:50:19.386411+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -252,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392895+00:00",
+      "last_update": "2026-06-24T20:50:19.386418+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -269,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392898+00:00",
+      "last_update": "2026-06-24T20:50:19.386421+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -286,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392903+00:00",
+      "last_update": "2026-06-24T20:50:19.386428+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -303,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392908+00:00",
+      "last_update": "2026-06-24T20:50:19.386433+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -320,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392915+00:00",
+      "last_update": "2026-06-24T20:50:19.386445+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -337,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-24T18:53:53.392921+00:00",
+      "last_update": "2026-06-24T20:50:19.386452+00:00",
       "live_chips": [
         {
           "event_no": 46600,
