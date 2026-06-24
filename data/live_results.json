@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-23T23:11:22.324472+00:00",
-    "duration_seconds": 23.3,
+    "fetched_at": "2026-06-24T03:58:15.280372+00:00",
+    "duration_seconds": 23.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,34 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 9
     }
   },
   "events": [],
   "players": {
+    "לקסי גאבין-מאת'ר": {
+      "name_he": "לקסי גאבין-מאת'ר",
+      "name_en": "Lexy Gavin-Mather",
+      "category": "מיד סטייקס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-24T03:58:15.280115+00:00",
+      "live_chips": [
+        {
+          "event_no": 59,
+          "event_title": "Event #59: $500 Salute to Warriors",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 59,
+          "event_title": "Event #59: $500 Salute to Warriors",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +54,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324239+00:00",
+      "last_update": "2026-06-24T03:58:15.280146+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +71,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324264+00:00",
+      "last_update": "2026-06-24T03:58:15.280155+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +88,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324271+00:00",
+      "last_update": "2026-06-24T03:58:15.280162+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +105,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324274+00:00",
+      "last_update": "2026-06-24T03:58:15.280166+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +122,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324281+00:00",
+      "last_update": "2026-06-24T03:58:15.280172+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +139,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324285+00:00",
+      "last_update": "2026-06-24T03:58:15.280177+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +156,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324309+00:00",
+      "last_update": "2026-06-24T03:58:15.280186+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-23T23:11:22.324317+00:00",
+      "last_update": "2026-06-24T03:58:15.280192+00:00",
       "live_chips": [
         {
           "event_no": 46600,
