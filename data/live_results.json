@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-26T17:03:23.718429+00:00",
-    "duration_seconds": 27.4,
+    "fetched_at": "2026-06-26T19:55:42.648255+00:00",
+    "duration_seconds": 21.9,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,103 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 16,
+        "events": 12,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 19
+      "total_players_with_chips": 11
     }
   },
   "events": [],
   "players": {
-    "בני גלאזר": {
-      "name_he": "בני גלאזר",
-      "name_en": "Benny Glaser",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718110+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'וש אריה": {
-      "name_he": "ג'וש אריה",
-      "name_en": "Josh Arieh",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718135+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיל אייבי": {
-      "name_he": "פיל אייבי",
-      "name_en": "Phil Ivey",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718140+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פול וולפה": {
-      "name_he": "פול וולפה",
-      "name_en": "Paul Volpe",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718156+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'ייסון מרסייר": {
-      "name_he": "ג'ייסון מרסייר",
-      "name_en": "Jason Mercier",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718182+00:00",
-      "live_chips": [
-        {
-          "event_no": 60,
-          "event_title": "Event #60: $50,000 Poker Players Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ניק פופילו": {
       "name_he": "ניק פופילו",
       "name_en": "Nick Pupillo",
@@ -116,92 +31,12 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718198+00:00",
+      "last_update": "2026-06-26T19:55:42.648019+00:00",
       "live_chips": [
         {
           "event_no": 63,
           "event_title": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
           "chips": 1720000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "יוהה הלפי": {
-      "name_he": "יוהה הלפי",
-      "name_en": "Juha Helppi",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718204+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "שון וינטר": {
-      "name_he": "שון וינטר",
-      "name_en": "Sean Winter",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718214+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718217+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 69,
-          "event_title": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
-          "chips": 235500,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 71776,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דילן לינדה": {
-      "name_he": "דילן לינדה",
-      "name_en": "Dylan Linde",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-26T17:03:23.718222+00:00",
-      "live_chips": [
-        {
-          "event_no": 64,
-          "event_title": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -213,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718226+00:00",
+      "last_update": "2026-06-26T19:55:42.648042+00:00",
       "live_chips": [
         {
           "event_no": 67,
@@ -230,12 +65,35 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718234+00:00",
+      "last_update": "2026-06-26T19:55:42.648054+00:00",
       "live_chips": [
         {
           "event_no": 67,
           "event_title": "Event #67: $10,000 Limit 2-7 Championship",
           "chips": 11,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-26T19:55:42.648058+00:00",
+      "live_chips": [
+        {
+          "event_no": 69,
+          "event_title": "Event #69: $1,500 Seven Card Stud Hi-Lo 8 or Better",
+          "chips": 235500,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
           "source": "pokernews.com"
         }
       ]
@@ -247,7 +105,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718240+00:00",
+      "last_update": "2026-06-26T19:55:42.648066+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -264,7 +122,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718246+00:00",
+      "last_update": "2026-06-26T19:55:42.648073+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -281,7 +139,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718252+00:00",
+      "last_update": "2026-06-26T19:55:42.648080+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -298,7 +156,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718257+00:00",
+      "last_update": "2026-06-26T19:55:42.648087+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -315,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718262+00:00",
+      "last_update": "2026-06-26T19:55:42.648092+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -332,7 +190,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718269+00:00",
+      "last_update": "2026-06-26T19:55:42.648099+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -349,7 +207,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-26T17:03:23.718274+00:00",
+      "last_update": "2026-06-26T19:55:42.648105+00:00",
       "live_chips": [
         {
           "event_no": 46600,
