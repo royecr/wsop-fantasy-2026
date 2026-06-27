@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-27T09:32:04.459589+00:00",
-    "duration_seconds": 19.8,
+    "fetched_at": "2026-06-27T11:38:28.589626+00:00",
+    "duration_seconds": 19.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 12,
+        "events": 13,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 11
+      "total_players_with_chips": 12
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459362+00:00",
+      "last_update": "2026-06-27T11:38:28.589397+00:00",
       "live_chips": [
         {
           "event_no": 63,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459383+00:00",
+      "last_update": "2026-06-27T11:38:28.589416+00:00",
       "live_chips": [
         {
           "event_no": 67,
@@ -64,6 +64,23 @@
         }
       ]
     },
+    "צ'ריש אנדרוז": {
+      "name_he": "צ'ריש אנדרוז",
+      "name_en": "Cherish Andrews",
+      "category": "מיד סטייקס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-27T11:38:28.589425+00:00",
+      "live_chips": [
+        {
+          "event_no": 68,
+          "event_title": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
+          "chips": 1610000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "מייקל מזרחי": {
       "name_he": "מייקל מזרחי",
       "name_en": "Michael Mizrachi",
@@ -71,7 +88,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459387+00:00",
+      "last_update": "2026-06-27T11:38:28.589428+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -88,7 +105,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459397+00:00",
+      "last_update": "2026-06-27T11:38:28.589445+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -105,7 +122,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459404+00:00",
+      "last_update": "2026-06-27T11:38:28.589451+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,7 +139,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459410+00:00",
+      "last_update": "2026-06-27T11:38:28.589457+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -139,7 +156,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459413+00:00",
+      "last_update": "2026-06-27T11:38:28.589464+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -156,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459420+00:00",
+      "last_update": "2026-06-27T11:38:28.589470+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -173,7 +190,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459425+00:00",
+      "last_update": "2026-06-27T11:38:28.589475+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -190,7 +207,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459435+00:00",
+      "last_update": "2026-06-27T11:38:28.589486+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -207,7 +224,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T09:32:04.459441+00:00",
+      "last_update": "2026-06-27T11:38:28.589491+00:00",
       "live_chips": [
         {
           "event_no": 46600,
