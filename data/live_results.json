@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-27T06:56:28.817320+00:00",
-    "duration_seconds": 19.3,
+    "fetched_at": "2026-06-27T09:32:04.459589+00:00",
+    "duration_seconds": 19.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,28 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 11
     }
   },
   "events": [],
   "players": {
+    "לירן בטיטו": {
+      "name_he": "לירן בטיטו",
+      "name_en": "Liran Betito",
+      "category": "ישראלים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-27T09:32:04.459362+00:00",
+      "live_chips": [
+        {
+          "event_no": 63,
+          "event_title": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
+          "chips": 2390000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ניק שולמן": {
       "name_he": "ניק שולמן",
       "name_en": "Nick Schulman",
@@ -31,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817037+00:00",
+      "last_update": "2026-06-27T09:32:04.459383+00:00",
       "live_chips": [
         {
           "event_no": 67,
@@ -47,6 +64,23 @@
         }
       ]
     },
+    "מייקל מזרחי": {
+      "name_he": "מייקל מזרחי",
+      "name_en": "Michael Mizrachi",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-27T09:32:04.459387+00:00",
+      "live_chips": [
+        {
+          "event_no": 70,
+          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
+          "chips": 946000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -54,7 +88,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817102+00:00",
+      "last_update": "2026-06-27T09:32:04.459397+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -71,7 +105,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817113+00:00",
+      "last_update": "2026-06-27T09:32:04.459404+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -88,7 +122,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817120+00:00",
+      "last_update": "2026-06-27T09:32:04.459410+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -105,7 +139,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817123+00:00",
+      "last_update": "2026-06-27T09:32:04.459413+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,7 +156,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817130+00:00",
+      "last_update": "2026-06-27T09:32:04.459420+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -139,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817136+00:00",
+      "last_update": "2026-06-27T09:32:04.459425+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -156,7 +190,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817149+00:00",
+      "last_update": "2026-06-27T09:32:04.459435+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -173,7 +207,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T06:56:28.817155+00:00",
+      "last_update": "2026-06-27T09:32:04.459441+00:00",
       "live_chips": [
         {
           "event_no": 46600,
