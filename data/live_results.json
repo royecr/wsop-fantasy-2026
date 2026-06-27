@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-27T19:26:48.982059+00:00",
-    "duration_seconds": 18.3,
+    "fetched_at": "2026-06-27T21:09:27.942702+00:00",
+    "duration_seconds": 15.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 12
+      "total_players_with_chips": 9
     }
   },
   "events": [],
@@ -31,63 +31,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981796+00:00",
+      "last_update": "2026-06-27T21:09:27.942481+00:00",
       "live_chips": [
         {
           "event_no": 63,
           "event_title": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
           "chips": 2390000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "צ'ריש אנדרוז": {
-      "name_he": "צ'ריש אנדרוז",
-      "name_en": "Cherish Andrews",
-      "category": "מיד סטייקס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-27T19:26:48.981821+00:00",
-      "live_chips": [
-        {
-          "event_no": 68,
-          "event_title": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
-          "chips": 1640000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "לקסי גאבין-מאת'ר": {
-      "name_he": "לקסי גאבין-מאת'ר",
-      "name_en": "Lexy Gavin-Mather",
-      "category": "מיד סטייקס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-27T19:26:48.981847+00:00",
-      "live_chips": [
-        {
-          "event_no": 68,
-          "event_title": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
-          "chips": 1165000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מייקל מזרחי": {
-      "name_he": "מייקל מזרחי",
-      "name_en": "Michael Mizrachi",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-27T19:26:48.981850+00:00",
-      "live_chips": [
-        {
-          "event_no": 70,
-          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
-          "chips": 946000,
           "source": "pokernews.com"
         }
       ]
@@ -99,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981858+00:00",
+      "last_update": "2026-06-27T21:09:27.942508+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981864+00:00",
+      "last_update": "2026-06-27T21:09:27.942516+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981870+00:00",
+      "last_update": "2026-06-27T21:09:27.942522+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981875+00:00",
+      "last_update": "2026-06-27T21:09:27.942525+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -167,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981881+00:00",
+      "last_update": "2026-06-27T21:09:27.942532+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -184,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981885+00:00",
+      "last_update": "2026-06-27T21:09:27.942537+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -201,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981892+00:00",
+      "last_update": "2026-06-27T21:09:27.942549+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -218,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T19:26:48.981908+00:00",
+      "last_update": "2026-06-27T21:09:27.942555+00:00",
       "live_chips": [
         {
           "event_no": 46600,
