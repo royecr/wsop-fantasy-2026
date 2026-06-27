@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-27T03:51:50.636068+00:00",
-    "duration_seconds": 17.0,
+    "fetched_at": "2026-06-27T06:56:28.817320+00:00",
+    "duration_seconds": 19.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,34 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 9
     }
   },
   "events": [],
   "players": {
+    "ניק שולמן": {
+      "name_he": "ניק שולמן",
+      "name_en": "Nick Schulman",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-27T06:56:28.817037+00:00",
+      "live_chips": [
+        {
+          "event_no": 67,
+          "event_title": "Event #67: $10,000 Limit 2-7 Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 67,
+          "event_title": "Event #67: $10,000 Limit 2-7 Championship",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -31,7 +54,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635830+00:00",
+      "last_update": "2026-06-27T06:56:28.817102+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +71,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635859+00:00",
+      "last_update": "2026-06-27T06:56:28.817113+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +88,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635868+00:00",
+      "last_update": "2026-06-27T06:56:28.817120+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +105,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635873+00:00",
+      "last_update": "2026-06-27T06:56:28.817123+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +122,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635880+00:00",
+      "last_update": "2026-06-27T06:56:28.817130+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +139,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635886+00:00",
+      "last_update": "2026-06-27T06:56:28.817136+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +156,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635899+00:00",
+      "last_update": "2026-06-27T06:56:28.817149+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T03:51:50.635907+00:00",
+      "last_update": "2026-06-27T06:56:28.817155+00:00",
       "live_chips": [
         {
           "event_no": 46600,
