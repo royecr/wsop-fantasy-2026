@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-28T17:17:59.352444+00:00",
-    "duration_seconds": 19.6,
+    "fetched_at": "2026-06-28T19:27:10.532158+00:00",
+    "duration_seconds": 19.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,7 +12,7 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 13,
+        "events": 12,
         "errors": 0
       }
     ],
@@ -24,19 +24,19 @@
   },
   "events": [],
   "players": {
-    "כפיר נחום": {
-      "name_he": "כפיר נחום",
-      "name_en": "Kfir Nahum",
+    "לירן בטיטו": {
+      "name_he": "לירן בטיטו",
+      "name_en": "Liran Betito",
       "category": "ישראלים",
-      "price": 25,
+      "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T17:17:59.352237+00:00",
+      "last_update": "2026-06-28T19:27:10.531985+00:00",
       "live_chips": [
         {
           "event_no": 63,
           "event_title": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
-          "chips": 745000,
+          "chips": 10,
           "source": "pokernews.com"
         }
       ]
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T17:17:59.352259+00:00",
+      "last_update": "2026-06-28T19:27:10.532005+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -65,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T17:17:59.352272+00:00",
+      "last_update": "2026-06-28T19:27:10.532012+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -82,7 +82,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T17:17:59.352283+00:00",
+      "last_update": "2026-06-28T19:27:10.532022+00:00",
       "live_chips": [
         {
           "event_no": 71,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T17:17:59.352288+00:00",
+      "last_update": "2026-06-28T19:27:10.532027+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -116,7 +116,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T17:17:59.352296+00:00",
+      "last_update": "2026-06-28T19:27:10.532036+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -133,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T17:17:59.352302+00:00",
+      "last_update": "2026-06-28T19:27:10.532043+00:00",
       "live_chips": [
         {
           "event_no": 46600,
