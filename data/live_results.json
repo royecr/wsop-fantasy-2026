@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-27T23:07:09.200647+00:00",
-    "duration_seconds": 15.6,
+    "fetched_at": "2026-06-28T04:13:46.109970+00:00",
+    "duration_seconds": 17.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,28 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 8
     }
   },
   "events": [],
   "players": {
-    "לירן בטיטו": {
-      "name_he": "לירן בטיטו",
-      "name_en": "Liran Betito",
-      "category": "ישראלים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-27T23:07:09.200425+00:00",
-      "live_chips": [
-        {
-          "event_no": 63,
-          "event_title": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
-          "chips": 2390000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ק סינקלייר": {
       "name_he": "ג'ק סינקלייר",
       "name_en": "Jack Sinclair",
@@ -48,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200451+00:00",
+      "last_update": "2026-06-28T04:13:46.109699+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200459+00:00",
+      "last_update": "2026-06-28T04:13:46.109729+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200465+00:00",
+      "last_update": "2026-06-28T04:13:46.109737+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200469+00:00",
+      "last_update": "2026-06-28T04:13:46.109741+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200475+00:00",
+      "last_update": "2026-06-28T04:13:46.109748+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200480+00:00",
+      "last_update": "2026-06-28T04:13:46.109754+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -150,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200493+00:00",
+      "last_update": "2026-06-28T04:13:46.109768+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -167,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-27T23:07:09.200499+00:00",
+      "last_update": "2026-06-28T04:13:46.109784+00:00",
       "live_chips": [
         {
           "event_no": 46600,
