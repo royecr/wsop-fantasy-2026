@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-28T08:24:28.780745+00:00",
-    "duration_seconds": 18.0,
+    "fetched_at": "2026-06-28T11:11:15.736219+00:00",
+    "duration_seconds": 20.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,62 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 3
+      "total_players_with_chips": 6
     }
   },
   "events": [],
   "players": {
+    "מייקל מזרחי": {
+      "name_he": "מייקל מזרחי",
+      "name_en": "Michael Mizrachi",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-28T11:11:15.735973+00:00",
+      "live_chips": [
+        {
+          "event_no": 70,
+          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
+          "chips": 5655000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סי לוניס": {
+      "name_he": "ג'סי לוניס",
+      "name_en": "Jesse Lonis",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-28T11:11:15.735999+00:00",
+      "live_chips": [
+        {
+          "event_no": 70,
+          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
+          "chips": 2985000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "נאצ'ו ברברו": {
+      "name_he": "נאצ'ו ברברו",
+      "name_en": "Nacho Barbero",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-28T11:11:15.736043+00:00",
+      "live_chips": [
+        {
+          "event_no": 71,
+          "event_title": "Event #71: $2,500 Mixed Big Bet Event",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ו מקיהן": {
       "name_he": "ג'ו מקיהן",
       "name_en": "Joe McKeehen",
@@ -31,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T08:24:28.780564+00:00",
+      "last_update": "2026-06-28T11:11:15.736051+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -48,7 +99,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T08:24:28.780600+00:00",
+      "last_update": "2026-06-28T11:11:15.736061+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -65,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T08:24:28.780609+00:00",
+      "last_update": "2026-06-28T11:11:15.736068+00:00",
       "live_chips": [
         {
           "event_no": 46600,
