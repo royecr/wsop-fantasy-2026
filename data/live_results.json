@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-28T19:27:10.532158+00:00",
-    "duration_seconds": 19.2,
+    "fetched_at": "2026-06-28T21:06:51.848599+00:00",
+    "duration_seconds": 17.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,79 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 7
+      "total_players_with_chips": 3
     }
   },
   "events": [],
   "players": {
-    "לירן בטיטו": {
-      "name_he": "לירן בטיטו",
-      "name_en": "Liran Betito",
-      "category": "ישראלים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T19:27:10.531985+00:00",
-      "live_chips": [
-        {
-          "event_no": 63,
-          "event_title": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מייקל מזרחי": {
-      "name_he": "מייקל מזרחי",
-      "name_en": "Michael Mizrachi",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T19:27:10.532005+00:00",
-      "live_chips": [
-        {
-          "event_no": 70,
-          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
-          "chips": 5655000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T19:27:10.532012+00:00",
-      "live_chips": [
-        {
-          "event_no": 70,
-          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
-          "chips": 2985000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "נאצ'ו ברברו": {
-      "name_he": "נאצ'ו ברברו",
-      "name_en": "Nacho Barbero",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T19:27:10.532022+00:00",
-      "live_chips": [
-        {
-          "event_no": 71,
-          "event_title": "Event #71: $2,500 Mixed Big Bet Event",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ו מקיהן": {
       "name_he": "ג'ו מקיהן",
       "name_en": "Joe McKeehen",
@@ -99,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T19:27:10.532027+00:00",
+      "last_update": "2026-06-28T21:06:51.848374+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -116,7 +48,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T19:27:10.532036+00:00",
+      "last_update": "2026-06-28T21:06:51.848421+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -133,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T19:27:10.532043+00:00",
+      "last_update": "2026-06-28T21:06:51.848430+00:00",
       "live_chips": [
         {
           "event_no": 46600,
