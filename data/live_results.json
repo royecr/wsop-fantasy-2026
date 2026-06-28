@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-28T04:13:46.109970+00:00",
-    "duration_seconds": 17.1,
+    "fetched_at": "2026-06-28T08:24:28.780745+00:00",
+    "duration_seconds": 18.0,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,103 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 11,
+        "events": 13,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 3
     }
   },
   "events": [],
   "players": {
-    "ג'ק סינקלייר": {
-      "name_he": "ג'ק סינקלייר",
-      "name_en": "Jack Sinclair",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T04:13:46.109699+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "בן לאמב": {
-      "name_he": "בן לאמב",
-      "name_en": "Ben Lamb",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T04:13:46.109729+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס פוקסן": {
-      "name_he": "אלכס פוקסן",
-      "name_en": "Alex Foxen",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T04:13:46.109737+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 75436,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T04:13:46.109741+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 71776,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "קני הלארט": {
-      "name_he": "קני הלארט",
-      "name_en": "Kenny Hallaert",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-28T04:13:46.109748+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ו מקיהן": {
       "name_he": "ג'ו מקיהן",
       "name_en": "Joe McKeehen",
@@ -116,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T04:13:46.109754+00:00",
+      "last_update": "2026-06-28T08:24:28.780564+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +48,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T04:13:46.109768+00:00",
+      "last_update": "2026-06-28T08:24:28.780600+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-28T04:13:46.109784+00:00",
+      "last_update": "2026-06-28T08:24:28.780609+00:00",
       "live_chips": [
         {
           "event_no": 46600,
