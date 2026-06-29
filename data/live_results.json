@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-29T17:41:25.533567+00:00",
-    "duration_seconds": 16.7,
+    "fetched_at": "2026-06-29T20:04:38.145676+00:00",
+    "duration_seconds": 18.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 11,
+        "events": 12,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 10
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533321+00:00",
+      "last_update": "2026-06-29T20:04:38.145358+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -48,7 +48,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533376+00:00",
+      "last_update": "2026-06-29T20:04:38.145421+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -65,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533382+00:00",
+      "last_update": "2026-06-29T20:04:38.145427+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -82,7 +82,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533394+00:00",
+      "last_update": "2026-06-29T20:04:38.145438+00:00",
       "live_chips": [
         {
           "event_no": 71,
@@ -99,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533400+00:00",
+      "last_update": "2026-06-29T20:04:38.145442+00:00",
       "live_chips": [
         {
           "event_no": 71,
@@ -116,12 +116,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533403+00:00",
+      "last_update": "2026-06-29T20:04:38.145446+00:00",
       "live_chips": [
         {
           "event_no": 74,
           "event_title": "Event #74: $1,500 8-Game Mixed",
           "chips": 378500,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "סקוט סיבר": {
+      "name_he": "סקוט סיבר",
+      "name_en": "Scott Seiver",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-29T20:04:38.145450+00:00",
+      "live_chips": [
+        {
+          "event_no": 74,
+          "event_title": "Event #74: $1,500 8-Game Mixed",
+          "chips": 261000,
           "source": "pokernews.com"
         }
       ]
@@ -133,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533420+00:00",
+      "last_update": "2026-06-29T20:04:38.145467+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -150,7 +167,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533429+00:00",
+      "last_update": "2026-06-29T20:04:38.145475+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -167,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T17:41:25.533435+00:00",
+      "last_update": "2026-06-29T20:04:38.145481+00:00",
       "live_chips": [
         {
           "event_no": 46600,
