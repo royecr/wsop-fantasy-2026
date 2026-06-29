@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-29T14:08:35.769594+00:00",
-    "duration_seconds": 18.7,
+    "fetched_at": "2026-06-29T17:41:25.533567+00:00",
+    "duration_seconds": 16.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,52 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 12,
+        "events": 11,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 11
+      "total_players_with_chips": 9
     }
   },
   "events": [],
   "players": {
-    "לקסי גאבין-מאת'ר": {
-      "name_he": "לקסי גאבין-מאת'ר",
-      "name_en": "Lexy Gavin-Mather",
-      "category": "מיד סטייקס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-29T14:08:35.769365+00:00",
-      "live_chips": [
-        {
-          "event_no": 68,
-          "event_title": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סיקה טיוסל": {
-      "name_he": "ג'סיקה טיוסל",
-      "name_en": "Jessica Teusl",
-      "category": "מיד סטייקס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-29T14:08:35.769392+00:00",
-      "live_chips": [
-        {
-          "event_no": 68,
-          "event_title": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "מייקל מזרחי": {
       "name_he": "מייקל מזרחי",
       "name_en": "Michael Mizrachi",
@@ -65,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769397+00:00",
+      "last_update": "2026-06-29T17:41:25.533321+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -82,7 +48,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769408+00:00",
+      "last_update": "2026-06-29T17:41:25.533376+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -99,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769412+00:00",
+      "last_update": "2026-06-29T17:41:25.533382+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -116,7 +82,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769422+00:00",
+      "last_update": "2026-06-29T17:41:25.533394+00:00",
       "live_chips": [
         {
           "event_no": 71,
@@ -133,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769427+00:00",
+      "last_update": "2026-06-29T17:41:25.533400+00:00",
       "live_chips": [
         {
           "event_no": 71,
@@ -150,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769432+00:00",
+      "last_update": "2026-06-29T17:41:25.533403+00:00",
       "live_chips": [
         {
           "event_no": 74,
@@ -167,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769443+00:00",
+      "last_update": "2026-06-29T17:41:25.533420+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -184,7 +150,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769451+00:00",
+      "last_update": "2026-06-29T17:41:25.533429+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -201,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T14:08:35.769457+00:00",
+      "last_update": "2026-06-29T17:41:25.533435+00:00",
       "live_chips": [
         {
           "event_no": 46600,
