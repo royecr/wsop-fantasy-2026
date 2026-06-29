@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-29T20:04:38.145676+00:00",
-    "duration_seconds": 18.2,
+    "fetched_at": "2026-06-29T22:11:56.499538+00:00",
+    "duration_seconds": 16.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 10
+      "total_players_with_chips": 6
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T20:04:38.145358+00:00",
+      "last_update": "2026-06-29T22:11:56.499400+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -48,7 +48,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T20:04:38.145421+00:00",
+      "last_update": "2026-06-29T22:11:56.499424+00:00",
       "live_chips": [
         {
           "event_no": 70,
@@ -65,80 +65,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T20:04:38.145427+00:00",
+      "last_update": "2026-06-29T22:11:56.499429+00:00",
       "live_chips": [
         {
           "event_no": 70,
           "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מאט ונגרין": {
-      "name_he": "מאט ונגרין",
-      "name_en": "Matt Vengrin",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-29T20:04:38.145438+00:00",
-      "live_chips": [
-        {
-          "event_no": 71,
-          "event_title": "Event #71: $2,500 Mixed Big Bet Event",
-          "chips": 1331000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דן סמית'": {
-      "name_he": "דן סמית'",
-      "name_en": "Dan Smith",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-29T20:04:38.145442+00:00",
-      "live_chips": [
-        {
-          "event_no": 71,
-          "event_title": "Event #71: $2,500 Mixed Big Bet Event",
-          "chips": 1314000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-29T20:04:38.145446+00:00",
-      "live_chips": [
-        {
-          "event_no": 74,
-          "event_title": "Event #74: $1,500 8-Game Mixed",
-          "chips": 378500,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "סקוט סיבר": {
-      "name_he": "סקוט סיבר",
-      "name_en": "Scott Seiver",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-29T20:04:38.145450+00:00",
-      "live_chips": [
-        {
-          "event_no": 74,
-          "event_title": "Event #74: $1,500 8-Game Mixed",
-          "chips": 261000,
           "source": "pokernews.com"
         }
       ]
@@ -150,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T20:04:38.145467+00:00",
+      "last_update": "2026-06-29T22:11:56.499435+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -167,7 +99,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T20:04:38.145475+00:00",
+      "last_update": "2026-06-29T22:11:56.499443+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -184,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-29T20:04:38.145481+00:00",
+      "last_update": "2026-06-29T22:11:56.499450+00:00",
       "live_chips": [
         {
           "event_no": 46600,
