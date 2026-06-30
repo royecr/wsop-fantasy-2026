@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-30T15:32:05.943866+00:00",
-    "duration_seconds": 23.4,
+    "fetched_at": "2026-06-30T18:00:37.514993+00:00",
+    "duration_seconds": 20.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,103 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 14,
+        "events": 12,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 13
+      "total_players_with_chips": 11
     }
   },
   "events": [],
   "players": {
-    "מייקל מזרחי": {
-      "name_he": "מייקל מזרחי",
-      "name_en": "Michael Mizrachi",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T15:32:05.943548+00:00",
-      "live_chips": [
-        {
-          "event_no": 70,
-          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מרטין זמאני": {
-      "name_he": "מרטין זמאני",
-      "name_en": "Martin Zamani",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T15:32:05.943613+00:00",
-      "live_chips": [
-        {
-          "event_no": 70,
-          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T15:32:05.943619+00:00",
-      "live_chips": [
-        {
-          "event_no": 70,
-          "event_title": "Event #70: $10,000 Pot-Limit Omaha Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דן סמית'": {
-      "name_he": "דן סמית'",
-      "name_en": "Dan Smith",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T15:32:05.943624+00:00",
-      "live_chips": [
-        {
-          "event_no": 71,
-          "event_title": "Event #71: $2,500 Mixed Big Bet Event",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מאט ונגרין": {
-      "name_he": "מאט ונגרין",
-      "name_en": "Matt Vengrin",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T15:32:05.943634+00:00",
-      "live_chips": [
-        {
-          "event_no": 71,
-          "event_title": "Event #71: $2,500 Mixed Big Bet Event",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "בוריס אנגלוב": {
       "name_he": "בוריס אנגלוב",
       "name_en": "Boris Anglov",
@@ -116,7 +31,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943642+00:00",
+      "last_update": "2026-06-30T18:00:37.514739+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -139,7 +54,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943650+00:00",
+      "last_update": "2026-06-30T18:00:37.514767+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -156,7 +71,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943655+00:00",
+      "last_update": "2026-06-30T18:00:37.514772+00:00",
       "live_chips": [
         {
           "event_no": 74,
@@ -173,7 +88,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943663+00:00",
+      "last_update": "2026-06-30T18:00:37.514781+00:00",
       "live_chips": [
         {
           "event_no": 74,
@@ -190,7 +105,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943669+00:00",
+      "last_update": "2026-06-30T18:00:37.514789+00:00",
       "live_chips": [
         {
           "event_no": 74,
@@ -207,7 +122,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943673+00:00",
+      "last_update": "2026-06-30T18:00:37.514792+00:00",
       "live_chips": [
         {
           "event_no": 75,
@@ -224,7 +139,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943678+00:00",
+      "last_update": "2026-06-30T18:00:37.514797+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -241,12 +156,63 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T15:32:05.943683+00:00",
+      "last_update": "2026-06-30T18:00:37.514804+00:00",
       "live_chips": [
         {
           "event_no": 46600,
           "event_title": "2024",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-30T18:00:37.514807+00:00",
+      "live_chips": [
+        {
+          "event_no": 51485,
+          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
+          "chips": 4650000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-30T18:00:37.514813+00:00",
+      "live_chips": [
+        {
+          "event_no": 51485,
+          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
+          "chips": 13300000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מוריס הוקינס": {
+      "name_he": "מוריס הוקינס",
+      "name_en": "Maurice Hawkins",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-30T18:00:37.514830+00:00",
+      "live_chips": [
+        {
+          "event_no": 51485,
+          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
+          "chips": 13100000,
           "source": "pokernews.com"
         }
       ]
