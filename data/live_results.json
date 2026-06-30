@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-30T20:57:51.437880+00:00",
-    "duration_seconds": 17.7,
+    "fetched_at": "2026-06-30T22:20:12.827617+00:00",
+    "duration_seconds": 15.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T20:57:51.437649+00:00",
+      "last_update": "2026-06-30T22:20:12.827414+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -48,7 +48,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T20:57:51.437696+00:00",
+      "last_update": "2026-06-30T22:20:12.827464+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -65,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T20:57:51.437705+00:00",
+      "last_update": "2026-06-30T22:20:12.827472+00:00",
       "live_chips": [
         {
           "event_no": 46600,
