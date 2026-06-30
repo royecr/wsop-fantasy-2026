@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-06-30T18:00:37.514993+00:00",
-    "duration_seconds": 20.5,
+    "fetched_at": "2026-06-30T20:57:51.437880+00:00",
+    "duration_seconds": 17.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,126 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 12,
+        "events": 11,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 11
+      "total_players_with_chips": 3
     }
   },
   "events": [],
   "players": {
-    "בוריס אנגלוב": {
-      "name_he": "בוריס אנגלוב",
-      "name_en": "Boris Anglov",
-      "category": "מיד סטייקס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514739+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "Event #73: $5,000 6-Handed No-Limit Hold’em",
-          "chips": 2065000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 46600,
-          "event_title": "2024",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אנדרו ליכטנברגר": {
-      "name_he": "אנדרו ליכטנברגר",
-      "name_en": "Andrew Lichtenberger",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514767+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "Event #73: $5,000 6-Handed No-Limit Hold’em",
-          "chips": 1840000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "שון דיב": {
-      "name_he": "שון דיב",
-      "name_en": "Shaun Deeb",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514772+00:00",
-      "live_chips": [
-        {
-          "event_no": 74,
-          "event_title": "Event #74: $1,500 8-Game Mixed",
-          "chips": 3090000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "בלאז זריאב": {
-      "name_he": "בלאז זריאב",
-      "name_en": "Blaz Zerjav",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514781+00:00",
-      "live_chips": [
-        {
-          "event_no": 74,
-          "event_title": "Event #74: $1,500 8-Game Mixed",
-          "chips": 2330000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ויקטור בלום": {
-      "name_he": "ויקטור בלום",
-      "name_en": "Viktor Blom",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514789+00:00",
-      "live_chips": [
-        {
-          "event_no": 74,
-          "event_title": "Event #74: $1,500 8-Game Mixed",
-          "chips": 12,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ברייס יוקי": {
-      "name_he": "ברייס יוקי",
-      "name_en": "Bryce Yockey",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514792+00:00",
-      "live_chips": [
-        {
-          "event_no": 75,
-          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
-          "chips": 321500,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ו מקיהן": {
       "name_he": "ג'ו מקיהן",
       "name_en": "Joe McKeehen",
@@ -139,11 +31,28 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T18:00:37.514797+00:00",
+      "last_update": "2026-06-30T20:57:51.437649+00:00",
       "live_chips": [
         {
           "event_no": 23337,
           "event_title": "2015",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בוריס אנגלוב": {
+      "name_he": "בוריס אנגלוב",
+      "name_en": "Boris Anglov",
+      "category": "מיד סטייקס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-06-30T20:57:51.437696+00:00",
+      "live_chips": [
+        {
+          "event_no": 46600,
+          "event_title": "2024",
           "chips": 0,
           "source": "pokernews.com"
         }
@@ -156,63 +65,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-06-30T18:00:37.514804+00:00",
+      "last_update": "2026-06-30T20:57:51.437705+00:00",
       "live_chips": [
         {
           "event_no": 46600,
           "event_title": "2024",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514807+00:00",
-      "live_chips": [
-        {
-          "event_no": 51485,
-          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
-          "chips": 4650000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס פוקסן": {
-      "name_he": "אלכס פוקסן",
-      "name_en": "Alex Foxen",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514813+00:00",
-      "live_chips": [
-        {
-          "event_no": 51485,
-          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
-          "chips": 13300000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מוריס הוקינס": {
-      "name_he": "מוריס הוקינס",
-      "name_en": "Maurice Hawkins",
-      "category": "מיד סטייקס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-06-30T18:00:37.514830+00:00",
-      "live_chips": [
-        {
-          "event_no": 51485,
-          "event_title": "Daniel Negreanu Out in 8th Place at Toughest $600 WSOP Final Table Ever",
-          "chips": 13100000,
           "source": "pokernews.com"
         }
       ]
