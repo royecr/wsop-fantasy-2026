@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-01T00:10:39.631380+00:00",
-    "duration_seconds": 15.9,
+    "fetched_at": "2026-07-01T05:25:20.700475+00:00",
+    "duration_seconds": 17.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,11 +19,45 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 3
+      "total_players_with_chips": 5
     }
   },
   "events": [],
   "players": {
+    "שון דיב": {
+      "name_he": "שון דיב",
+      "name_en": "Shaun Deeb",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T05:25:20.700231+00:00",
+      "live_chips": [
+        {
+          "event_no": 74,
+          "event_title": "Event #74: $1,500 8-Game Mixed",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "בלאז זריאב": {
+      "name_he": "בלאז זריאב",
+      "name_en": "Blaz Zerjav",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T05:25:20.700286+00:00",
+      "live_chips": [
+        {
+          "event_no": 74,
+          "event_title": "Event #74: $1,500 8-Game Mixed",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ו מקיהן": {
       "name_he": "ג'ו מקיהן",
       "name_en": "Joe McKeehen",
@@ -31,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T00:10:39.631217+00:00",
+      "last_update": "2026-07-01T05:25:20.700294+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -48,7 +82,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T00:10:39.631253+00:00",
+      "last_update": "2026-07-01T05:25:20.700303+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -65,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T00:10:39.631258+00:00",
+      "last_update": "2026-07-01T05:25:20.700310+00:00",
       "live_chips": [
         {
           "event_no": 46600,
