@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-01T05:25:20.700475+00:00",
-    "duration_seconds": 17.8,
+    "fetched_at": "2026-07-01T09:56:52.734851+00:00",
+    "duration_seconds": 19.0,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 5
+      "total_players_with_chips": 14
     }
   },
   "events": [],
@@ -31,8 +31,14 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T05:25:20.700231+00:00",
+      "last_update": "2026-07-01T09:56:52.734528+00:00",
       "live_chips": [
+        {
+          "event_no": 74,
+          "event_title": "Event #74: $1,500 8-Game Mixed",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
         {
           "event_no": 74,
           "event_title": "Event #74: $1,500 8-Game Mixed",
@@ -48,12 +54,171 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T05:25:20.700286+00:00",
+      "last_update": "2026-07-01T09:56:52.734586+00:00",
       "live_chips": [
         {
           "event_no": 74,
           "event_title": "Event #74: $1,500 8-Game Mixed",
           "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 74,
+          "event_title": "Event #74: $1,500 8-Game Mixed",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פול וולפה": {
+      "name_he": "פול וולפה",
+      "name_en": "Paul Volpe",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734594+00:00",
+      "live_chips": [
+        {
+          "event_no": 75,
+          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
+          "chips": 715000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריס ברואר": {
+      "name_he": "כריס ברואר",
+      "name_en": "Chris Brewer",
+      "category": "היי רולרים",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734599+00:00",
+      "live_chips": [
+        {
+          "event_no": 75,
+          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
+          "chips": 680000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מאט ונגרין": {
+      "name_he": "מאט ונגרין",
+      "name_en": "Matt Vengrin",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734620+00:00",
+      "live_chips": [
+        {
+          "event_no": 75,
+          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
+          "chips": 12,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ארתור מרטירוסיאן": {
+      "name_he": "ארתור מרטירוסיאן",
+      "name_en": "Artur Martirosian",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734633+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 5815000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון וינטר": {
+      "name_he": "שון וינטר",
+      "name_en": "Sean Winter",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734643+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 3695000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734652+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 2040000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734656+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 1990000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פיליפ סטרנהיימר": {
+      "name_he": "פיליפ סטרנהיימר",
+      "name_en": "Philip Sternheimer",
+      "category": "מיקסד גיימס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734662+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 1820000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "סנתוש סובארנה": {
+      "name_he": "סנתוש סובארנה",
+      "name_en": "Santhosh Suvarna",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-01T09:56:52.734671+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 1390000,
           "source": "pokernews.com"
         }
       ]
@@ -65,7 +230,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T05:25:20.700294+00:00",
+      "last_update": "2026-07-01T09:56:52.734677+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -82,7 +247,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T05:25:20.700303+00:00",
+      "last_update": "2026-07-01T09:56:52.734684+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -99,7 +264,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T05:25:20.700310+00:00",
+      "last_update": "2026-07-01T09:56:52.734690+00:00",
       "live_chips": [
         {
           "event_no": 46600,
