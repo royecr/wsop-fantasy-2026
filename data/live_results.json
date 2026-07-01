@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-01T18:01:20.269601+00:00",
-    "duration_seconds": 26.4,
+    "fetched_at": "2026-07-01T20:48:51.009849+00:00",
+    "duration_seconds": 22.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 13
+      "total_players_with_chips": 7
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T18:01:20.269316+00:00",
+      "last_update": "2026-07-01T20:48:51.009643+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T18:01:20.269344+00:00",
+      "last_update": "2026-07-01T20:48:51.009668+00:00",
       "live_chips": [
         {
           "event_no": 75,
@@ -65,7 +65,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T18:01:20.269350+00:00",
+      "last_update": "2026-07-01T20:48:51.009674+00:00",
       "live_chips": [
         {
           "event_no": 75,
@@ -82,114 +82,12 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T18:01:20.269361+00:00",
+      "last_update": "2026-07-01T20:48:51.009684+00:00",
       "live_chips": [
         {
           "event_no": 75,
           "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
           "chips": 12,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ארתור מרטירוסיאן": {
-      "name_he": "ארתור מרטירוסיאן",
-      "name_en": "Artur Martirosian",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T18:01:20.269366+00:00",
-      "live_chips": [
-        {
-          "event_no": 76,
-          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-          "chips": 5815000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "שון וינטר": {
-      "name_he": "שון וינטר",
-      "name_en": "Sean Winter",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T18:01:20.269375+00:00",
-      "live_chips": [
-        {
-          "event_no": 76,
-          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-          "chips": 3695000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס פוקסן": {
-      "name_he": "אלכס פוקסן",
-      "name_en": "Alex Foxen",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T18:01:20.269382+00:00",
-      "live_chips": [
-        {
-          "event_no": 76,
-          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-          "chips": 2040000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T18:01:20.269387+00:00",
-      "live_chips": [
-        {
-          "event_no": 76,
-          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-          "chips": 1990000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיליפ סטרנהיימר": {
-      "name_he": "פיליפ סטרנהיימר",
-      "name_en": "Philip Sternheimer",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T18:01:20.269394+00:00",
-      "live_chips": [
-        {
-          "event_no": 76,
-          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-          "chips": 1820000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "סנתוש סובארנה": {
-      "name_he": "סנתוש סובארנה",
-      "name_en": "Santhosh Suvarna",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T18:01:20.269403+00:00",
-      "live_chips": [
-        {
-          "event_no": 76,
-          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-          "chips": 1390000,
           "source": "pokernews.com"
         }
       ]
@@ -201,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T18:01:20.269407+00:00",
+      "last_update": "2026-07-01T20:48:51.009690+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -218,7 +116,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T18:01:20.269415+00:00",
+      "last_update": "2026-07-01T20:48:51.009698+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -235,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T18:01:20.269421+00:00",
+      "last_update": "2026-07-01T20:48:51.009704+00:00",
       "live_chips": [
         {
           "event_no": 46600,
