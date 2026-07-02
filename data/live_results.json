@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-02T00:13:01.401474+00:00",
-    "duration_seconds": 29.2,
+    "fetched_at": "2026-07-02T05:01:06.724901+00:00",
+    "duration_seconds": 22.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,28 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 4
+      "total_players_with_chips": 3
     }
   },
   "events": [],
   "players": {
-    "דניאל רזאי": {
-      "name_he": "דניאל רזאי",
-      "name_en": "Daniel Rezaei",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T00:13:01.401179+00:00",
-      "live_chips": [
-        {
-          "event_no": 73,
-          "event_title": "Event #73: $5,000 6-Handed No-Limit Hold’em Stream",
-          "chips": 5775000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "ג'ו מקיהן": {
       "name_he": "ג'ו מקיהן",
       "name_en": "Joe McKeehen",
@@ -48,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T00:13:01.401206+00:00",
+      "last_update": "2026-07-02T05:01:06.724634+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -65,7 +48,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T00:13:01.401218+00:00",
+      "last_update": "2026-07-02T05:01:06.724678+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -82,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T00:13:01.401226+00:00",
+      "last_update": "2026-07-02T05:01:06.724687+00:00",
       "live_chips": [
         {
           "event_no": 46600,
