@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-02T21:14:32.256057+00:00",
-    "duration_seconds": 92.9,
+    "fetched_at": "2026-07-02T23:11:58.342695+00:00",
+    "duration_seconds": 20.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 16,
+        "events": 15,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 17
+      "total_players_with_chips": 8
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255761+00:00",
+      "last_update": "2026-07-02T23:11:58.342474+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255787+00:00",
+      "last_update": "2026-07-02T23:11:58.342496+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255795+00:00",
+      "last_update": "2026-07-02T23:11:58.342504+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,18 +82,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255799+00:00",
+      "last_update": "2026-07-02T23:11:58.342508+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 71776,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 12320000,
           "source": "pokernews.com"
         }
       ]
@@ -105,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255806+00:00",
+      "last_update": "2026-07-02T23:11:58.342514+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255811+00:00",
+      "last_update": "2026-07-02T23:11:58.342519+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -139,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255823+00:00",
+      "last_update": "2026-07-02T23:11:58.342531+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -156,165 +150,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T21:14:32.255830+00:00",
+      "last_update": "2026-07-02T23:11:58.342538+00:00",
       "live_chips": [
         {
           "event_no": 46600,
           "event_title": "2024",
           "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיליפ סטרנהיימר": {
-      "name_he": "פיליפ סטרנהיימר",
-      "name_en": "Philip Sternheimer",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255837+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 9455000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ארתור מרטירוסיאן": {
-      "name_he": "ארתור מרטירוסיאן",
-      "name_en": "Artur Martirosian",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255841+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 4680000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלי אלעזרא": {
-      "name_he": "אלי אלעזרא",
-      "name_en": "Eli Elezra",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255847+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 1585000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלן קסלר": {
-      "name_he": "אלן קסלר",
-      "name_en": "Allen Kessler",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255857+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 830000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דן סמית'": {
-      "name_he": "דן סמית'",
-      "name_en": "Dan Smith",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255861+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 750000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אסי משה": {
-      "name_he": "אסי משה",
-      "name_en": "Asi Moshe",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255867+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 1600000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריס מורמן": {
-      "name_he": "כריס מורמן",
-      "name_en": "Chris Moorman",
-      "category": "מיד סטייקס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255871+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 1000000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "יובל ברונשטיין": {
-      "name_he": "יובל ברונשטיין",
-      "name_en": "Yuval Bronshtein",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255875+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 251000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ברייס יוקי": {
-      "name_he": "ברייס יוקי",
-      "name_en": "Bryce Yockey",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T21:14:32.255878+00:00",
-      "live_chips": [
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 10,
           "source": "pokernews.com"
         }
       ]
