@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-02T15:19:47.730601+00:00",
-    "duration_seconds": 27.3,
+    "fetched_at": "2026-07-02T17:53:19.531339+00:00",
+    "duration_seconds": 25.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,60 +12,111 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 16,
+        "events": 15,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 15
+      "total_players_with_chips": 17
     }
   },
   "events": [],
   "players": {
-    "דניאל רזאי": {
-      "name_he": "דניאל רזאי",
-      "name_en": "Daniel Rezaei",
-      "category": "היי רולרים",
-      "price": 5,
+    "ג'ק סינקלייר": {
+      "name_he": "ג'ק סינקלייר",
+      "name_en": "Jack Sinclair",
+      "category": "מיד סטייקס",
+      "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730340+00:00",
+      "last_update": "2026-07-02T17:53:19.531090+00:00",
       "live_chips": [
         {
           "event_no": 73,
-          "event_title": "Event #73: $5,000 6-Handed No-Limit Hold’em",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 73,
-          "event_title": "Event #73: $5,000 6-Handed No-Limit Hold’em",
+          "event_title": "2017",
           "chips": 0,
           "source": "pokernews.com"
         }
       ]
     },
-    "כריס ברואר": {
-      "name_he": "כריס ברואר",
-      "name_en": "Chris Brewer",
-      "category": "היי רולרים",
-      "price": 15,
+    "בן לאמב": {
+      "name_he": "בן לאמב",
+      "name_en": "Ben Lamb",
+      "category": "מיקסד גיימס",
+      "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730362+00:00",
+      "last_update": "2026-07-02T17:53:19.531114+00:00",
       "live_chips": [
         {
-          "event_no": 75,
-          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
+          "event_no": 73,
+          "event_title": "2017",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס פוקסן": {
+      "name_he": "אלכס פוקסן",
+      "name_en": "Alex Foxen",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-02T17:53:19.531121+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 75436,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-02T17:53:19.531125+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
           "source": "pokernews.com"
         },
         {
-          "event_no": 75,
-          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
-          "chips": 0,
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 12320000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 51740,
+          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
+          "chips": 12320000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "קני הלארט": {
+      "name_he": "קני הלארט",
+      "name_en": "Kenny Hallaert",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-02T17:53:19.531131+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 10,
           "source": "pokernews.com"
         }
       ]
@@ -77,7 +128,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730372+00:00",
+      "last_update": "2026-07-02T17:53:19.531138+00:00",
       "live_chips": [
         {
           "event_no": 76,
@@ -100,7 +151,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730377+00:00",
+      "last_update": "2026-07-02T17:53:19.531143+00:00",
       "live_chips": [
         {
           "event_no": 76,
@@ -112,29 +163,6 @@
           "event_no": 51740,
           "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
           "chips": 4680000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-02T15:19:47.730380+00:00",
-      "live_chips": [
-        {
-          "event_no": 76,
-          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-          "chips": 12320000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 51740,
-          "event_title": "2026 WSOP Day 37: Negreanu Four Eliminations Away From Eighth Bracelet",
-          "chips": 12320000,
           "source": "pokernews.com"
         }
       ]
@@ -146,7 +174,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730387+00:00",
+      "last_update": "2026-07-02T17:53:19.531150+00:00",
       "live_chips": [
         {
           "event_no": 77,
@@ -169,7 +197,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730396+00:00",
+      "last_update": "2026-07-02T17:53:19.531161+00:00",
       "live_chips": [
         {
           "event_no": 77,
@@ -192,7 +220,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730402+00:00",
+      "last_update": "2026-07-02T17:53:19.531166+00:00",
       "live_chips": [
         {
           "event_no": 77,
@@ -215,7 +243,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730409+00:00",
+      "last_update": "2026-07-02T17:53:19.531172+00:00",
       "live_chips": [
         {
           "event_no": 79,
@@ -238,7 +266,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730413+00:00",
+      "last_update": "2026-07-02T17:53:19.531176+00:00",
       "live_chips": [
         {
           "event_no": 79,
@@ -261,7 +289,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730417+00:00",
+      "last_update": "2026-07-02T17:53:19.531181+00:00",
       "live_chips": [
         {
           "event_no": 80,
@@ -284,7 +312,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730420+00:00",
+      "last_update": "2026-07-02T17:53:19.531184+00:00",
       "live_chips": [
         {
           "event_no": 80,
@@ -307,7 +335,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730425+00:00",
+      "last_update": "2026-07-02T17:53:19.531188+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -324,7 +352,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730432+00:00",
+      "last_update": "2026-07-02T17:53:19.531195+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -341,7 +369,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T15:19:47.730438+00:00",
+      "last_update": "2026-07-02T17:53:19.531201+00:00",
       "live_chips": [
         {
           "event_no": 46600,
