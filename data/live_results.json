@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-01T22:20:50.507076+00:00",
-    "duration_seconds": 20.7,
+    "fetched_at": "2026-07-02T00:13:01.401474+00:00",
+    "duration_seconds": 29.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 6
+      "total_players_with_chips": 4
     }
   },
   "events": [],
@@ -31,46 +31,12 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T22:20:50.506800+00:00",
+      "last_update": "2026-07-02T00:13:01.401179+00:00",
       "live_chips": [
         {
           "event_no": 73,
-          "event_title": "Event #73: $5,000 6-Handed No-Limit Hold’em",
+          "event_title": "Event #73: $5,000 6-Handed No-Limit Hold’em Stream",
           "chips": 5775000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריס ברואר": {
-      "name_he": "כריס ברואר",
-      "name_en": "Chris Brewer",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T22:20:50.506823+00:00",
-      "live_chips": [
-        {
-          "event_no": 75,
-          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
-          "chips": 1010000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מאט ונגרין": {
-      "name_he": "מאט ונגרין",
-      "name_en": "Matt Vengrin",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-01T22:20:50.506836+00:00",
-      "live_chips": [
-        {
-          "event_no": 75,
-          "event_title": "Event #75: $10,000 Seven Card Stud Hi-Lo 8 or Better Championship",
-          "chips": 300000,
           "source": "pokernews.com"
         }
       ]
@@ -82,7 +48,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T22:20:50.506842+00:00",
+      "last_update": "2026-07-02T00:13:01.401206+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -99,7 +65,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T22:20:50.506850+00:00",
+      "last_update": "2026-07-02T00:13:01.401218+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -116,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-01T22:20:50.506857+00:00",
+      "last_update": "2026-07-02T00:13:01.401226+00:00",
       "live_chips": [
         {
           "event_no": 46600,
