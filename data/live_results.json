@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-02T23:11:58.342695+00:00",
-    "duration_seconds": 20.1,
+    "fetched_at": "2026-07-03T03:39:30.870931+00:00",
+    "duration_seconds": 20.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 12
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342474+00:00",
+      "last_update": "2026-07-03T03:39:30.870701+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342496+00:00",
+      "last_update": "2026-07-03T03:39:30.870725+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342504+00:00",
+      "last_update": "2026-07-03T03:39:30.870732+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,12 +82,18 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342508+00:00",
+      "last_update": "2026-07-03T03:39:30.870735+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 71776,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -99,12 +105,80 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342514+00:00",
+      "last_update": "2026-07-03T03:39:30.870740+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ארתור מרטירוסיאן": {
+      "name_he": "ארתור מרטירוסיאן",
+      "name_en": "Artur Martirosian",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-03T03:39:30.870744+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פיליפ סטרנהיימר": {
+      "name_he": "פיליפ סטרנהיימר",
+      "name_en": "Philip Sternheimer",
+      "category": "מיקסד גיימס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-03T03:39:30.870750+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון וינטר": {
+      "name_he": "שון וינטר",
+      "name_en": "Sean Winter",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-03T03:39:30.870765+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'רמי אסמוס": {
+      "name_he": "ג'רמי אסמוס",
+      "name_en": "Jeremy Ausmus",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-03T03:39:30.870768+00:00",
+      "live_chips": [
+        {
+          "event_no": 76,
+          "event_title": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -116,7 +190,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342519+00:00",
+      "last_update": "2026-07-03T03:39:30.870772+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +207,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342531+00:00",
+      "last_update": "2026-07-03T03:39:30.870778+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +224,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-02T23:11:58.342538+00:00",
+      "last_update": "2026-07-03T03:39:30.870783+00:00",
       "live_chips": [
         {
           "event_no": 46600,
