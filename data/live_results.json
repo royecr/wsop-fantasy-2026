@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-03T19:35:28.609786+00:00",
-    "duration_seconds": 20.1,
+    "fetched_at": "2026-07-03T21:12:05.294207+00:00",
+    "duration_seconds": 17.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 15
+      "total_players_with_chips": 8
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609523+00:00",
+      "last_update": "2026-07-03T21:12:05.293959+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609548+00:00",
+      "last_update": "2026-07-03T21:12:05.293988+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,18 +65,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609556+00:00",
+      "last_update": "2026-07-03T21:12:05.293997+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 75436,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 1955000,
           "source": "pokernews.com"
         }
       ]
@@ -88,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609560+00:00",
+      "last_update": "2026-07-03T21:12:05.294001+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -105,131 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609566+00:00",
+      "last_update": "2026-07-03T21:12:05.294008+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אסי משה": {
-      "name_he": "אסי משה",
-      "name_en": "Asi Moshe",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-03T19:35:28.609573+00:00",
-      "live_chips": [
-        {
-          "event_no": 79,
-          "event_title": "Event #79: $3,000 Freezeout No-Limit Hold'em",
-          "chips": 9950000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריס מורמן": {
-      "name_he": "כריס מורמן",
-      "name_en": "Chris Moorman",
-      "category": "מיד סטייקס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-03T19:35:28.609578+00:00",
-      "live_chips": [
-        {
-          "event_no": 79,
-          "event_title": "Event #79: $3,000 Freezeout No-Limit Hold'em",
-          "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מרטין ג'ייקובסון": {
-      "name_he": "מרטין ג'ייקובסון",
-      "name_en": "Martin Jacobson",
-      "category": "מיד סטייקס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-03T19:35:28.609596+00:00",
-      "live_chips": [
-        {
-          "event_no": 79,
-          "event_title": "Event #79: $3,000 Freezeout No-Limit Hold'em",
-          "chips": 12,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "בריאן ראסט": {
-      "name_he": "בריאן ראסט",
-      "name_en": "Brian Rast",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-03T19:35:28.609599+00:00",
-      "live_chips": [
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 2465000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דימיטרי אורבנוביץ'": {
-      "name_he": "דימיטרי אורבנוביץ'",
-      "name_en": "Dzmitry Urbanovich",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-03T19:35:28.609605+00:00",
-      "live_chips": [
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 1030000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מאט ונגרין": {
-      "name_he": "מאט ונגרין",
-      "name_en": "Matt Vengrin",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-03T19:35:28.609622+00:00",
-      "live_chips": [
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 835000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ברין קני": {
-      "name_he": "ברין קני",
-      "name_en": "Bryn Kenney",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-03T19:35:28.609629+00:00",
-      "live_chips": [
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 745000,
           "source": "pokernews.com"
         }
       ]
@@ -241,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609634+00:00",
+      "last_update": "2026-07-03T21:12:05.294021+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -258,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609644+00:00",
+      "last_update": "2026-07-03T21:12:05.294034+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -275,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-03T19:35:28.609649+00:00",
+      "last_update": "2026-07-03T21:12:05.294041+00:00",
       "live_chips": [
         {
           "event_no": 46600,
