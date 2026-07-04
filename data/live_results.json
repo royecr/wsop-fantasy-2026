@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-04T19:20:17.467811+00:00",
-    "duration_seconds": 18.5,
+    "fetched_at": "2026-07-04T21:02:43.111035+00:00",
+    "duration_seconds": 19.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,7 +12,7 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 13,
+        "events": 14,
         "errors": 0
       }
     ],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467546+00:00",
+      "last_update": "2026-07-04T21:02:43.110783+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467575+00:00",
+      "last_update": "2026-07-04T21:02:43.110813+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467583+00:00",
+      "last_update": "2026-07-04T21:02:43.110822+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467587+00:00",
+      "last_update": "2026-07-04T21:02:43.110825+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467594+00:00",
+      "last_update": "2026-07-04T21:02:43.110832+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467611+00:00",
+      "last_update": "2026-07-04T21:02:43.110836+00:00",
       "live_chips": [
         {
           "event_no": 83,
@@ -139,18 +139,12 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467632+00:00",
+      "last_update": "2026-07-04T21:02:43.110859+00:00",
       "live_chips": [
         {
           "event_no": 84,
           "event_title": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
           "chips": 2750000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 84,
-          "event_title": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
-          "chips": 3220000,
           "source": "pokernews.com"
         },
         {
@@ -168,7 +162,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467638+00:00",
+      "last_update": "2026-07-04T21:02:43.110866+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -185,7 +179,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467646+00:00",
+      "last_update": "2026-07-04T21:02:43.110873+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -202,7 +196,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T19:20:17.467652+00:00",
+      "last_update": "2026-07-04T21:02:43.110879+00:00",
       "live_chips": [
         {
           "event_no": 46600,
