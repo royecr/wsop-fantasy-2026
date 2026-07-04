@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-04T21:02:43.111035+00:00",
-    "duration_seconds": 19.1,
+    "fetched_at": "2026-07-04T23:01:04.508217+00:00",
+    "duration_seconds": 19.9,
     "sources": [
       {
         "name": "WSOP.com",
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110783+00:00",
+      "last_update": "2026-07-04T23:01:04.507833+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110813+00:00",
+      "last_update": "2026-07-04T23:01:04.507857+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110822+00:00",
+      "last_update": "2026-07-04T23:01:04.507865+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110825+00:00",
+      "last_update": "2026-07-04T23:01:04.507869+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,58 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110832+00:00",
+      "last_update": "2026-07-04T23:01:04.507875+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-04T21:02:43.110836+00:00",
-      "live_chips": [
-        {
-          "event_no": 83,
-          "event_title": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
-          "chips": 3145000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 51758,
-          "event_title": "2026 WSOP Day 39: Michael Mizrachi Defends Main Event Title On Day 1b",
-          "chips": 3145000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריסטיאן הארדר": {
-      "name_he": "כריסטיאן הארדר",
-      "name_en": "Christian Harder",
-      "category": "מיד סטייקס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-04T21:02:43.110859+00:00",
-      "live_chips": [
-        {
-          "event_no": 84,
-          "event_title": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
-          "chips": 2750000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 51758,
-          "event_title": "2026 WSOP Day 39: Michael Mizrachi Defends Main Event Title On Day 1b",
-          "chips": 2750000,
           "source": "pokernews.com"
         }
       ]
@@ -162,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110866+00:00",
+      "last_update": "2026-07-04T23:01:04.507880+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -179,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110873+00:00",
+      "last_update": "2026-07-04T23:01:04.507892+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -196,12 +150,46 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T21:02:43.110879+00:00",
+      "last_update": "2026-07-04T23:01:04.507899+00:00",
       "live_chips": [
         {
           "event_no": 46600,
           "event_title": "2024",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סי לוניס": {
+      "name_he": "ג'סי לוניס",
+      "name_en": "Jesse Lonis",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-04T23:01:04.507903+00:00",
+      "live_chips": [
+        {
+          "event_no": 51758,
+          "event_title": "2026 WSOP Day 39: Michael Mizrachi Defends Main Event Title On Day 1b",
+          "chips": 3145000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריסטיאן הארדר": {
+      "name_he": "כריסטיאן הארדר",
+      "name_en": "Christian Harder",
+      "category": "מיד סטייקס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-04T23:01:04.507917+00:00",
+      "live_chips": [
+        {
+          "event_no": 51758,
+          "event_title": "2026 WSOP Day 39: Michael Mizrachi Defends Main Event Title On Day 1b",
+          "chips": 2750000,
           "source": "pokernews.com"
         }
       ]
