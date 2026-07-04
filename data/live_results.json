@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-04T17:10:55.139552+00:00",
-    "duration_seconds": 24.9,
+    "fetched_at": "2026-07-04T19:20:17.467811+00:00",
+    "duration_seconds": 18.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 15,
+        "events": 13,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 15
+      "total_players_with_chips": 10
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139241+00:00",
+      "last_update": "2026-07-04T19:20:17.467546+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139267+00:00",
+      "last_update": "2026-07-04T19:20:17.467575+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,24 +65,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139275+00:00",
+      "last_update": "2026-07-04T19:20:17.467583+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 75436,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -94,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139279+00:00",
+      "last_update": "2026-07-04T19:20:17.467587+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -111,115 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139286+00:00",
+      "last_update": "2026-07-04T19:20:17.467594+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אסי משה": {
-      "name_he": "אסי משה",
-      "name_en": "Asi Moshe",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-04T17:10:55.139293+00:00",
-      "live_chips": [
-        {
-          "event_no": 79,
-          "event_title": "Event #79: $3,000 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "כריס מורמן": {
-      "name_he": "כריס מורמן",
-      "name_en": "Chris Moorman",
-      "category": "מיד סטייקס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-04T17:10:55.139299+00:00",
-      "live_chips": [
-        {
-          "event_no": 79,
-          "event_title": "Event #79: $3,000 Freezeout No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דימיטרי אורבנוביץ'": {
-      "name_he": "דימיטרי אורבנוביץ'",
-      "name_en": "Dzmitry Urbanovich",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-04T17:10:55.139306+00:00",
-      "live_chips": [
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "בריאן ראסט": {
-      "name_he": "בריאן ראסט",
-      "name_en": "Brian Rast",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-04T17:10:55.139309+00:00",
-      "live_chips": [
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מאט ונגרין": {
-      "name_he": "מאט ונגרין",
-      "name_en": "Matt Vengrin",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-04T17:10:55.139327+00:00",
-      "live_chips": [
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 80,
-          "event_title": "Event #80: $10,000 8-Game Mixed Championship",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -231,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139330+00:00",
+      "last_update": "2026-07-04T19:20:17.467611+00:00",
       "live_chips": [
         {
           "event_no": 83,
@@ -254,7 +139,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139339+00:00",
+      "last_update": "2026-07-04T19:20:17.467632+00:00",
       "live_chips": [
         {
           "event_no": 84,
@@ -283,7 +168,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139343+00:00",
+      "last_update": "2026-07-04T19:20:17.467638+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -300,7 +185,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139350+00:00",
+      "last_update": "2026-07-04T19:20:17.467646+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -317,7 +202,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T17:10:55.139357+00:00",
+      "last_update": "2026-07-04T19:20:17.467652+00:00",
       "live_chips": [
         {
           "event_no": 46600,
