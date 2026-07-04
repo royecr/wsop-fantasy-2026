@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-04T03:32:35.800715+00:00",
-    "duration_seconds": 19.3,
+    "fetched_at": "2026-07-04T06:50:18.231690+00:00",
+    "duration_seconds": 18.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 10
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800505+00:00",
+      "last_update": "2026-07-04T06:50:18.231436+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800531+00:00",
+      "last_update": "2026-07-04T06:50:18.231460+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800538+00:00",
+      "last_update": "2026-07-04T06:50:18.231467+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800542+00:00",
+      "last_update": "2026-07-04T06:50:18.231471+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,12 +99,46 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800548+00:00",
+      "last_update": "2026-07-04T06:50:18.231477+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אסי משה": {
+      "name_he": "אסי משה",
+      "name_en": "Asi Moshe",
+      "category": "ישראלים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-04T06:50:18.231494+00:00",
+      "live_chips": [
+        {
+          "event_no": 79,
+          "event_title": "Event #79: $3,000 Freezeout No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריס מורמן": {
+      "name_he": "כריס מורמן",
+      "name_en": "Chris Moorman",
+      "category": "מיד סטייקס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-04T06:50:18.231499+00:00",
+      "live_chips": [
+        {
+          "event_no": 79,
+          "event_title": "Event #79: $3,000 Freezeout No-Limit Hold'em",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -116,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800564+00:00",
+      "last_update": "2026-07-04T06:50:18.231505+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +167,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800574+00:00",
+      "last_update": "2026-07-04T06:50:18.231516+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-04T03:32:35.800581+00:00",
+      "last_update": "2026-07-04T06:50:18.231522+00:00",
       "live_chips": [
         {
           "event_no": 46600,
