@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-05T10:19:25.404605+00:00",
-    "duration_seconds": 17.2,
+    "fetched_at": "2026-07-05T12:19:25.814247+00:00",
+    "duration_seconds": 18.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,7 +12,7 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 12,
+        "events": 11,
         "errors": 0
       }
     ],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404340+00:00",
+      "last_update": "2026-07-05T12:19:25.813997+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404368+00:00",
+      "last_update": "2026-07-05T12:19:25.814019+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404377+00:00",
+      "last_update": "2026-07-05T12:19:25.814027+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404381+00:00",
+      "last_update": "2026-07-05T12:19:25.814031+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404388+00:00",
+      "last_update": "2026-07-05T12:19:25.814050+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,8 +116,14 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404392+00:00",
+      "last_update": "2026-07-05T12:19:25.814054+00:00",
       "live_chips": [
+        {
+          "event_no": 83,
+          "event_title": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
         {
           "event_no": 83,
           "event_title": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
@@ -133,7 +139,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404413+00:00",
+      "last_update": "2026-07-05T12:19:25.814074+00:00",
       "live_chips": [
         {
           "event_no": 84,
@@ -156,7 +162,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404420+00:00",
+      "last_update": "2026-07-05T12:19:25.814080+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -173,7 +179,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404427+00:00",
+      "last_update": "2026-07-05T12:19:25.814088+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -190,7 +196,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-05T10:19:25.404433+00:00",
+      "last_update": "2026-07-05T12:19:25.814094+00:00",
       "live_chips": [
         {
           "event_no": 46600,
