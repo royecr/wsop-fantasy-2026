@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-07T17:20:28.568966+00:00",
-    "duration_seconds": 16.3,
+    "fetched_at": "2026-07-07T20:01:40.550447+00:00",
+    "duration_seconds": 15.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 10
+      "total_players_with_chips": 9
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568715+00:00",
+      "last_update": "2026-07-07T20:01:40.550186+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568743+00:00",
+      "last_update": "2026-07-07T20:01:40.550214+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568751+00:00",
+      "last_update": "2026-07-07T20:01:40.550222+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568754+00:00",
+      "last_update": "2026-07-07T20:01:40.550226+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,35 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568761+00:00",
+      "last_update": "2026-07-07T20:01:40.550233+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-07T17:20:28.568766+00:00",
-      "live_chips": [
-        {
-          "event_no": 83,
-          "event_title": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 83,
-          "event_title": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -139,7 +116,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568786+00:00",
+      "last_update": "2026-07-07T20:01:40.550252+00:00",
       "live_chips": [
         {
           "event_no": 84,
@@ -162,7 +139,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568792+00:00",
+      "last_update": "2026-07-07T20:01:40.550258+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -179,7 +156,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568799+00:00",
+      "last_update": "2026-07-07T20:01:40.550267+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -196,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-07T17:20:28.568805+00:00",
+      "last_update": "2026-07-07T20:01:40.550273+00:00",
       "live_chips": [
         {
           "event_no": 46600,
