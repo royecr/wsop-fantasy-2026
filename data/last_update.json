@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-08T10:22:36.642488+00:00",
-  "duration_seconds": 16.5,
+  "fetched_at": "2026-07-08T12:22:56.381169+00:00",
+  "duration_seconds": 17.8,
   "sources": [
     {
       "name": "WSOP.com",
@@ -11,7 +11,7 @@
     {
       "name": "PokerNews",
       "ok": true,
-      "events": 10,
+      "events": 11,
       "errors": 0
     }
   ],
