@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-10T20:26:22.839841+00:00",
-    "duration_seconds": 18.2,
+    "fetched_at": "2026-07-10T22:08:39.333297+00:00",
+    "duration_seconds": 18.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 13,
+        "events": 14,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 14
+      "total_players_with_chips": 8
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839515+00:00",
+      "last_update": "2026-07-10T22:08:39.333060+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839545+00:00",
+      "last_update": "2026-07-10T22:08:39.333088+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839553+00:00",
+      "last_update": "2026-07-10T22:08:39.333097+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839556+00:00",
+      "last_update": "2026-07-10T22:08:39.333101+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,114 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839563+00:00",
+      "last_update": "2026-07-10T22:08:39.333108+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל רזאי": {
-      "name_he": "דניאל רזאי",
-      "name_en": "Daniel Rezaei",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-10T20:26:22.839589+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 2010000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "תומאס בויבין": {
-      "name_he": "תומאס בויבין",
-      "name_en": "Thomas Boivin",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-10T20:26:22.839593+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 1510000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אראם אוגניאן": {
-      "name_he": "אראם אוגניאן",
-      "name_en": "Aram Oganyan",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-10T20:26:22.839599+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 1440000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ביל קליין": {
-      "name_he": "ביל קליין",
-      "name_en": "Bill Klein",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-10T20:26:22.839618+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 1325000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "קריסטן פוקסן": {
-      "name_he": "קריסטן פוקסן",
-      "name_en": "Kristen Foxen",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-10T20:26:22.839624+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 1220000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלי אלעזרא": {
-      "name_he": "אלי אלעזרא",
-      "name_en": "Eli Elezra",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-10T20:26:22.839630+00:00",
-      "live_chips": [
-        {
-          "event_no": 91,
-          "event_title": "Event #91: $1,500 Pick Your PLO",
-          "chips": 701000,
           "source": "pokernews.com"
         }
       ]
@@ -218,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839635+00:00",
+      "last_update": "2026-07-10T22:08:39.333114+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -235,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839642+00:00",
+      "last_update": "2026-07-10T22:08:39.333127+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -252,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-10T20:26:22.839664+00:00",
+      "last_update": "2026-07-10T22:08:39.333134+00:00",
       "live_chips": [
         {
           "event_no": 46600,
