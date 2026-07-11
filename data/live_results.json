@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-11T04:15:37.612315+00:00",
-    "duration_seconds": 21.7,
+    "fetched_at": "2026-07-11T07:13:37.829492+00:00",
+    "duration_seconds": 22.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 15,
+        "events": 16,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 9
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612059+00:00",
+      "last_update": "2026-07-11T07:13:37.829225+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612086+00:00",
+      "last_update": "2026-07-11T07:13:37.829252+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612093+00:00",
+      "last_update": "2026-07-11T07:13:37.829260+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612097+00:00",
+      "last_update": "2026-07-11T07:13:37.829265+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,12 +99,35 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612104+00:00",
+      "last_update": "2026-07-11T07:13:37.829271+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ניק פופילו": {
+      "name_he": "ניק פופילו",
+      "name_en": "Nick Pupillo",
+      "category": "מיד סטייקס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-11T07:13:37.829291+00:00",
+      "live_chips": [
+        {
+          "event_no": 87,
+          "event_title": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 87,
+          "event_title": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -116,7 +139,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612109+00:00",
+      "last_update": "2026-07-11T07:13:37.829297+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +156,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612121+00:00",
+      "last_update": "2026-07-11T07:13:37.829306+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T04:15:37.612129+00:00",
+      "last_update": "2026-07-11T07:13:37.829312+00:00",
       "live_chips": [
         {
           "event_no": 46600,
