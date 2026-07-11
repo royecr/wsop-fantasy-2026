@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-11T09:41:53.827131+00:00",
-    "duration_seconds": 22.7,
+    "fetched_at": "2026-07-11T11:09:12.356884+00:00",
+    "duration_seconds": 22.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 16
+      "total_players_with_chips": 20
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826858+00:00",
+      "last_update": "2026-07-11T11:09:12.356542+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826884+00:00",
+      "last_update": "2026-07-11T11:09:12.356571+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826891+00:00",
+      "last_update": "2026-07-11T11:09:12.356579+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826895+00:00",
+      "last_update": "2026-07-11T11:09:12.356582+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -105,7 +105,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826901+00:00",
+      "last_update": "2026-07-11T11:09:12.356589+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,7 +122,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826922+00:00",
+      "last_update": "2026-07-11T11:09:12.356612+00:00",
       "live_chips": [
         {
           "event_no": 87,
@@ -145,7 +145,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826933+00:00",
+      "last_update": "2026-07-11T11:09:12.356625+00:00",
       "live_chips": [
         {
           "event_no": 90,
@@ -162,7 +162,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826939+00:00",
+      "last_update": "2026-07-11T11:09:12.356632+00:00",
       "live_chips": [
         {
           "event_no": 90,
@@ -179,7 +179,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826942+00:00",
+      "last_update": "2026-07-11T11:09:12.356636+00:00",
       "live_chips": [
         {
           "event_no": 90,
@@ -196,7 +196,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826947+00:00",
+      "last_update": "2026-07-11T11:09:12.356642+00:00",
       "live_chips": [
         {
           "event_no": 90,
@@ -213,7 +213,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826951+00:00",
+      "last_update": "2026-07-11T11:09:12.356646+00:00",
       "live_chips": [
         {
           "event_no": 90,
@@ -230,7 +230,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826955+00:00",
+      "last_update": "2026-07-11T11:09:12.356650+00:00",
       "live_chips": [
         {
           "event_no": 90,
@@ -247,12 +247,80 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826959+00:00",
+      "last_update": "2026-07-11T11:09:12.356655+00:00",
       "live_chips": [
         {
           "event_no": 91,
           "event_title": "Event #91: $1,500 Pick Your PLO",
           "chips": 2455000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כריס הוניצ'ן": {
+      "name_he": "כריס הוניצ'ן",
+      "name_en": "Chris Hunichen",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-11T11:09:12.356658+00:00",
+      "live_chips": [
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 432500,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלן קסלר": {
+      "name_he": "אלן קסלר",
+      "name_en": "Allen Kessler",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-11T11:09:12.356666+00:00",
+      "live_chips": [
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 239000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברייס יוקי": {
+      "name_he": "ברייס יוקי",
+      "name_en": "Bryce Yockey",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-11T11:09:12.356670+00:00",
+      "live_chips": [
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 237000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברנדון שאק האריס": {
+      "name_he": "ברנדון שאק האריס",
+      "name_en": "Brandon Shack-Harris",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-11T11:09:12.356677+00:00",
+      "live_chips": [
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 10,
           "source": "pokernews.com"
         }
       ]
@@ -264,7 +332,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826963+00:00",
+      "last_update": "2026-07-11T11:09:12.356682+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -281,7 +349,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826969+00:00",
+      "last_update": "2026-07-11T11:09:12.356690+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -298,7 +366,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-11T09:41:53.826974+00:00",
+      "last_update": "2026-07-11T11:09:12.356696+00:00",
       "live_chips": [
         {
           "event_no": 46600,
