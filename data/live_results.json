@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-12T17:02:57.641504+00:00",
-    "duration_seconds": 26.4,
+    "fetched_at": "2026-07-12T19:10:38.876774+00:00",
+    "duration_seconds": 20.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 17,
+        "events": 14,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 16
+      "total_players_with_chips": 12
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641228+00:00",
+      "last_update": "2026-07-12T19:10:38.876517+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641252+00:00",
+      "last_update": "2026-07-12T19:10:38.876544+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641260+00:00",
+      "last_update": "2026-07-12T19:10:38.876552+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,18 +82,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641264+00:00",
+      "last_update": "2026-07-12T19:10:38.876556+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 71776,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -105,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641271+00:00",
+      "last_update": "2026-07-12T19:10:38.876563+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,80 +116,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641280+00:00",
+      "last_update": "2026-07-12T19:10:38.876571+00:00",
       "live_chips": [
         {
           "event_no": 89,
           "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
           "chips": 1860000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל רזאי": {
-      "name_he": "דניאל רזאי",
-      "name_en": "Daniel Rezaei",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T17:02:57.641301+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ברין קני": {
-      "name_he": "ברין קני",
-      "name_en": "Bryn Kenney",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T17:02:57.641308+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "תימור מרגולין": {
-      "name_he": "תימור מרגולין",
-      "name_en": "Timur Margolin",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T17:02:57.641313+00:00",
-      "live_chips": [
-        {
-          "event_no": 90,
-          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סטין ליברטו": {
-      "name_he": "ג'סטין ליברטו",
-      "name_en": "Justin Liberto",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T17:02:57.641318+00:00",
-      "live_chips": [
-        {
-          "event_no": 91,
-          "event_title": "Event #91: $1,500 Pick Your PLO",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -207,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641321+00:00",
+      "last_update": "2026-07-12T19:10:38.876575+00:00",
       "live_chips": [
         {
           "event_no": 92,
@@ -224,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641325+00:00",
+      "last_update": "2026-07-12T19:10:38.876580+00:00",
       "live_chips": [
         {
           "event_no": 92,
@@ -241,7 +167,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641331+00:00",
+      "last_update": "2026-07-12T19:10:38.876585+00:00",
       "live_chips": [
         {
           "event_no": 94,
@@ -258,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641336+00:00",
+      "last_update": "2026-07-12T19:10:38.876590+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -275,7 +201,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641343+00:00",
+      "last_update": "2026-07-12T19:10:38.876599+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -292,7 +218,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T17:02:57.641349+00:00",
+      "last_update": "2026-07-12T19:10:38.876606+00:00",
       "live_chips": [
         {
           "event_no": 46600,
