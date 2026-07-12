@@ -1,6 +1,6 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-12T03:47:44.508671+00:00",
+    "fetched_at": "2026-07-12T06:37:45.741165+00:00",
     "duration_seconds": 20.0,
     "sources": [
       {
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 12
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508398+00:00",
+      "last_update": "2026-07-12T06:37:45.740832+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508427+00:00",
+      "last_update": "2026-07-12T06:37:45.740871+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508436+00:00",
+      "last_update": "2026-07-12T06:37:45.740879+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,12 +82,18 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508440+00:00",
+      "last_update": "2026-07-12T06:37:45.740883+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 71776,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 90,
+          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -99,12 +105,80 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508447+00:00",
+      "last_update": "2026-07-12T06:37:45.740890+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל רזאי": {
+      "name_he": "דניאל רזאי",
+      "name_en": "Daniel Rezaei",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-12T06:37:45.740916+00:00",
+      "live_chips": [
+        {
+          "event_no": 90,
+          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברין קני": {
+      "name_he": "ברין קני",
+      "name_en": "Bryn Kenney",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-12T06:37:45.740924+00:00",
+      "live_chips": [
+        {
+          "event_no": 90,
+          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "תימור מרגולין": {
+      "name_he": "תימור מרגולין",
+      "name_en": "Timur Margolin",
+      "category": "ישראלים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-12T06:37:45.740947+00:00",
+      "live_chips": [
+        {
+          "event_no": 90,
+          "event_title": "Event #90: $50,000 High Roller No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סטין ליברטו": {
+      "name_he": "ג'סטין ליברטו",
+      "name_en": "Justin Liberto",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-12T06:37:45.740953+00:00",
+      "live_chips": [
+        {
+          "event_no": 91,
+          "event_title": "Event #91: $1,500 Pick Your PLO",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -116,7 +190,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508452+00:00",
+      "last_update": "2026-07-12T06:37:45.740958+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +207,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508467+00:00",
+      "last_update": "2026-07-12T06:37:45.740965+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +224,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T03:47:44.508475+00:00",
+      "last_update": "2026-07-12T06:37:45.740972+00:00",
       "live_chips": [
         {
           "event_no": 46600,
