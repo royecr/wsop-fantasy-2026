@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-12T19:10:38.876774+00:00",
-    "duration_seconds": 20.8,
+    "fetched_at": "2026-07-12T20:55:37.267733+00:00",
+    "duration_seconds": 22.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 12
+      "total_players_with_chips": 8
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876517+00:00",
+      "last_update": "2026-07-12T20:55:37.267490+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876544+00:00",
+      "last_update": "2026-07-12T20:55:37.267515+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876552+00:00",
+      "last_update": "2026-07-12T20:55:37.267523+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876556+00:00",
+      "last_update": "2026-07-12T20:55:37.267527+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,80 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876563+00:00",
+      "last_update": "2026-07-12T20:55:37.267533+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אורי רייכנשטיין": {
-      "name_he": "אורי רייכנשטיין",
-      "name_en": "Uri Reichenstein",
-      "category": "ישראלים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T19:10:38.876571+00:00",
-      "live_chips": [
-        {
-          "event_no": 89,
-          "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-          "chips": 1860000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס ליבינגסטון": {
-      "name_he": "אלכס ליבינגסטון",
-      "name_en": "Alex Livingston",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T19:10:38.876575+00:00",
-      "live_chips": [
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 1840000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T19:10:38.876580+00:00",
-      "live_chips": [
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 1570000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "קריסטן פוקסן": {
-      "name_he": "קריסטן פוקסן",
-      "name_en": "Kristen Foxen",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-12T19:10:38.876585+00:00",
-      "live_chips": [
-        {
-          "event_no": 94,
-          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 414500,
           "source": "pokernews.com"
         }
       ]
@@ -184,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876590+00:00",
+      "last_update": "2026-07-12T20:55:37.267539+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -201,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876599+00:00",
+      "last_update": "2026-07-12T20:55:37.267551+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -218,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-12T19:10:38.876606+00:00",
+      "last_update": "2026-07-12T20:55:37.267557+00:00",
       "live_chips": [
         {
           "event_no": 46600,
