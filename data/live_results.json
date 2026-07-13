@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-13T07:24:51.187355+00:00",
-    "duration_seconds": 20.9,
+    "fetched_at": "2026-07-13T11:16:53.170786+00:00",
+    "duration_seconds": 28.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 15,
+        "events": 16,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 16
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187085+00:00",
+      "last_update": "2026-07-13T11:16:53.170550+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187114+00:00",
+      "last_update": "2026-07-13T11:16:53.170576+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,12 +65,18 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187123+00:00",
+      "last_update": "2026-07-13T11:16:53.170583+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 75436,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 96,
+          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+          "chips": 588000,
           "source": "pokernews.com"
         }
       ]
@@ -82,7 +88,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187127+00:00",
+      "last_update": "2026-07-13T11:16:53.170586+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,12 +105,172 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187134+00:00",
+      "last_update": "2026-07-13T11:16:53.170592+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מוריס הוקינס": {
+      "name_he": "מוריס הוקינס",
+      "name_en": "Maurice Hawkins",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170610+00:00",
+      "live_chips": [
+        {
+          "event_no": 89,
+          "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+          "chips": 12700000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פונאט פונסרי": {
+      "name_he": "פונאט פונסרי",
+      "name_en": "Punnat Punsri",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170615+00:00",
+      "live_chips": [
+        {
+          "event_no": 89,
+          "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+          "chips": 11400000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מייקל רוקו": {
+      "name_he": "מייקל רוקו",
+      "name_en": "Michael Rocco",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170621+00:00",
+      "live_chips": [
+        {
+          "event_no": 89,
+          "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+          "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סי לוניס": {
+      "name_he": "ג'סי לוניס",
+      "name_en": "Jesse Lonis",
+      "category": "היי רולרים",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170624+00:00",
+      "live_chips": [
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 51861,
+          "event_title": "Sterling Lopez Denies Jesse Lonis a Win; Returns To TORSE Final Table for First Bracelet",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אלכס ליבינגסטון": {
+      "name_he": "אלכס ליבינגסטון",
+      "name_en": "Alex Livingston",
+      "category": "מיקסד גיימס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170627+00:00",
+      "live_chips": [
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 92,
+          "event_title": "Event #92: $3,000 T.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 51861,
+          "event_title": "Sterling Lopez Denies Jesse Lonis a Win; Returns To TORSE Final Table for First Bracelet",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'סטין ליברטו": {
+      "name_he": "ג'סטין ליברטו",
+      "name_en": "Justin Liberto",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170632+00:00",
+      "live_chips": [
+        {
+          "event_no": 94,
+          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
+          "chips": 2100000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דייוויד פיטרס": {
+      "name_he": "דייוויד פיטרס",
+      "name_en": "David Peters",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170636+00:00",
+      "live_chips": [
+        {
+          "event_no": 94,
+          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
+          "chips": 1625000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מרטין קברל": {
+      "name_he": "מרטין קברל",
+      "name_en": "Martin Kabrhel",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-13T11:16:53.170641+00:00",
+      "live_chips": [
+        {
+          "event_no": 95,
+          "event_title": "Event #95: $500 Summer Saver No-Limit Hold'em",
+          "chips": 1075000,
           "source": "pokernews.com"
         }
       ]
@@ -116,7 +282,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187140+00:00",
+      "last_update": "2026-07-13T11:16:53.170645+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +299,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187154+00:00",
+      "last_update": "2026-07-13T11:16:53.170652+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +316,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T07:24:51.187161+00:00",
+      "last_update": "2026-07-13T11:16:53.170657+00:00",
       "live_chips": [
         {
           "event_no": 46600,
