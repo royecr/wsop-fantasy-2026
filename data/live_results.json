@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-13T14:44:02.405811+00:00",
-    "duration_seconds": 29.3,
+    "fetched_at": "2026-07-13T17:16:31.750178+00:00",
+    "duration_seconds": 25.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 17,
+        "events": 16,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 16
+      "total_players_with_chips": 14
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405549+00:00",
+      "last_update": "2026-07-13T17:16:31.749899+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405574+00:00",
+      "last_update": "2026-07-13T17:16:31.749925+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405582+00:00",
+      "last_update": "2026-07-13T17:16:31.749934+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -88,7 +88,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405585+00:00",
+      "last_update": "2026-07-13T17:16:31.749938+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -105,7 +105,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405591+00:00",
+      "last_update": "2026-07-13T17:16:31.749944+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,7 +122,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405615+00:00",
+      "last_update": "2026-07-13T17:16:31.749969+00:00",
       "live_chips": [
         {
           "event_no": 89,
@@ -139,7 +139,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405621+00:00",
+      "last_update": "2026-07-13T17:16:31.749974+00:00",
       "live_chips": [
         {
           "event_no": 89,
@@ -156,70 +156,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405627+00:00",
+      "last_update": "2026-07-13T17:16:31.749981+00:00",
       "live_chips": [
         {
           "event_no": 89,
           "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-13T14:44:02.405631+00:00",
-      "live_chips": [
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 51861,
-          "event_title": "Sterling Lopez Denies Jesse Lonis a Win; Returns To TORSE Final Table for First Bracelet",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס ליבינגסטון": {
-      "name_he": "אלכס ליבינגסטון",
-      "name_en": "Alex Livingston",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-13T14:44:02.405635+00:00",
-      "live_chips": [
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 51861,
-          "event_title": "Sterling Lopez Denies Jesse Lonis a Win; Returns To TORSE Final Table for First Bracelet",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -231,7 +173,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405640+00:00",
+      "last_update": "2026-07-13T17:16:31.749986+00:00",
       "live_chips": [
         {
           "event_no": 94,
@@ -248,7 +190,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405644+00:00",
+      "last_update": "2026-07-13T17:16:31.749989+00:00",
       "live_chips": [
         {
           "event_no": 94,
@@ -265,7 +207,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405649+00:00",
+      "last_update": "2026-07-13T17:16:31.749995+00:00",
       "live_chips": [
         {
           "event_no": 95,
@@ -282,7 +224,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405654+00:00",
+      "last_update": "2026-07-13T17:16:31.750000+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -299,7 +241,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405661+00:00",
+      "last_update": "2026-07-13T17:16:31.750007+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -316,7 +258,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T14:44:02.405667+00:00",
+      "last_update": "2026-07-13T17:16:31.750013+00:00",
       "live_chips": [
         {
           "event_no": 46600,
