@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-13T03:50:43.470859+00:00",
-    "duration_seconds": 20.6,
+    "fetched_at": "2026-07-13T07:24:51.187355+00:00",
+    "duration_seconds": 20.9,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 10
+      "total_players_with_chips": 8
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470643+00:00",
+      "last_update": "2026-07-13T07:24:51.187085+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470665+00:00",
+      "last_update": "2026-07-13T07:24:51.187114+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470673+00:00",
+      "last_update": "2026-07-13T07:24:51.187123+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470677+00:00",
+      "last_update": "2026-07-13T07:24:51.187127+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,46 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470683+00:00",
+      "last_update": "2026-07-13T07:24:51.187134+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סי לוניס": {
-      "name_he": "ג'סי לוניס",
-      "name_en": "Jesse Lonis",
-      "category": "היי רולרים",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-13T03:50:43.470686+00:00",
-      "live_chips": [
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 6900000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אלכס ליבינגסטון": {
-      "name_he": "אלכס ליבינגסטון",
-      "name_en": "Alex Livingston",
-      "category": "מיקסד גיימס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-13T03:50:43.470690+00:00",
-      "live_chips": [
-        {
-          "event_no": 92,
-          "event_title": "Event #92: $3,000 T.O.R.S.E.",
-          "chips": 2260000,
           "source": "pokernews.com"
         }
       ]
@@ -150,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470696+00:00",
+      "last_update": "2026-07-13T07:24:51.187140+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -167,7 +133,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470707+00:00",
+      "last_update": "2026-07-13T07:24:51.187154+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -184,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T03:50:43.470712+00:00",
+      "last_update": "2026-07-13T07:24:51.187161+00:00",
       "live_chips": [
         {
           "event_no": 46600,
