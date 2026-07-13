@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-13T19:27:44.332516+00:00",
-    "duration_seconds": 27.7,
+    "fetched_at": "2026-07-13T21:01:06.689231+00:00",
+    "duration_seconds": 68.0,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 16,
+        "events": 17,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 14
+      "total_players_with_chips": 12
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332238+00:00",
+      "last_update": "2026-07-13T21:01:06.689002+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332262+00:00",
+      "last_update": "2026-07-13T21:01:06.689024+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,18 +65,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332270+00:00",
+      "last_update": "2026-07-13T21:01:06.689031+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 75436,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 96,
-          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-          "chips": 588000,
           "source": "pokernews.com"
         }
       ]
@@ -88,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332274+00:00",
+      "last_update": "2026-07-13T21:01:06.689034+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -105,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332281+00:00",
+      "last_update": "2026-07-13T21:01:06.689039+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -122,12 +116,12 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332306+00:00",
+      "last_update": "2026-07-13T21:01:06.689065+00:00",
       "live_chips": [
         {
           "event_no": 89,
           "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-          "chips": 12700000,
+          "chips": 10250000,
           "source": "pokernews.com"
         }
       ]
@@ -139,12 +133,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332312+00:00",
+      "last_update": "2026-07-13T21:01:06.689070+00:00",
       "live_chips": [
         {
           "event_no": 89,
           "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-          "chips": 11400000,
+          "chips": 24000000,
           "source": "pokernews.com"
         }
       ]
@@ -156,46 +150,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332319+00:00",
+      "last_update": "2026-07-13T21:01:06.689075+00:00",
       "live_chips": [
         {
           "event_no": 89,
           "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סטין ליברטו": {
-      "name_he": "ג'סטין ליברטו",
-      "name_en": "Justin Liberto",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-13T19:27:44.332326+00:00",
-      "live_chips": [
-        {
-          "event_no": 94,
-          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 2100000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דייוויד פיטרס": {
-      "name_he": "דייוויד פיטרס",
-      "name_en": "David Peters",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-13T19:27:44.332330+00:00",
-      "live_chips": [
-        {
-          "event_no": 94,
-          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 1625000,
           "source": "pokernews.com"
         }
       ]
@@ -207,7 +167,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332337+00:00",
+      "last_update": "2026-07-13T21:01:06.689080+00:00",
       "live_chips": [
         {
           "event_no": 95,
@@ -224,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332342+00:00",
+      "last_update": "2026-07-13T21:01:06.689083+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -241,7 +201,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332350+00:00",
+      "last_update": "2026-07-13T21:01:06.689089+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -258,7 +218,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-13T19:27:44.332356+00:00",
+      "last_update": "2026-07-13T21:01:06.689094+00:00",
       "live_chips": [
         {
           "event_no": 46600,
