@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-14T03:19:50.746387+00:00",
-    "duration_seconds": 22.5,
+    "fetched_at": "2026-07-14T06:14:41.719536+00:00",
+    "duration_seconds": 24.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 9
+      "total_players_with_chips": 12
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746125+00:00",
+      "last_update": "2026-07-14T06:14:41.719289+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746156+00:00",
+      "last_update": "2026-07-14T06:14:41.719313+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746164+00:00",
+      "last_update": "2026-07-14T06:14:41.719320+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746169+00:00",
+      "last_update": "2026-07-14T06:14:41.719324+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746176+00:00",
+      "last_update": "2026-07-14T06:14:41.719330+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -109,19 +109,70 @@
         }
       ]
     },
-    "מרטין קברל": {
-      "name_he": "מרטין קברל",
-      "name_en": "Martin Kabrhel",
+    "מוריס הוקינס": {
+      "name_he": "מוריס הוקינס",
+      "name_en": "Maurice Hawkins",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-14T06:14:41.719354+00:00",
+      "live_chips": [
+        {
+          "event_no": 89,
+          "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פונאט פונסרי": {
+      "name_he": "פונאט פונסרי",
+      "name_en": "Punnat Punsri",
       "category": "מיד סטייקס",
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746183+00:00",
+      "last_update": "2026-07-14T06:14:41.719359+00:00",
       "live_chips": [
         {
-          "event_no": 95,
-          "event_title": "Event #95: $500 Summer Saver No-Limit Hold'em",
-          "chips": 1075000,
+          "event_no": 89,
+          "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "מייקל רוקו": {
+      "name_he": "מייקל רוקו",
+      "name_en": "Michael Rocco",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-14T06:14:41.719365+00:00",
+      "live_chips": [
+        {
+          "event_no": 89,
+          "event_title": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אורי חסון": {
+      "name_he": "אורי חסון",
+      "name_en": "Uri Hasson",
+      "category": "ישראלים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-14T06:14:41.719374+00:00",
+      "live_chips": [
+        {
+          "event_no": 93,
+          "event_title": "Event #93: $1,500 The Closer No-Limit Hold’em",
+          "chips": 31000000,
           "source": "pokernews.com"
         }
       ]
@@ -133,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746189+00:00",
+      "last_update": "2026-07-14T06:14:41.719379+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -150,7 +201,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746202+00:00",
+      "last_update": "2026-07-14T06:14:41.719385+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -167,7 +218,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T03:19:50.746209+00:00",
+      "last_update": "2026-07-14T06:14:41.719391+00:00",
       "live_chips": [
         {
           "event_no": 46600,
