@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-14T21:03:40.937806+00:00",
-    "duration_seconds": 21.6,
+    "fetched_at": "2026-07-14T22:59:29.664144+00:00",
+    "duration_seconds": 20.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937585+00:00",
+      "last_update": "2026-07-14T22:59:29.663875+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937615+00:00",
+      "last_update": "2026-07-14T22:59:29.663900+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937622+00:00",
+      "last_update": "2026-07-14T22:59:29.663908+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937626+00:00",
+      "last_update": "2026-07-14T22:59:29.663912+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937632+00:00",
+      "last_update": "2026-07-14T22:59:29.663918+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937649+00:00",
+      "last_update": "2026-07-14T22:59:29.663939+00:00",
       "live_chips": [
         {
           "event_no": 93,
@@ -133,12 +133,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937653+00:00",
+      "last_update": "2026-07-14T22:59:29.663943+00:00",
       "live_chips": [
         {
           "event_no": 94,
           "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 9025000,
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -150,7 +150,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937659+00:00",
+      "last_update": "2026-07-14T22:59:29.663950+00:00",
       "live_chips": [
         {
           "event_no": 94,
@@ -167,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937664+00:00",
+      "last_update": "2026-07-14T22:59:29.663955+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -184,7 +184,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937671+00:00",
+      "last_update": "2026-07-14T22:59:29.663970+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -201,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-14T21:03:40.937677+00:00",
+      "last_update": "2026-07-14T22:59:29.663976+00:00",
       "live_chips": [
         {
           "event_no": 46600,
