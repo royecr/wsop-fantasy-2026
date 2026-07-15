@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-15T20:13:44.113393+00:00",
-    "duration_seconds": 18.3,
+    "fetched_at": "2026-07-15T22:05:05.055027+00:00",
+    "duration_seconds": 17.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 12
+      "total_players_with_chips": 10
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113175+00:00",
+      "last_update": "2026-07-15T22:05:05.054742+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113201+00:00",
+      "last_update": "2026-07-15T22:05:05.054771+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113206+00:00",
+      "last_update": "2026-07-15T22:05:05.054779+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113210+00:00",
+      "last_update": "2026-07-15T22:05:05.054783+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,12 +99,29 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113215+00:00",
+      "last_update": "2026-07-15T22:05:05.054790+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון דיב": {
+      "name_he": "שון דיב",
+      "name_en": "Shaun Deeb",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-15T22:05:05.054794+00:00",
+      "live_chips": [
+        {
+          "event_no": 97,
+          "event_title": "Event #97: $25,000 High Roller H.O.R.S.E.",
+          "chips": 1000000,
           "source": "pokernews.com"
         }
       ]
@@ -116,63 +133,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113219+00:00",
+      "last_update": "2026-07-15T22:05:05.054817+00:00",
       "live_chips": [
         {
           "event_no": 97,
           "event_title": "Event #97: $25,000 High Roller H.O.R.S.E.",
-          "chips": 1860000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אדם הנדריקס": {
-      "name_he": "אדם הנדריקס",
-      "name_en": "Adam Hendrix",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-15T20:13:44.113248+00:00",
-      "live_chips": [
-        {
-          "event_no": 99,
-          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
-          "chips": 1285000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "פיל הלמות'": {
-      "name_he": "פיל הלמות'",
-      "name_en": "Phil Hellmuth",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-15T20:13:44.113251+00:00",
-      "live_chips": [
-        {
-          "event_no": 99,
-          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
-          "chips": 950000,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "לאו מרגטס": {
-      "name_he": "לאו מרגטס",
-      "name_en": "Leo Margets",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-15T20:13:44.113257+00:00",
-      "live_chips": [
-        {
-          "event_no": 99,
-          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
-          "chips": 10,
+          "chips": 2025000,
           "source": "pokernews.com"
         }
       ]
@@ -184,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113261+00:00",
+      "last_update": "2026-07-15T22:05:05.054823+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -201,7 +167,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113266+00:00",
+      "last_update": "2026-07-15T22:05:05.054835+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -218,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T20:13:44.113271+00:00",
+      "last_update": "2026-07-15T22:05:05.054841+00:00",
       "live_chips": [
         {
           "event_no": 46600,
