@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-15T14:55:37.541879+00:00",
-    "duration_seconds": 24.9,
+    "fetched_at": "2026-07-15T16:26:31.198273+00:00",
+    "duration_seconds": 21.6,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 17,
+        "events": 14,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 17
+      "total_players_with_chips": 13
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541572+00:00",
+      "last_update": "2026-07-15T16:26:31.197977+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541601+00:00",
+      "last_update": "2026-07-15T16:26:31.198007+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541610+00:00",
+      "last_update": "2026-07-15T16:26:31.198016+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541614+00:00",
+      "last_update": "2026-07-15T16:26:31.198020+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,104 +99,12 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541622+00:00",
+      "last_update": "2026-07-15T16:26:31.198041+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דייוויד פיטרס": {
-      "name_he": "דייוויד פיטרס",
-      "name_en": "David Peters",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-15T14:55:37.541625+00:00",
-      "live_chips": [
-        {
-          "event_no": 94,
-          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 94,
-          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'סטין ליברטו": {
-      "name_he": "ג'סטין ליברטו",
-      "name_en": "Justin Liberto",
-      "category": "היי רולרים",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-15T14:55:37.541632+00:00",
-      "live_chips": [
-        {
-          "event_no": 94,
-          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 94,
-          "event_title": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אריק סיידל": {
-      "name_he": "אריק סיידל",
-      "name_en": "Erik Seidel",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-15T14:55:37.541638+00:00",
-      "live_chips": [
-        {
-          "event_no": 96,
-          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 96,
-          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "רוברט מזרחי": {
-      "name_he": "רוברט מזרחי",
-      "name_en": "Robert Mizrachi",
-      "category": "מיקסד גיימס",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-07-15T14:55:37.541641+00:00",
-      "live_chips": [
-        {
-          "event_no": 96,
-          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 96,
-          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -208,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541647+00:00",
+      "last_update": "2026-07-15T16:26:31.198048+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -225,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541664+00:00",
+      "last_update": "2026-07-15T16:26:31.198068+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -242,7 +150,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541669+00:00",
+      "last_update": "2026-07-15T16:26:31.198076+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -259,7 +167,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541683+00:00",
+      "last_update": "2026-07-15T16:26:31.198090+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -276,7 +184,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541689+00:00",
+      "last_update": "2026-07-15T16:26:31.198097+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -293,7 +201,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541694+00:00",
+      "last_update": "2026-07-15T16:26:31.198104+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -310,7 +218,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541701+00:00",
+      "last_update": "2026-07-15T16:26:31.198111+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -327,7 +235,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T14:55:37.541707+00:00",
+      "last_update": "2026-07-15T16:26:31.198117+00:00",
       "live_chips": [
         {
           "event_no": 46600,
