@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-15T07:17:20.393331+00:00",
-    "duration_seconds": 21.7,
+    "fetched_at": "2026-07-15T10:06:21.040076+00:00",
+    "duration_seconds": 26.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 13
+      "total_players_with_chips": 18
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393073+00:00",
+      "last_update": "2026-07-15T10:06:21.039802+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393097+00:00",
+      "last_update": "2026-07-15T10:06:21.039829+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393105+00:00",
+      "last_update": "2026-07-15T10:06:21.039838+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393108+00:00",
+      "last_update": "2026-07-15T10:06:21.039841+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393115+00:00",
+      "last_update": "2026-07-15T10:06:21.039849+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393135+00:00",
+      "last_update": "2026-07-15T10:06:21.039865+00:00",
       "live_chips": [
         {
           "event_no": 93,
@@ -133,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393138+00:00",
+      "last_update": "2026-07-15T10:06:21.039868+00:00",
       "live_chips": [
         {
           "event_no": 94,
@@ -156,7 +156,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393145+00:00",
+      "last_update": "2026-07-15T10:06:21.039876+00:00",
       "live_chips": [
         {
           "event_no": 94,
@@ -179,7 +179,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393148+00:00",
+      "last_update": "2026-07-15T10:06:21.039879+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -202,7 +202,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393151+00:00",
+      "last_update": "2026-07-15T10:06:21.039882+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -218,6 +218,91 @@
         }
       ]
     },
+    "ארי אנגל": {
+      "name_he": "ארי אנגל",
+      "name_en": "Ari Engel",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-15T10:06:21.039886+00:00",
+      "live_chips": [
+        {
+          "event_no": 97,
+          "event_title": "Event #97: $25,000 High Roller H.O.R.S.E.",
+          "chips": 1860000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "כפיר נחום": {
+      "name_he": "כפיר נחום",
+      "name_en": "Kfir Nahum",
+      "category": "ישראלים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-15T10:06:21.039896+00:00",
+      "live_chips": [
+        {
+          "event_no": 98,
+          "event_title": "Event #98: $800 Deepstack No-Limit Hold’em",
+          "chips": 2030000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ונתן ליטל": {
+      "name_he": "ג'ונתן ליטל",
+      "name_en": "Jonathan Little",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-15T10:06:21.039902+00:00",
+      "live_chips": [
+        {
+          "event_no": 98,
+          "event_title": "Event #98: $800 Deepstack No-Limit Hold’em",
+          "chips": 1280000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אדם הנדריקס": {
+      "name_he": "אדם הנדריקס",
+      "name_en": "Adam Hendrix",
+      "category": "היי רולרים",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-15T10:06:21.039913+00:00",
+      "live_chips": [
+        {
+          "event_no": 99,
+          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
+          "chips": 1285000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "לאו מרגטס": {
+      "name_he": "לאו מרגטס",
+      "name_en": "Leo Margets",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-15T10:06:21.039920+00:00",
+      "live_chips": [
+        {
+          "event_no": 99,
+          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
+          "chips": 850000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "ג'ו מקיהן": {
       "name_he": "ג'ו מקיהן",
       "name_en": "Joe McKeehen",
@@ -225,7 +310,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393156+00:00",
+      "last_update": "2026-07-15T10:06:21.039925+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -242,7 +327,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393163+00:00",
+      "last_update": "2026-07-15T10:06:21.039933+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -259,7 +344,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-15T07:17:20.393169+00:00",
+      "last_update": "2026-07-15T10:06:21.039939+00:00",
       "live_chips": [
         {
           "event_no": 46600,
