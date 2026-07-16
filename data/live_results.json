@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-07-16T04:11:35.724949+00:00",
-    "duration_seconds": 18.1,
+    "fetched_at": "2026-07-16T07:25:01.198241+00:00",
+    "duration_seconds": 18.9,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 8
+      "total_players_with_chips": 14
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724839+00:00",
+      "last_update": "2026-07-16T07:25:01.198050+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724853+00:00",
+      "last_update": "2026-07-16T07:25:01.198068+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724858+00:00",
+      "last_update": "2026-07-16T07:25:01.198075+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724860+00:00",
+      "last_update": "2026-07-16T07:25:01.198079+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,12 +99,138 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724864+00:00",
+      "last_update": "2026-07-16T07:25:01.198085+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ארי אנגל": {
+      "name_he": "ארי אנגל",
+      "name_en": "Ari Engel",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-16T07:25:01.198090+00:00",
+      "live_chips": [
+        {
+          "event_no": 97,
+          "event_title": "Event #97: $25,000 High Roller H.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 97,
+          "event_title": "Event #97: $25,000 High Roller H.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שון דיב": {
+      "name_he": "שון דיב",
+      "name_en": "Shaun Deeb",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-16T07:25:01.198093+00:00",
+      "live_chips": [
+        {
+          "event_no": 97,
+          "event_title": "Event #97: $25,000 High Roller H.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 97,
+          "event_title": "Event #97: $25,000 High Roller H.O.R.S.E.",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'ייסון ווילר": {
+      "name_he": "ג'ייסון ווילר",
+      "name_en": "Jason Wheeler",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-16T07:25:01.198101+00:00",
+      "live_chips": [
+        {
+          "event_no": 98,
+          "event_title": "Event #98: $800 Deepstack No-Limit Hold’em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "פיל הלמות'": {
+      "name_he": "פיל הלמות'",
+      "name_en": "Phil Hellmuth",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-16T07:25:01.198103+00:00",
+      "live_chips": [
+        {
+          "event_no": 99,
+          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 99,
+          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ניק פופילו": {
+      "name_he": "ניק פופילו",
+      "name_en": "Nick Pupillo",
+      "category": "מיד סטייקס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-16T07:25:01.198119+00:00",
+      "live_chips": [
+        {
+          "event_no": 99,
+          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 99,
+          "event_title": "Event #99: $5,000 8-Handed No-Limit Hold'em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דימיטרי אורבנוביץ'": {
+      "name_he": "דימיטרי אורבנוביץ'",
+      "name_en": "Dzmitry Urbanovich",
+      "category": "מיקסד גיימס",
+      "price": 5,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-07-16T07:25:01.198124+00:00",
+      "live_chips": [
+        {
+          "event_no": 100,
+          "event_title": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
+          "chips": 2900000,
           "source": "pokernews.com"
         }
       ]
@@ -116,7 +242,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724867+00:00",
+      "last_update": "2026-07-16T07:25:01.198129+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -133,7 +259,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724872+00:00",
+      "last_update": "2026-07-16T07:25:01.198136+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -150,7 +276,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-07-16T04:11:35.724877+00:00",
+      "last_update": "2026-07-16T07:25:01.198141+00:00",
       "live_chips": [
         {
           "event_no": 46600,
