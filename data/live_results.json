@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-08-07T13:12:28.840261+00:00",
-    "duration_seconds": 17.0,
+    "fetched_at": "2026-08-07T14:56:03.041031+00:00",
+    "duration_seconds": 16.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,14 +12,14 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 11,
+        "events": 12,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 14
+      "total_players_with_chips": 16
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840036+00:00",
+      "last_update": "2026-08-07T14:56:03.040726+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840059+00:00",
+      "last_update": "2026-08-07T14:56:03.040751+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840067+00:00",
+      "last_update": "2026-08-07T14:56:03.040759+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840071+00:00",
+      "last_update": "2026-08-07T14:56:03.040763+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,12 +99,58 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840078+00:00",
+      "last_update": "2026-08-07T14:56:03.040770+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אריק סיידל": {
+      "name_he": "אריק סיידל",
+      "name_en": "Erik Seidel",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-08-07T14:56:03.040773+00:00",
+      "live_chips": [
+        {
+          "event_no": 96,
+          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 96,
+          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "רוברט מזרחי": {
+      "name_he": "רוברט מזרחי",
+      "name_en": "Robert Mizrachi",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-08-07T14:56:03.040805+00:00",
+      "live_chips": [
+        {
+          "event_no": 96,
+          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 96,
+          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -116,7 +162,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840084+00:00",
+      "last_update": "2026-08-07T14:56:03.040814+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -139,7 +185,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840087+00:00",
+      "last_update": "2026-08-07T14:56:03.040817+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -162,7 +208,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840095+00:00",
+      "last_update": "2026-08-07T14:56:03.040826+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -179,7 +225,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840098+00:00",
+      "last_update": "2026-08-07T14:56:03.040829+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -202,7 +248,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840112+00:00",
+      "last_update": "2026-08-07T14:56:03.040851+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -225,7 +271,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840118+00:00",
+      "last_update": "2026-08-07T14:56:03.040857+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -248,7 +294,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840123+00:00",
+      "last_update": "2026-08-07T14:56:03.040862+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -265,7 +311,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840130+00:00",
+      "last_update": "2026-08-07T14:56:03.040869+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -282,7 +328,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-08-07T13:12:28.840136+00:00",
+      "last_update": "2026-08-07T14:56:03.040875+00:00",
       "live_chips": [
         {
           "event_no": 46600,
