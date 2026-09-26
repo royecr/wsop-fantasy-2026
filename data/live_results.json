@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-09-26T12:49:11.202464+00:00",
-    "duration_seconds": 15.2,
+    "fetched_at": "2026-09-26T16:57:32.352681+00:00",
+    "duration_seconds": 19.3,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 15
+      "total_players_with_chips": 16
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202274+00:00",
+      "last_update": "2026-09-26T16:57:32.352462+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202299+00:00",
+      "last_update": "2026-09-26T16:57:32.352488+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202304+00:00",
+      "last_update": "2026-09-26T16:57:32.352493+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202306+00:00",
+      "last_update": "2026-09-26T16:57:32.352496+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202311+00:00",
+      "last_update": "2026-09-26T16:57:32.352500+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202314+00:00",
+      "last_update": "2026-09-26T16:57:32.352502+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -139,7 +139,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202316+00:00",
+      "last_update": "2026-09-26T16:57:32.352509+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -162,7 +162,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202320+00:00",
+      "last_update": "2026-09-26T16:57:32.352515+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -185,7 +185,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202322+00:00",
+      "last_update": "2026-09-26T16:57:32.352517+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -201,6 +201,23 @@
         }
       ]
     },
+    "ג'ייסון ווילר": {
+      "name_he": "ג'ייסון ווילר",
+      "name_en": "Jason Wheeler",
+      "category": "מיד סטייקס",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-09-26T16:57:32.352522+00:00",
+      "live_chips": [
+        {
+          "event_no": 98,
+          "event_title": "Event #98: $800 Deepstack No-Limit Hold’em",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "פיל הלמות'": {
       "name_he": "פיל הלמות'",
       "name_en": "Phil Hellmuth",
@@ -208,7 +225,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202324+00:00",
+      "last_update": "2026-09-26T16:57:32.352523+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -231,7 +248,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202335+00:00",
+      "last_update": "2026-09-26T16:57:32.352536+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -254,7 +271,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202339+00:00",
+      "last_update": "2026-09-26T16:57:32.352539+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -277,7 +294,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202342+00:00",
+      "last_update": "2026-09-26T16:57:32.352542+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -294,7 +311,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202347+00:00",
+      "last_update": "2026-09-26T16:57:32.352547+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -311,7 +328,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-09-26T12:49:11.202351+00:00",
+      "last_update": "2026-09-26T16:57:32.352551+00:00",
       "live_chips": [
         {
           "event_no": 46600,
