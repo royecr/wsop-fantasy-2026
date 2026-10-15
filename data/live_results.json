@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-10-15T05:41:19.145951+00:00",
-    "duration_seconds": 18.5,
+    "fetched_at": "2026-10-15T11:05:49.439301+00:00",
+    "duration_seconds": 18.9,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,7 +19,7 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 18
+      "total_players_with_chips": 22
     }
   },
   "events": [],
@@ -31,7 +31,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145544+00:00",
+      "last_update": "2026-10-15T11:05:49.438903+00:00",
       "live_chips": [
         {
           "event_no": 2,
@@ -48,12 +48,104 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145593+00:00",
+      "last_update": "2026-10-15T11:05:49.438965+00:00",
       "live_chips": [
         {
           "event_no": 2,
           "event_title": "Event #2: $10,500 NLH",
           "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'רמי אסמוס": {
+      "name_he": "ג'רמי אסמוס",
+      "name_en": "Jeremy Ausmus",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-15T11:05:49.438970+00:00",
+      "live_chips": [
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 2695000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 2020000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ברוק ווילסון": {
+      "name_he": "ברוק ווילסון",
+      "name_en": "Brock Wilson",
+      "category": "היי רולרים",
+      "price": 10,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-15T11:05:49.438979+00:00",
+      "live_chips": [
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 1750000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 1370000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דילן לינדה": {
+      "name_he": "דילן לינדה",
+      "name_en": "Dylan Linde",
+      "category": "מיקסד גיימס",
+      "price": 15,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-15T11:05:49.438986+00:00",
+      "live_chips": [
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 1640000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 1760000,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "שאנון שור": {
+      "name_he": "שאנון שור",
+      "name_en": "Shannon Shorr",
+      "category": "מיד סטייקס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-15T11:05:49.438993+00:00",
+      "live_chips": [
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 1305000,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 3,
+          "event_title": "Event #3: $10,500 NLH Stream",
+          "chips": 1420000,
           "source": "pokernews.com"
         }
       ]
@@ -65,7 +157,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145608+00:00",
+      "last_update": "2026-10-15T11:05:49.439002+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +174,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145621+00:00",
+      "last_update": "2026-10-15T11:05:49.439010+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +191,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145632+00:00",
+      "last_update": "2026-10-15T11:05:49.439017+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +208,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145638+00:00",
+      "last_update": "2026-10-15T11:05:49.439020+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +225,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145650+00:00",
+      "last_update": "2026-10-15T11:05:49.439026+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +242,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145658+00:00",
+      "last_update": "2026-10-15T11:05:49.439030+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -173,7 +265,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145664+00:00",
+      "last_update": "2026-10-15T11:05:49.439033+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -196,7 +288,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145673+00:00",
+      "last_update": "2026-10-15T11:05:49.439038+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -219,7 +311,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145680+00:00",
+      "last_update": "2026-10-15T11:05:49.439059+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -242,7 +334,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145692+00:00",
+      "last_update": "2026-10-15T11:05:49.439066+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -259,7 +351,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145697+00:00",
+      "last_update": "2026-10-15T11:05:49.439069+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -282,7 +374,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145717+00:00",
+      "last_update": "2026-10-15T11:05:49.439089+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -305,7 +397,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145727+00:00",
+      "last_update": "2026-10-15T11:05:49.439099+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -328,7 +420,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145742+00:00",
+      "last_update": "2026-10-15T11:05:49.439104+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -345,7 +437,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145758+00:00",
+      "last_update": "2026-10-15T11:05:49.439111+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -362,7 +454,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T05:41:19.145768+00:00",
+      "last_update": "2026-10-15T11:05:49.439117+00:00",
       "live_chips": [
         {
           "event_no": 46600,
