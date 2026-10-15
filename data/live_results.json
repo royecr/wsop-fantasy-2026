@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-10-15T16:37:15.375458+00:00",
-    "duration_seconds": 22.2,
+    "fetched_at": "2026-10-15T20:13:13.954935+00:00",
+    "duration_seconds": 39.5,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,7 +12,7 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 12,
+        "events": 13,
         "errors": 0
       }
     ],
@@ -31,18 +31,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375190+00:00",
+      "last_update": "2026-10-15T20:13:13.954609+00:00",
       "live_chips": [
         {
           "event_no": 3,
-          "event_title": "Poker Masters",
+          "event_title": "Event #3: $10,500 NLH Stream",
           "chips": 2695000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 3,
-          "event_title": "Poker Masters",
-          "chips": 2020000,
           "source": "pokernews.com"
         }
       ]
@@ -54,18 +48,12 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375230+00:00",
+      "last_update": "2026-10-15T20:13:13.954650+00:00",
       "live_chips": [
         {
           "event_no": 3,
-          "event_title": "Poker Masters",
+          "event_title": "Event #3: $10,500 NLH Stream",
           "chips": 1750000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 3,
-          "event_title": "Poker Masters",
-          "chips": 1370000,
           "source": "pokernews.com"
         }
       ]
@@ -77,18 +65,12 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375237+00:00",
+      "last_update": "2026-10-15T20:13:13.954659+00:00",
       "live_chips": [
         {
           "event_no": 3,
-          "event_title": "Poker Masters",
+          "event_title": "Event #3: $10,500 NLH Stream",
           "chips": 1640000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 3,
-          "event_title": "Poker Masters",
-          "chips": 1760000,
           "source": "pokernews.com"
         }
       ]
@@ -100,18 +82,12 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375243+00:00",
+      "last_update": "2026-10-15T20:13:13.954665+00:00",
       "live_chips": [
         {
           "event_no": 3,
-          "event_title": "Poker Masters",
+          "event_title": "Event #3: $10,500 NLH Stream",
           "chips": 1305000,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 3,
-          "event_title": "Poker Masters",
-          "chips": 1420000,
           "source": "pokernews.com"
         }
       ]
@@ -123,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375254+00:00",
+      "last_update": "2026-10-15T20:13:13.954678+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -140,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375260+00:00",
+      "last_update": "2026-10-15T20:13:13.954685+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -157,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375272+00:00",
+      "last_update": "2026-10-15T20:13:13.954703+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -174,7 +150,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375277+00:00",
+      "last_update": "2026-10-15T20:13:13.954708+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -191,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375283+00:00",
+      "last_update": "2026-10-15T20:13:13.954714+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -208,7 +184,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375286+00:00",
+      "last_update": "2026-10-15T20:13:13.954717+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -231,7 +207,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375290+00:00",
+      "last_update": "2026-10-15T20:13:13.954721+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -254,7 +230,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375295+00:00",
+      "last_update": "2026-10-15T20:13:13.954726+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -277,7 +253,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375298+00:00",
+      "last_update": "2026-10-15T20:13:13.954729+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -300,7 +276,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375304+00:00",
+      "last_update": "2026-10-15T20:13:13.954736+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -317,7 +293,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375307+00:00",
+      "last_update": "2026-10-15T20:13:13.954739+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -340,7 +316,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375320+00:00",
+      "last_update": "2026-10-15T20:13:13.954755+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -363,7 +339,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375326+00:00",
+      "last_update": "2026-10-15T20:13:13.954761+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -386,7 +362,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375330+00:00",
+      "last_update": "2026-10-15T20:13:13.954766+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -403,7 +379,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375337+00:00",
+      "last_update": "2026-10-15T20:13:13.954772+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -420,7 +396,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-15T16:37:15.375343+00:00",
+      "last_update": "2026-10-15T20:13:13.954778+00:00",
       "live_chips": [
         {
           "event_no": 46600,
