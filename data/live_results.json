@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-10-17T12:47:45.000020+00:00",
-    "duration_seconds": 21.4,
+    "fetched_at": "2026-10-17T16:12:57.461792+00:00",
+    "duration_seconds": 19.8,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,64 +12,18 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 13,
+        "events": 12,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 22
+      "total_players_with_chips": 21
     }
   },
   "events": [],
   "players": {
-    "אנדרו ליכטנברגר": {
-      "name_he": "אנדרו ליכטנברגר",
-      "name_en": "Andrew Lichtenberger",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-17T12:47:44.999723+00:00",
-      "live_chips": [
-        {
-          "event_no": 4,
-          "event_title": "Event #4: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אריק סיידל": {
-      "name_he": "אריק סיידל",
-      "name_en": "Erik Seidel",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-17T12:47:44.999744+00:00",
-      "live_chips": [
-        {
-          "event_no": 4,
-          "event_title": "Event #4: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 96,
-          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 96,
-          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "אדריאן מתיאוס": {
       "name_he": "אדריאן מתיאוס",
       "name_en": "Adrian Mateos",
@@ -77,11 +31,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999750+00:00",
+      "last_update": "2026-10-17T16:12:57.461461+00:00",
       "live_chips": [
         {
           "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
+          "event_title": "Poker Masters",
           "chips": 3020000,
           "source": "pokernews.com"
         }
@@ -94,11 +48,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999754+00:00",
+      "last_update": "2026-10-17T16:12:57.461493+00:00",
       "live_chips": [
         {
           "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
+          "event_title": "Poker Masters",
           "chips": 2195000,
           "source": "pokernews.com"
         }
@@ -111,11 +65,11 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999758+00:00",
+      "last_update": "2026-10-17T16:12:57.461500+00:00",
       "live_chips": [
         {
           "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
+          "event_title": "Poker Masters",
           "chips": 1715000,
           "source": "pokernews.com"
         }
@@ -128,11 +82,11 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999785+00:00",
+      "last_update": "2026-10-17T16:12:57.461532+00:00",
       "live_chips": [
         {
           "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
+          "event_title": "Poker Masters",
           "chips": 1540000,
           "source": "pokernews.com"
         }
@@ -145,11 +99,11 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999795+00:00",
+      "last_update": "2026-10-17T16:12:57.461540+00:00",
       "live_chips": [
         {
           "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
+          "event_title": "Poker Masters",
           "chips": 280000,
           "source": "pokernews.com"
         }
@@ -162,7 +116,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999803+00:00",
+      "last_update": "2026-10-17T16:12:57.461547+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -179,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999809+00:00",
+      "last_update": "2026-10-17T16:12:57.461571+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -196,7 +150,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999815+00:00",
+      "last_update": "2026-10-17T16:12:57.461579+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -213,7 +167,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999818+00:00",
+      "last_update": "2026-10-17T16:12:57.461582+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -230,12 +184,35 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999824+00:00",
+      "last_update": "2026-10-17T16:12:57.461588+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 10,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "אריק סיידל": {
+      "name_he": "אריק סיידל",
+      "name_en": "Erik Seidel",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-17T16:12:57.461592+00:00",
+      "live_chips": [
+        {
+          "event_no": 96,
+          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+          "chips": 0,
+          "source": "pokernews.com"
+        },
+        {
+          "event_no": 96,
+          "event_title": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+          "chips": 0,
           "source": "pokernews.com"
         }
       ]
@@ -247,7 +224,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999827+00:00",
+      "last_update": "2026-10-17T16:12:57.461596+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -270,7 +247,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999832+00:00",
+      "last_update": "2026-10-17T16:12:57.461601+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -293,7 +270,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999843+00:00",
+      "last_update": "2026-10-17T16:12:57.461604+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -316,7 +293,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999850+00:00",
+      "last_update": "2026-10-17T16:12:57.461610+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -333,7 +310,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999852+00:00",
+      "last_update": "2026-10-17T16:12:57.461613+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -356,7 +333,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999861+00:00",
+      "last_update": "2026-10-17T16:12:57.461624+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -379,7 +356,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999867+00:00",
+      "last_update": "2026-10-17T16:12:57.461630+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -402,7 +379,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999871+00:00",
+      "last_update": "2026-10-17T16:12:57.461635+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -419,7 +396,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999878+00:00",
+      "last_update": "2026-10-17T16:12:57.461641+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -436,7 +413,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-17T12:47:44.999884+00:00",
+      "last_update": "2026-10-17T16:12:57.461647+00:00",
       "live_chips": [
         {
           "event_no": 46600,
