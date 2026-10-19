@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-10-19T12:55:21.776009+00:00",
-    "duration_seconds": 21.4,
+    "fetched_at": "2026-10-19T19:09:34.673670+00:00",
+    "duration_seconds": 20.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,126 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 23
+      "total_players_with_chips": 18
     }
   },
   "events": [],
   "players": {
-    "אדריאן מתיאוס": {
-      "name_he": "אדריאן מתיאוס",
-      "name_en": "Adrian Mateos",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-19T12:55:21.775673+00:00",
-      "live_chips": [
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ניק שולמן": {
-      "name_he": "ניק שולמן",
-      "name_en": "Nick Schulman",
-      "category": "מיקסד גיימס",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-19T12:55:21.775695+00:00",
-      "live_chips": [
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'רמי בקר": {
-      "name_he": "ג'רמי בקר",
-      "name_en": "Jeremy Becker",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-19T12:55:21.775702+00:00",
-      "live_chips": [
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מרטין זמאני": {
-      "name_he": "מרטין זמאני",
-      "name_en": "Martin Zamani",
-      "category": "מיקסד גיימס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-19T12:55:21.775734+00:00",
-      "live_chips": [
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "מאט וונטמן": {
-      "name_he": "מאט וונטמן",
-      "name_en": "Matt Wantman",
-      "category": "מיקסד גיימס",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-19T12:55:21.775755+00:00",
-      "live_chips": [
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 5,
-          "event_title": "Event #5: $10,500 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "שון וינטר": {
       "name_he": "שון וינטר",
       "name_en": "Sean Winter",
@@ -146,7 +31,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775765+00:00",
+      "last_update": "2026-10-19T19:09:34.673131+00:00",
       "live_chips": [
         {
           "event_no": 6,
@@ -163,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775772+00:00",
+      "last_update": "2026-10-19T19:09:34.673166+00:00",
       "live_chips": [
         {
           "event_no": 6,
@@ -180,7 +65,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775780+00:00",
+      "last_update": "2026-10-19T19:09:34.673179+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -197,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775786+00:00",
+      "last_update": "2026-10-19T19:09:34.673188+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -214,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775792+00:00",
+      "last_update": "2026-10-19T19:09:34.673197+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -231,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775795+00:00",
+      "last_update": "2026-10-19T19:09:34.673201+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -248,7 +133,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775801+00:00",
+      "last_update": "2026-10-19T19:09:34.673209+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -265,7 +150,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775804+00:00",
+      "last_update": "2026-10-19T19:09:34.673215+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -288,7 +173,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775807+00:00",
+      "last_update": "2026-10-19T19:09:34.673219+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -311,7 +196,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775812+00:00",
+      "last_update": "2026-10-19T19:09:34.673226+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -334,7 +219,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775815+00:00",
+      "last_update": "2026-10-19T19:09:34.673246+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -357,7 +242,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775822+00:00",
+      "last_update": "2026-10-19T19:09:34.673258+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -374,7 +259,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775824+00:00",
+      "last_update": "2026-10-19T19:09:34.673261+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -397,7 +282,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775833+00:00",
+      "last_update": "2026-10-19T19:09:34.673273+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -420,7 +305,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775838+00:00",
+      "last_update": "2026-10-19T19:09:34.673280+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -443,7 +328,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775843+00:00",
+      "last_update": "2026-10-19T19:09:34.673286+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -460,7 +345,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775853+00:00",
+      "last_update": "2026-10-19T19:09:34.673294+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -477,7 +362,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-19T12:55:21.775860+00:00",
+      "last_update": "2026-10-19T19:09:34.673301+00:00",
       "live_chips": [
         {
           "event_no": 46600,
