@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-10-21T19:12:51.885766+00:00",
-    "duration_seconds": 20.6,
+    "fetched_at": "2026-10-21T23:05:51.200863+00:00",
+    "duration_seconds": 21.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -12,88 +12,30 @@
       {
         "name": "PokerNews",
         "ok": true,
-        "events": 14,
+        "events": 13,
         "errors": 0
       }
     ],
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 20
+      "total_players_with_chips": 19
     }
   },
   "events": [],
   "players": {
-    "ג'רמי אסמוס": {
-      "name_he": "ג'רמי אסמוס",
-      "name_en": "Jeremy Ausmus",
+    "סאם סוברל": {
+      "name_he": "סאם סוברל",
+      "name_en": "Sam Soverel",
       "category": "היי רולרים",
-      "price": 25,
+      "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885398+00:00",
+      "last_update": "2026-10-21T23:05:51.200594+00:00",
       "live_chips": [
         {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אראם אוגניאן": {
-      "name_he": "אראם אוגניאן",
-      "name_en": "Aram Oganyan",
-      "category": "היי רולרים",
-      "price": 15,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-21T19:12:51.885436+00:00",
-      "live_chips": [
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'ו מקיהן": {
-      "name_he": "ג'ו מקיהן",
-      "name_en": "Joe McKeehen",
-      "category": "מיד סטייקס",
-      "price": 20,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-21T19:12:51.885444+00:00",
-      "live_chips": [
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 23337,
-          "event_title": "2015",
+          "event_no": 8,
+          "event_title": "Event #8: $15,700 NLH",
           "chips": 0,
           "source": "pokernews.com"
         }
@@ -106,70 +48,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885449+00:00",
+      "last_update": "2026-10-21T23:05:51.200615+00:00",
       "live_chips": [
         {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
+          "event_no": 8,
+          "event_title": "Event #8: $15,700 NLH",
+          "chips": 451,
           "source": "pokernews.com"
         }
       ]
     },
-    "צ'ריש אנדרוז": {
-      "name_he": "צ'ריש אנדרוז",
-      "name_en": "Cherish Andrews",
-      "category": "מיד סטייקס",
-      "price": 5,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-21T19:12:51.885461+00:00",
-      "live_chips": [
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "דניאל נגראנו": {
-      "name_he": "דניאל נגראנו",
-      "name_en": "Daniel Negreanu",
-      "category": "מיקסד גיימס",
+    "ג'רמי אסמוס": {
+      "name_he": "ג'רמי אסמוס",
+      "name_en": "Jeremy Ausmus",
+      "category": "היי רולרים",
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885475+00:00",
+      "last_update": "2026-10-21T23:05:51.200620+00:00",
       "live_chips": [
         {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 7,
-          "event_title": "Event #7: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        },
-        {
-          "event_no": 73,
-          "event_title": "2017",
-          "chips": 71776,
+          "event_no": 8,
+          "event_title": "Event #8: $15,700 NLH",
+          "chips": 321,
           "source": "pokernews.com"
         }
       ]
@@ -181,7 +82,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885489+00:00",
+      "last_update": "2026-10-21T23:05:51.200639+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -198,7 +99,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885496+00:00",
+      "last_update": "2026-10-21T23:05:51.200646+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -215,12 +116,29 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885501+00:00",
+      "last_update": "2026-10-21T23:05:51.200652+00:00",
       "live_chips": [
         {
           "event_no": 73,
           "event_title": "2017",
           "chips": 75436,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "דניאל נגראנו": {
+      "name_he": "דניאל נגראנו",
+      "name_en": "Daniel Negreanu",
+      "category": "מיקסד גיימס",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-21T23:05:51.200656+00:00",
+      "live_chips": [
+        {
+          "event_no": 73,
+          "event_title": "2017",
+          "chips": 71776,
           "source": "pokernews.com"
         }
       ]
@@ -232,7 +150,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885507+00:00",
+      "last_update": "2026-10-21T23:05:51.200663+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -249,7 +167,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885510+00:00",
+      "last_update": "2026-10-21T23:05:51.200667+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -272,7 +190,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885513+00:00",
+      "last_update": "2026-10-21T23:05:51.200670+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -295,7 +213,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885518+00:00",
+      "last_update": "2026-10-21T23:05:51.200675+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -318,7 +236,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885520+00:00",
+      "last_update": "2026-10-21T23:05:51.200678+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -341,7 +259,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885527+00:00",
+      "last_update": "2026-10-21T23:05:51.200685+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -358,7 +276,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885530+00:00",
+      "last_update": "2026-10-21T23:05:51.200688+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -381,7 +299,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885545+00:00",
+      "last_update": "2026-10-21T23:05:51.200700+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -404,7 +322,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885550+00:00",
+      "last_update": "2026-10-21T23:05:51.200706+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -420,6 +338,23 @@
         }
       ]
     },
+    "ג'ו מקיהן": {
+      "name_he": "ג'ו מקיהן",
+      "name_en": "Joe McKeehen",
+      "category": "מיד סטייקס",
+      "price": 20,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-21T23:05:51.200710+00:00",
+      "live_chips": [
+        {
+          "event_no": 23337,
+          "event_title": "2015",
+          "chips": 0,
+          "source": "pokernews.com"
+        }
+      ]
+    },
     "בוריס אנגלוב": {
       "name_he": "בוריס אנגלוב",
       "name_en": "Boris Anglov",
@@ -427,7 +362,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885556+00:00",
+      "last_update": "2026-10-21T23:05:51.200717+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -444,7 +379,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-21T19:12:51.885561+00:00",
+      "last_update": "2026-10-21T23:05:51.200723+00:00",
       "live_chips": [
         {
           "event_no": 46600,
