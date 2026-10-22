@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-10-22T14:57:23.952076+00:00",
-    "duration_seconds": 21.9,
+    "fetched_at": "2026-10-22T19:08:23.196610+00:00",
+    "duration_seconds": 21.2,
     "sources": [
       {
         "name": "WSOP.com",
@@ -19,62 +19,11 @@
     "summary": {
       "total_events_seen": 0,
       "total_players_with_points": 0,
-      "total_players_with_chips": 21
+      "total_players_with_chips": 20
     }
   },
   "events": [],
   "players": {
-    "סאם סוברל": {
-      "name_he": "סאם סוברל",
-      "name_en": "Sam Soverel",
-      "category": "היי רולרים",
-      "price": 10,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-22T14:57:23.951783+00:00",
-      "live_chips": [
-        {
-          "event_no": 8,
-          "event_title": "Event #8: $15,700 NLH",
-          "chips": 0,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "אדריאן מתיאוס": {
-      "name_he": "אדריאן מתיאוס",
-      "name_en": "Adrian Mateos",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-22T14:57:23.951803+00:00",
-      "live_chips": [
-        {
-          "event_no": 8,
-          "event_title": "Event #8: $15,700 NLH",
-          "chips": 451,
-          "source": "pokernews.com"
-        }
-      ]
-    },
-    "ג'רמי אסמוס": {
-      "name_he": "ג'רמי אסמוס",
-      "name_en": "Jeremy Ausmus",
-      "category": "היי רולרים",
-      "price": 25,
-      "points": 0,
-      "events": [],
-      "last_update": "2026-10-22T14:57:23.951808+00:00",
-      "live_chips": [
-        {
-          "event_no": 8,
-          "event_title": "Event #8: $15,700 NLH",
-          "chips": 321,
-          "source": "pokernews.com"
-        }
-      ]
-    },
     "דניאל נגראנו": {
       "name_he": "דניאל נגראנו",
       "name_en": "Daniel Negreanu",
@@ -82,14 +31,8 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951812+00:00",
+      "last_update": "2026-10-22T19:08:23.196319+00:00",
       "live_chips": [
-        {
-          "event_no": 9,
-          "event_title": "Event #9: $26,000 NLH",
-          "chips": 2205000,
-          "source": "pokernews.com"
-        },
         {
           "event_no": 9,
           "event_title": "Event #9: $26,000 NLH",
@@ -111,14 +54,8 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951833+00:00",
+      "last_update": "2026-10-22T19:08:23.196374+00:00",
       "live_chips": [
-        {
-          "event_no": 9,
-          "event_title": "Event #9: $26,000 NLH",
-          "chips": 530000,
-          "source": "pokernews.com"
-        },
         {
           "event_no": 9,
           "event_title": "Event #9: $26,000 NLH",
@@ -134,18 +71,46 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951836+00:00",
+      "last_update": "2026-10-22T19:08:23.196379+00:00",
       "live_chips": [
         {
           "event_no": 9,
           "event_title": "Event #9: $26,000 NLH",
           "chips": 525000,
           "source": "pokernews.com"
-        },
+        }
+      ]
+    },
+    "אדריאן מתיאוס": {
+      "name_he": "אדריאן מתיאוס",
+      "name_en": "Adrian Mateos",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-22T19:08:23.196383+00:00",
+      "live_chips": [
         {
-          "event_no": 9,
-          "event_title": "Event #9: $26,000 NLH",
-          "chips": 525000,
+          "event_no": 10,
+          "event_title": "Event #10: $51,000 NLH",
+          "chips": 451,
+          "source": "pokernews.com"
+        }
+      ]
+    },
+    "ג'רמי אסמוס": {
+      "name_he": "ג'רמי אסמוס",
+      "name_en": "Jeremy Ausmus",
+      "category": "היי רולרים",
+      "price": 25,
+      "points": 0,
+      "events": [],
+      "last_update": "2026-10-22T19:08:23.196386+00:00",
+      "live_chips": [
+        {
+          "event_no": 10,
+          "event_title": "Event #10: $51,000 NLH",
+          "chips": 321,
           "source": "pokernews.com"
         }
       ]
@@ -157,7 +122,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951844+00:00",
+      "last_update": "2026-10-22T19:08:23.196392+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -174,7 +139,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951851+00:00",
+      "last_update": "2026-10-22T19:08:23.196398+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -191,7 +156,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951867+00:00",
+      "last_update": "2026-10-22T19:08:23.196404+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -208,7 +173,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951873+00:00",
+      "last_update": "2026-10-22T19:08:23.196409+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -225,7 +190,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951876+00:00",
+      "last_update": "2026-10-22T19:08:23.196412+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -248,7 +213,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951880+00:00",
+      "last_update": "2026-10-22T19:08:23.196415+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -271,7 +236,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951885+00:00",
+      "last_update": "2026-10-22T19:08:23.196419+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -294,7 +259,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951888+00:00",
+      "last_update": "2026-10-22T19:08:23.196422+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -317,7 +282,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951894+00:00",
+      "last_update": "2026-10-22T19:08:23.196427+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -334,7 +299,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951897+00:00",
+      "last_update": "2026-10-22T19:08:23.196429+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -357,7 +322,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951910+00:00",
+      "last_update": "2026-10-22T19:08:23.196442+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -380,7 +345,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951916+00:00",
+      "last_update": "2026-10-22T19:08:23.196447+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -403,7 +368,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951920+00:00",
+      "last_update": "2026-10-22T19:08:23.196451+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -420,7 +385,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951927+00:00",
+      "last_update": "2026-10-22T19:08:23.196457+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -437,7 +402,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-22T14:57:23.951933+00:00",
+      "last_update": "2026-10-22T19:08:23.196461+00:00",
       "live_chips": [
         {
           "event_no": 46600,
