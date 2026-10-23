@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-10-23T18:56:54.870109+00:00",
-    "duration_seconds": 19.5,
+    "fetched_at": "2026-10-23T21:57:58.145536+00:00",
+    "duration_seconds": 17.7,
     "sources": [
       {
         "name": "WSOP.com",
@@ -31,11 +31,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869792+00:00",
+      "last_update": "2026-10-23T21:57:58.145403+00:00",
       "live_chips": [
         {
           "event_no": 10,
-          "event_title": "Poker Masters",
+          "event_title": "Poker Masters Stream",
           "chips": 945000,
           "source": "pokernews.com"
         }
@@ -48,11 +48,11 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869842+00:00",
+      "last_update": "2026-10-23T21:57:58.145418+00:00",
       "live_chips": [
         {
           "event_no": 10,
-          "event_title": "Poker Masters",
+          "event_title": "Poker Masters Stream",
           "chips": 900000,
           "source": "pokernews.com"
         }
@@ -65,11 +65,11 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869849+00:00",
+      "last_update": "2026-10-23T21:57:58.145421+00:00",
       "live_chips": [
         {
           "event_no": 10,
-          "event_title": "Poker Masters",
+          "event_title": "Poker Masters Stream",
           "chips": 895000,
           "source": "pokernews.com"
         }
@@ -82,11 +82,11 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869853+00:00",
+      "last_update": "2026-10-23T21:57:58.145424+00:00",
       "live_chips": [
         {
           "event_no": 10,
-          "event_title": "Poker Masters",
+          "event_title": "Poker Masters Stream",
           "chips": 535000,
           "source": "pokernews.com"
         }
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869861+00:00",
+      "last_update": "2026-10-23T21:57:58.145428+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869868+00:00",
+      "last_update": "2026-10-23T21:57:58.145431+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -133,7 +133,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869874+00:00",
+      "last_update": "2026-10-23T21:57:58.145435+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -150,7 +150,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869879+00:00",
+      "last_update": "2026-10-23T21:57:58.145437+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -167,7 +167,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869885+00:00",
+      "last_update": "2026-10-23T21:57:58.145440+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -184,7 +184,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869888+00:00",
+      "last_update": "2026-10-23T21:57:58.145442+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -207,7 +207,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869891+00:00",
+      "last_update": "2026-10-23T21:57:58.145444+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -230,7 +230,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869896+00:00",
+      "last_update": "2026-10-23T21:57:58.145447+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -253,7 +253,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869900+00:00",
+      "last_update": "2026-10-23T21:57:58.145448+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -276,7 +276,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869906+00:00",
+      "last_update": "2026-10-23T21:57:58.145452+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -293,7 +293,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869909+00:00",
+      "last_update": "2026-10-23T21:57:58.145453+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -316,7 +316,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869930+00:00",
+      "last_update": "2026-10-23T21:57:58.145458+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -339,7 +339,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869937+00:00",
+      "last_update": "2026-10-23T21:57:58.145461+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -362,7 +362,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869941+00:00",
+      "last_update": "2026-10-23T21:57:58.145463+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -379,7 +379,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869949+00:00",
+      "last_update": "2026-10-23T21:57:58.145467+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -396,7 +396,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-10-23T18:56:54.869954+00:00",
+      "last_update": "2026-10-23T21:57:58.145470+00:00",
       "live_chips": [
         {
           "event_no": 46600,
