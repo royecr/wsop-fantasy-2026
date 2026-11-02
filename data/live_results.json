@@ -1,7 +1,7 @@
 {
   "last_update": {
-    "fetched_at": "2026-11-02T02:10:58.937985+00:00",
-    "duration_seconds": 17.0,
+    "fetched_at": "2026-11-02T10:43:20.768961+00:00",
+    "duration_seconds": 17.1,
     "sources": [
       {
         "name": "WSOP.com",
@@ -31,7 +31,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937736+00:00",
+      "last_update": "2026-11-02T10:43:20.768608+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -48,7 +48,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937759+00:00",
+      "last_update": "2026-11-02T10:43:20.768636+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -65,7 +65,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937767+00:00",
+      "last_update": "2026-11-02T10:43:20.768641+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -82,7 +82,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937771+00:00",
+      "last_update": "2026-11-02T10:43:20.768643+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -99,7 +99,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937778+00:00",
+      "last_update": "2026-11-02T10:43:20.768647+00:00",
       "live_chips": [
         {
           "event_no": 73,
@@ -116,7 +116,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937782+00:00",
+      "last_update": "2026-11-02T10:43:20.768649+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -139,7 +139,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937786+00:00",
+      "last_update": "2026-11-02T10:43:20.768652+00:00",
       "live_chips": [
         {
           "event_no": 96,
@@ -162,7 +162,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937792+00:00",
+      "last_update": "2026-11-02T10:43:20.768656+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -185,7 +185,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937795+00:00",
+      "last_update": "2026-11-02T10:43:20.768658+00:00",
       "live_chips": [
         {
           "event_no": 97,
@@ -208,7 +208,7 @@
       "price": 10,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937802+00:00",
+      "last_update": "2026-11-02T10:43:20.768663+00:00",
       "live_chips": [
         {
           "event_no": 98,
@@ -225,7 +225,7 @@
       "price": 25,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937805+00:00",
+      "last_update": "2026-11-02T10:43:20.768664+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -248,7 +248,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937822+00:00",
+      "last_update": "2026-11-02T10:43:20.768677+00:00",
       "live_chips": [
         {
           "event_no": 99,
@@ -271,7 +271,7 @@
       "price": 5,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937828+00:00",
+      "last_update": "2026-11-02T10:43:20.768680+00:00",
       "live_chips": [
         {
           "event_no": 100,
@@ -294,7 +294,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937832+00:00",
+      "last_update": "2026-11-02T10:43:20.768683+00:00",
       "live_chips": [
         {
           "event_no": 23337,
@@ -311,7 +311,7 @@
       "price": 15,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937839+00:00",
+      "last_update": "2026-11-02T10:43:20.768687+00:00",
       "live_chips": [
         {
           "event_no": 46600,
@@ -328,7 +328,7 @@
       "price": 20,
       "points": 0,
       "events": [],
-      "last_update": "2026-11-02T02:10:58.937845+00:00",
+      "last_update": "2026-11-02T10:43:20.768690+00:00",
       "live_chips": [
         {
           "event_no": 46600,
